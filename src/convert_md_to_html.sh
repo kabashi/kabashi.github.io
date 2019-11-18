@@ -13,7 +13,7 @@ do
 	TIMESTAMP=$(date --iso-8601=date -r $f)
     fi
     echo -e "<footer>\n  Last modified: $TIMESTAMP.\n</footer>" > "$AFTER_BODY"
-    LANG=en_US.UTF-8 pandoc -f markdown -t html5 --template template.html5 --filter pandoc-citeproc --standalone --include-before-body "$BEFORE_BODY" --include-after-body "$AFTER_BODY" --css proisl.css -o ../"$name".html "$f"
+    LANG=en_US.UTF-8 pandoc -f markdown -t html5 --template template.html5 --filter pandoc-citeproc --standalone --include-before-body "$BEFORE_BODY" --include-after-body "$AFTER_BODY" --css kabashi.css -o ../"$name".html "$f"
 done
 
 rm "$AFTER_BODY"
