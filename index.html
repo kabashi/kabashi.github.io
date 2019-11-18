@@ -1,64 +1,92 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <meta name="author" content="Besim Kabashi">
-  <title>Welcome</title>
+  <title>Besim Kabashi – Welcome /</title>
   <style type="text/css">code{white-space: pre;}</style>
-  <link rel="stylesheet" href="kabashi.css">
+  <link rel="stylesheet" href="proisl.css">
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
 </head>
 <body>
-<script src="jquery-3.2.1.min.js" type="text/javascript"></script>
+<script src="jquery-3.3.1.min.js" type="text/javascript"></script>
 <script type="text/javascript">
   $(function(){
-  var url = window.location.href;
-  if (url == "http://besim-kabashi.net/" || url == "http://besim-kabashi.net") {
-    url = "http://besim-kabashi.net/index.html"
-  }
+    var url = window.location.href;
+    if (url == "https://besim-kabashi.net/" || url == "https://besim-kabashi.net") {
+      url = "https://besim-kabashi.net/index.html"
+    }
+    url = url.replace(/#.+$/, "");
     $("nav a").each(function() {
       if (url == (this.href)) {
         $(this).addClass("current");
       }
     });
+    $("#topnav_id").attr("class", "topnav_js");
+    $("#menu_link_id").attr("class", "menu_link_js");
   });
+  /* Add/remove the "responsive" class when clicking on the menu icon */
+  function toggle_nav() {
+    var navi = document.getElementById("topnav_id");
+    if (navi.className === "topnav_js") {
+      navi.className += " responsive";
+    } else {
+      navi.className = "topnav_js";
+    }
+  } 
 </script>
 
-<header class="navigation">
-  <h1><a href="http://besim-kabashi.net">Besim Kabashi</a></h1>
-  <nav>
-    <a href="index.html">Home</a>
-    <a>Research</a>
-    <a>Projects</a>
-    <a>Teaching</a>
-    <a>Publications</a>
-  </nav>
-</header>
 <header>
-<h1 class="title">Welcome</h1>
-<h2 class="author">Besim Kabashi</h2>
+  <h1>
+    <a href="https://besim-kabashi.net">Besim Kabashi</a>
+    <a href="javascript:void(0);" class="menu_link" id="menu_link_id" onclick="toggle_nav()">
+      <img src="menu_icon.svg" alt="menu button" id="menu_icon"/>
+    </a>
+  </h1>
 </header>
-<p>I am a researcher at the <a href="http://www.linguistik.fau.de">Professur für Korpuslinguistik</a> of the <a href="http://www.fau.de">FAU Erlangen-Nürnberg</a>.</p>
-
+<nav class="topnav" id="topnav_id">
+  <a href="index.html">Home</a>
+  <a>Research</a>
+  <a href="publications.html">Publications</a>
+  <a>Resources</a>
+  <a">Teaching</a>
+</nav>
+<main>
+<!-- <header> -->
+<h1 class="title">Welcome /</h1>
+<!--  -->
+<!-- <h2 class="author">Besim Kabashi</h2> -->
+<!--  -->
+<!--  -->
+<!-- </header> -->
+<p><img src="img/besim_kabashi.jpg" alt="Besim Kabashi" id="portrait" /> I am a computational linguist working as a postdoctoral researcher at the <a href="https://www.linguistik.fau.de">Chair for Corpus and Computational Linguistics</a> of the <a href="https://www.fau.de">FAU Erlangen-Nürnberg</a>.</p>
+<p>Feel free to browse these pages to learn more about my research and teaching activities.</p>
 <h2 id="contact">Contact</h2>
 <p>Dr. Besim Kabashi<br />
-  Friedrich-Alexander-Universität Erlangen-Nürnberg<br />
-  Professur für Korpuslinguistik<br />
-  Bismarckstr. 6, 91054 Erlangen, Germany</p>
-<p>E-Mail: besim.kabashi@fau.de<br />
-  Phone: +49 9131 85 29252<br />
-  Fax: +49 9131 85 29251</p>
-<p><a href="https://github.com/kabashi">GitHub</a> · <a href="https://www.linkedin.com/in/besim-kabashi-98552a/">LinkedIn</a> · <a href="https://www.researchgate.net/profile/Besim_Kabashi">ResearchGate</a> </p>
+Friedrich-Alexander-Universität Erlangen-Nürnberg<br />
+Lehrstuhl für Korpus- und Computerlinguistik<br />
+Bismarckstr. 6<br />
+91054 Erlangen<br />
+Germany</p>
+<p>E-mail: <script type="text/javascript">
+<!--
+h='&#102;&#x61;&#x75;&#46;&#100;&#x65;';a='&#64;';n='&#98;&#x65;&#x73;&#x69;&#x6d;&#46;&#x6b;&#x61;&#98;&#x61;&#x73;&#104;&#x69;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#98;&#x65;&#x73;&#x69;&#x6d;&#46;&#x6b;&#x61;&#98;&#x61;&#x73;&#104;&#x69;&#32;&#x61;&#116;&#32;&#102;&#x61;&#x75;&#32;&#100;&#x6f;&#116;&#32;&#100;&#x65;</noscript><br />
+Phone: +49 9131 85-29252<br />
+Fax: +49 9131 85-29251</p>
+<p><a href="https://github.com/kabashi">GitHub</a> · <a href="https://www.linkedin.com/in/besim-kabashi-98552a/">LinkedIn</a> · <a href="https://scholar.google.com/citations?hl=en&amp;user=8KqEl74AAAAJ">Google Scholar</a></p>
 <!-- ## News ## -->
 <div id="refs" class="references">
 
 </div>
 <footer>
-  © Besim Kabashi, 2017.
+  Last modified: .
 </footer>
 </body>
 </html>
