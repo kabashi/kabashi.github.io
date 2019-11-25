@@ -40,5 +40,8 @@ CQPweb, a web-based corpus analysis system, to explore the corpus
 data.
 
 ### Buzuku (1555) Corpus ###
+
 The Buzuku Corpus contains the text of  "Missale" (1555) from Gjon Buzuku.
 The corpus is not annotated.
+
+<!-- ## News ## -->
