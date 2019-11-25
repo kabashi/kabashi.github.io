@@ -1,5 +1,5 @@
 ---
-title: Teaching (in German, in English and in Albanian) 
+title: Teaching 
 title-prefix: Besim Kabashi
 author: Besim Kabashi
 lang: en
