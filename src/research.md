@@ -17,10 +17,10 @@ linguistic resources such as a part-of-speech tagset for Albanian.
 
 ## Language technology ##
 
-I have a strong interest in natural language processing (NLP). So far,
-I have been active in the following areas: tokenization,
-part-of-speech tagging, unsupervised dependency parsing, semantic
-similarity, implicit emotion recognition and sentiment analysis. 
+I have an interest in natural language processing (NLP). So far, I
+have been active in the following areas: tokenization, computational
+morphology, part-of-speech tagging, sentiment analysis, semantic
+similarity, and implicit emotion recognition.
 
 
 ### Key publications ###
@@ -35,9 +35,7 @@ similarity, implicit emotion recognition and sentiment analysis.
 
 I am a member in the [Interdisciplinary Centre for Research on
 Lexicography, Valency and
-Collocation](http://www.lexi.uni-erlangen.de)
-and in the
-[Interdisciplinary Centre for Digital Humanities](http://izdigital.fau.de).
+Collocation](http://www.lexi.uni-erlangen.de).
 
 
 ### Key publications ###
@@ -46,9 +44,12 @@ and in the
 
 - [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib), [pdf](pdf/proisl_et_al_2017_tiad.pdf)]
 
-- [@Proisl_Kabashi_LREC:2010] [[bib](bib/Proisl_Kabashi_LREC:2010.bib), [pdf](pdf/proisl_kabashi_2010_lrec.pdf)]
+- [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/kabashi_2007_PronominalClitics.pdf)]
 
-- [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/Kabashi_PronominalClitics_2007.pdf)]
+
+I am also a member in the [Interdisciplinary Centre for Digital
+Humanities](http://izdigital.fau.de).
+
 
 
 <!-- ## News ## -->

@@ -34,17 +34,38 @@ csl: chicago-author-date.csl
 
 <!-- Proisl et al. NSURL -->
 - [@Kabashi_eLex:2019] [[bib](bib/Kabashi_eLex:2019.bib), [pdf](pdf/kabashi_2019_eLex.pdf)]
+
 - [@Proisl_et_al_IEST:2018] [[bib](bib/Proisl_et_al_IEST:2018.bib), [pdf](pdf/proisl_et_al_2018_iest.pdf)]
+
 - [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/kabashi_proisl_2018_lrec.pdf)]
+
+- [@Kabashi_Neologjizmat:2018] [[bib](bib/Kabashi_Neologjizmat:2018.bib), [pdf](pdf/kabashi_2018_Neologjizmat.pdf)]
+
 - [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib), [pdf](pdf/proisl_et_al_2017_tiad.pdf)]
+
 - [@Kabashi_Proisl_LREC:2016] [[bib](bib/Kabashi_Proisl_LREC:2016.bib), [pdf](pdf/kabashi_proisl_2016_lrec.pdf)]
+
 - [@Evert_et_al_SemEval:2014] [[bib](bib/Evert_et_al_SemEval:2014.bib), [pdf](pdf/evert_et_al_2014_semeval.pdf)]
+
 - [@Proisl_et_al_SemEval:2014] [[bib](bib/Proisl_et_al_SemEval:2014.bib), [pdf](pdf/proisl_et_al_2014_semeval.pdf)]
+
 - [@Greiner_et_al_StarSem:2013] [[bib](bib/Greiner_et_al_StarSem:2013.bib), [pdf](pdf/greiner_et_al_2013_starsem.pdf)]
+
 - [@Proisl_et_al_SemEval:2013] [[bib](bib/Proisl_et_al_SemEval:2013.bib), [pdf](pdf/proisl_et_al_2013_semeval.pdf)]
+
+- [@Kabashi_Korpuse:2012] [[bib](bib/Kabashi_Korpuse:2012.bib), [pdf](pdf/kabashi_2012_Korpuse.pdf)]
+
+- [@Kabashi_Standardi:2011] [[bib](bib/Kabashi_Standardi:2011.bib), [pdf](pdf/kabashi_2011_Standardi.pdf)]
+
 - [@Proisl_Kabashi_LREC:2010] [[bib](bib/Proisl_Kabashi_LREC:2010.bib), [pdf](pdf/proisl_kabashi_2010_lrec.pdf)]
-- [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/Kabashi_PronominalClitics_2007.pdf)]
-- [@Kabashi_Modelimi:2005] [[bib](bib/Kabashi_Modelimi:2005.bib), [pdf](pdf/Kabashi_Modelimi_2005.pdf)]
+
+- [@Kabashi_Alphabet:2009] [[bib](bib/Kabashi_Alphabet:2009.bib), [pdf](pdf/kabashi_2009_Alphabet.pdf)]
+
+- [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/kabashi_2007_PronominalClitics.pdf)]
+
+- [@Kabashi_Modelimi:2005] [[bib](bib/Kabashi_Modelimi:2005.bib), [pdf](pdf/kabashi_2005_Modelimi.pdf)]
+
+- [@Kabashi_Analiza:2004] [[bib](bib/Kabashi_Analiza:2004.bib), [pdf](pdf/kabashi_2004_Analiza.pdf)]
 
 
 ## Editions ##
@@ -58,8 +79,12 @@ csl: chicago-author-date.csl
 
 ## Talks and presentations ##
 
+
 <!-- Kabashi et al. APCLA -->
+
 - [@Blombach_et_al_KONVENS:2019] [[bib](bib/Blombach_et_al_KONVENS:2019.bib)]
+
+- [@Proisl_et_al_ANSC:2019] [[bib](bib/Proisl_et_al_ANSC:2019.bib)]
 
 
 <!-- ## News ## -->

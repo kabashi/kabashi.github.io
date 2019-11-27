@@ -7,7 +7,7 @@ lang: en
 
 I am a computational linguist working as a postdoctoral researcher at the
 [Chair for Corpus and Computational
-Linguistics](https://www.linguistik.fau.de) of the [FAU
+Linguistics](https://www.linguistik.fau.de) of the [Friedrich-Alexander-Universität
 Erlangen-Nürnberg](https://www.fau.de).
 
 Feel free to browse these pages.
