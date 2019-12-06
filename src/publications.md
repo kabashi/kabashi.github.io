@@ -14,9 +14,15 @@ csl: chicago-author-date.csl
 - [Editions](#editions)
 - [Talks and presentations](#talks-and-presentations)
 
--> [Google Scholar](https://scholar.google.com/citations?hl=en&user=8KqEl74AAAAJ)
+[ [FAU Current Research Information System (CRIS)](https://cris.fau.de/converis/portal/Person/104399870?auxfun=&lang=de_DE) |
+  [ACL Anthology](https://www.aclweb.org/anthology/people/b/besim-kabashi/) |
+  [Computer science bibliography](https://dblp.org/pers/hd/k/Kabashi:Besim) |
+  [Semanticscholar](https://www.semanticscholar.org/author/Besim-Kabashi/2715062) |
+  [CiteSeerx](http://citeseerx.ist.psu.edu/search?q=Besim+kabashi&submit.x=0&submit.y=0&submit=Search&sort=rlv&t=doc) |
+  [Google Scholar](https://scholar.google.com/citations?hl=en&user=8KqEl74AAAAJ) ] 
 
-   
+< ORCID identifier: 0000-0002-6759-1808 >
+
 ## Books ##
 
 <div class="cover" align="center">[![Kabashi, Besim. 2015. Automatische Verarbeitung der Morphologie des Albanischen. Erlangen: FAU University Press.](img/bk_d2015_p1_25x25.jpeg){.bookcover}](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf)</div>
@@ -68,7 +74,7 @@ csl: chicago-author-date.csl
 - [@Kabashi_Analiza:2004] [[bib](bib/Kabashi_Analiza:2004.bib), [pdf](pdf/kabashi_2004_Analiza.pdf)]
 
 
-## Editions ##
+## Edited works ##
 
 ###  [Translation Inference Across Dictionaries (TIAD), 2019](http://ceur-ws.org/Vol-2493/)  ###
 
