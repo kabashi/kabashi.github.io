@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research 
 title-prefix: Besim Kabashi
 author: Besim Kabashi
 lang: en
@@ -8,6 +8,12 @@ csl: chicago-author-date.csl
 ---
 
 I work in the area of [language technology](#language-technology).
+
+I am a member in the [Interdisciplinary Centre for Research on
+Lexicography, Valency and
+Collocation](http://www.lexi.uni-erlangen.de)
+and in the [Interdisciplinary Centre for Digital
+Humanities](http://izdigital.fau.de).
 
 Recurring key aspects of my research are:
 
@@ -30,12 +36,11 @@ similarity, and implicit emotion recognition.
 
 - [@Kabashi_Proisl_LREC:2016] [[bib](bib/Kabashi_Proisl_LREC:2016.bib), [pdf](pdf/kabashi_proisl_2016_lrec.pdf)]
 
+- [@Kabashi_Alphabet:2009] [[bib](bib/Kabashi_Alphabet:2009.bib), [pdf](pdf/kabashi_2009_alphabet.pdf)]
+
 
 ## Lexicography / Valency / Cooccurrence phenomena ##
 
-I am a member in the [Interdisciplinary Centre for Research on
-Lexicography, Valency and
-Collocation](http://www.lexi.uni-erlangen.de).
 
 
 ### Key publications ###
@@ -44,11 +49,16 @@ Collocation](http://www.lexi.uni-erlangen.de).
 
 - [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib), [pdf](pdf/proisl_et_al_2017_tiad.pdf)]
 
-- [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/kabashi_2007_PronominalClitics.pdf)]
+- [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/kabashi_2007_clitics.pdf)]
 
 
-I am also a member in the [Interdisciplinary Centre for Digital
-Humanities](http://izdigital.fau.de).
+
+# Projects #
+
+I am working (part time) on the [DFG-Projekt "Digitales
+philologisch-etymologisches Wörterbuch des Altalbanischen
+(15.-18. Jh.)"](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html)
+at the [Ludwig-Maximilians-Universität München](https://www.uni-muenchen.de/).
 
 
 

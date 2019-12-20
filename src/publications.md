@@ -31,21 +31,24 @@ csl: chicago-author-date.csl
 
 ## Journal articles ##
 
-- [@Kabashi_Lexicographica:2018] [[bib](bib/Kabashi_Lexicographica:2018.bib), [pdf](pdf/Kabashi_Lexicographica_2018.pdf)]
+- [@Kabashi_Lexicographica:2018] [[bib](bib/Kabashi_Lexicographica:2018.bib), [pdf](pdf/kabashi_2018_Lexicon.pdf)]
 
-- [@Kabashi_AlCo:2017] [[bib](bib/Kabashi_AlCo:2017.bib), [pdf](pdf/Kabashi_AlCo_2017.pdf)]
+- [@Kabashi_AlCo:2017] [[bib](bib/Kabashi_AlCo:2017.bib), [pdf](pdf/kabashi_2017_AlCo.pdf)]
 
 
 ## Articles in conference proceedings and collections ##
 
 <!-- Proisl et al. NSURL -->
+
+- [@Blombach_et_al_KONVENS:2019] [[bib](bib/Blombach_et_al_KONVENS2019GerReddit:2019.bib), [pdf](pdf/blombach_et_al_2019_reddit_konvens.pdf)]
+
 - [@Kabashi_eLex:2019] [[bib](bib/Kabashi_eLex:2019.bib), [pdf](pdf/kabashi_2019_eLex.pdf)]
 
 - [@Proisl_et_al_IEST:2018] [[bib](bib/Proisl_et_al_IEST:2018.bib), [pdf](pdf/proisl_et_al_2018_iest.pdf)]
 
 - [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/kabashi_proisl_2018_lrec.pdf)]
 
-- [@Kabashi_Neologjizmat:2018] [[bib](bib/Kabashi_Neologjizmat:2018.bib), [pdf](pdf/kabashi_2018_Neologjizmat.pdf)]
+- [@Kabashi_Neologjizmat:2018] [[bib](bib/Kabashi_Neologjizmat:2018.bib)]
 
 - [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib), [pdf](pdf/proisl_et_al_2017_tiad.pdf)]
 
@@ -59,19 +62,23 @@ csl: chicago-author-date.csl
 
 - [@Proisl_et_al_SemEval:2013] [[bib](bib/Proisl_et_al_SemEval:2013.bib), [pdf](pdf/proisl_et_al_2013_semeval.pdf)]
 
-- [@Kabashi_Korpuse:2012] [[bib](bib/Kabashi_Korpuse:2012.bib), [pdf](pdf/kabashi_2012_Korpuse.pdf)]
+- [@Kabashi_Korpuse:2012] [[bib](bib/Kabashi_Korpuse:2012.bib), [pdf](pdf/kabashi_2012_korpuse.pdf)]
 
-- [@Kabashi_Standardi:2011] [[bib](bib/Kabashi_Standardi:2011.bib), [pdf](pdf/kabashi_2011_Standardi.pdf)]
+- [@Kabashi_Standardi:2011] [[bib](bib/Kabashi_Standardi:2011.bib), [pdf](pdf/kabashi_2011_standardi.pdf)]
 
 - [@Proisl_Kabashi_LREC:2010] [[bib](bib/Proisl_Kabashi_LREC:2010.bib), [pdf](pdf/proisl_kabashi_2010_lrec.pdf)]
 
-- [@Kabashi_Alphabet:2009] [[bib](bib/Kabashi_Alphabet:2009.bib), [pdf](pdf/kabashi_2009_Alphabet.pdf)]
+- [@Kabashi_Rrathë:2010] [[bib](bib/Kabashi_Rrathë:2010.bib), [pdf](pdf/kabashi_2010_camaj.pdf)]
 
-- [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/kabashi_2007_PronominalClitics.pdf)]
+- [@Kabashi_Resurset:2010] [[bib](bib/Kabashi_Resurset:2010.bib), [pdf](pdf/kabashi_2009_resurset.pdf)]
 
-- [@Kabashi_Modelimi:2005] [[bib](bib/Kabashi_Modelimi:2005.bib), [pdf](pdf/kabashi_2005_Modelimi.pdf)]
+- [@Kabashi_Alphabet:2009] [[bib](bib/Kabashi_Alphabet:2009.bib), [pdf](pdf/kabashi_2009_alphabet.pdf)]
 
-- [@Kabashi_Analiza:2004] [[bib](bib/Kabashi_Analiza:2004.bib), [pdf](pdf/kabashi_2004_Analiza.pdf)]
+- [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/kabashi_2007_clitics.pdf)]
+
+- [@Kabashi_Modelimi:2005] [[bib](bib/Kabashi_Modelimi:2005.bib)]
+
+- [@Kabashi_Analiza:2004] [[bib](bib/Kabashi_Analiza:2004.bib)]
 
 
 ## Edited works ##
@@ -83,10 +90,11 @@ csl: chicago-author-date.csl
 - [@Gracia_et_al_TIAD2019Results:2019] [[bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
 
 
-## Talks and presentations ##
+## Recent talks and presentations ##
 
 
 <!-- Kabashi et al. APCLA -->
+
 
 - [@Blombach_et_al_KONVENS:2019] [[bib](bib/Blombach_et_al_KONVENS:2019.bib)]
 
