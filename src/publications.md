@@ -11,14 +11,14 @@ csl: chicago-author-date.csl
 - [Books](#books)
 - [Journal articles](#journal-articles)
 - [Articles in conference proceedings and collections](#articles-in-conference-proceedings-and-collections)
-- [Editions](#editions)
+- [Editorships](#editorships)
 - [Talks and presentations](#talks-and-presentations)
 
 [ [FAU Current Research Information System (CRIS)](https://cris.fau.de/converis/portal/Person/104399870?auxfun=&lang=de_DE) |
-  [ACL Anthology](https://www.aclweb.org/anthology/people/b/besim-kabashi/) |
+  [ACL Anthology](https://www.aclweb.org/anthology/people/b/besim-kabashi) |
   [Computer science bibliography](https://dblp.org/pers/hd/k/Kabashi:Besim) |
   [Semanticscholar](https://www.semanticscholar.org/author/Besim-Kabashi/2715062) |
-  [CiteSeerx](http://citeseerx.ist.psu.edu/search?q=Besim+kabashi&submit.x=0&submit.y=0&submit=Search&sort=rlv&t=doc) |
+  [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36608230200) |
   [Google Scholar](https://scholar.google.com/citations?hl=en&user=8KqEl74AAAAJ) ] 
 
 < ORCID identifier: 0000-0002-6759-1808 >
@@ -31,7 +31,7 @@ csl: chicago-author-date.csl
 
 ## Journal articles ##
 
-- [@Kabashi_Lexicographica:2018] [[bib](bib/Kabashi_Lexicographica:2018.bib), [pdf](pdf/kabashi_2018_Lexicon.pdf)]
+- [@Kabashi_Lexicographica:2018] [[bib](bib/Kabashi_Lexicographica:2018.bib)]
 
 - [@Kabashi_AlCo:2017] [[bib](bib/Kabashi_AlCo:2017.bib), [pdf](pdf/kabashi_2017_AlCo.pdf)]
 
@@ -42,7 +42,7 @@ csl: chicago-author-date.csl
 
 - [@Blombach_et_al_KONVENS:2019] [[bib](bib/Blombach_et_al_KONVENS2019GerReddit:2019.bib), [pdf](pdf/blombach_et_al_2019_reddit_konvens.pdf)]
 
-- [@Kabashi_eLex:2019] [[bib](bib/Kabashi_eLex:2019.bib), [pdf](pdf/kabashi_2019_eLex.pdf)]
+- [@Kabashi_eLex:2019] [[bib](bib/Kabashi_eLex:2019.bib)]
 
 - [@Proisl_et_al_IEST:2018] [[bib](bib/Proisl_et_al_IEST:2018.bib), [pdf](pdf/proisl_et_al_2018_iest.pdf)]
 
@@ -81,7 +81,7 @@ csl: chicago-author-date.csl
 - [@Kabashi_Analiza:2004] [[bib](bib/Kabashi_Analiza:2004.bib)]
 
 
-## Edited works ##
+## Editorships ##
 
 ###  [Translation Inference Across Dictionaries (TIAD), 2019](http://ceur-ws.org/Vol-2493/)  ###
 

@@ -53,13 +53,5 @@ similarity, and implicit emotion recognition.
 
 
 
-# Projects #
-
-I am working (part time) on the [DFG-Projekt "Digitales
-philologisch-etymologisches Wörterbuch des Altalbanischen
-(15.-18. Jh.)"](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html)
-at the [Ludwig-Maximilians-Universität München](https://www.uni-muenchen.de/).
-
-
 
 <!-- ## News ## -->

@@ -20,7 +20,7 @@ See the data set (and the description) on [GitHub](https://github.com/fau-klue/e
 
 ## Corpora ##
 
-### AlCo Corpus ###
+### Albanian Corpus (AlCo) ###
 
 The Albanian Corpus (AlCo) contains a hundred million word tokens
 (text words), the first Albanian corpus of this size. The corpus
@@ -32,7 +32,7 @@ corpus is annotated with a morpho-syntactic tagset of 77 tags, since
 the corpus data.
 
 
-### AlCoPress (2017-2019) Corpus ###
+### AlCoPress (2017-2019) ###
 
 The Albanian Corpus of Press Texts (AlCo) contains around 32 million
 word tokens (text words). The corpus is annotated like AlCo. We use

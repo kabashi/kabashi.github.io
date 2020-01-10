@@ -7,6 +7,9 @@ bibliography: kabashi_bibliography.bib
 csl: chicago-author-date.csl
 ---
 
+- [TIAD 2019 @ LDK 2019](#The 2nd “Translation Inference Across Dictionaries” (TIAD) @ LDK 2019)
+- [TIAD 2020 as GlobaLex Track 2 @ LREC 2020](#[The 3rd “Translation Inference Across Dictionaries” (TIAD)])
+
 ### The 2nd “Translation Inference Across Dictionaries” (TIAD) @ LDK 2019 ###
 
 The second shared task for “Translation Inference Across Dictionaries”
