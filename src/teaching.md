@@ -56,6 +56,11 @@ lang: en
 
 
 
+## Computational Lexicography (UCS, S. de Compostela) ##
+
+- Erasmus Mundus "European Master in Lexicography (EMLex)": Computational Lexicography. (Winter/Spring 2020).
+
+
 <!-- ## Supervised theses ## -->
 
 <!-- ### Master's theses ### -->

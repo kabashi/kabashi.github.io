@@ -12,7 +12,8 @@ csl: chicago-author-date.csl
 - [Journal articles](#journal-articles)
 - [Articles in conference proceedings and collections](#articles-in-conference-proceedings-and-collections)
 - [Editorships](#editorships)
-- [Talks and presentations](#talks-and-presentations)
+- [Guidelines](#guidelines)
+- [Recent talks and presentations](#recent-talks-and-presentations)
 
 [ [FAU Current Research Information System (CRIS)](https://cris.fau.de/converis/portal/Person/104399870?auxfun=&lang=de_DE) |
   [ACL Anthology](https://www.aclweb.org/anthology/people/b/besim-kabashi) |
@@ -23,11 +24,13 @@ csl: chicago-author-date.csl
 
 < ORCID identifier: 0000-0002-6759-1808 >
 
+
 ## Books ##
 
 <div class="cover" align="center">[![Kabashi, Besim. 2015. Automatische Verarbeitung der Morphologie des Albanischen. Erlangen: FAU University Press.](img/bk_d2015_p1_25x25.jpeg){.bookcover}](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf)</div>
 
 - <div class="book"><div class="bibentry">[@Kabashi:2015] [[bib](bib/Kabashi:2015.bib)]</div>
+
 
 ## Journal articles ##
 
@@ -35,10 +38,16 @@ csl: chicago-author-date.csl
 
 - [@Kabashi_AlCo:2017] [[bib](bib/Kabashi_AlCo:2017.bib), [pdf](pdf/kabashi_2017_AlCo.pdf)]
 
+- [@Proils_et_al_ANSC_LRE:2020] [[bib](bib/Proils_et_al_ANSC_LRE:2020.bib)]. In Print.
+
 
 ## Articles in conference proceedings and collections ##
 
 <!-- Proisl et al. NSURL -->
+
+- [@Proisl_et_al_EmpiriST-2_LREC:2020] [[bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)]. Accepted Paper.
+
+- [@Blombach_et_al_GeRedE-LREC:2020] [[bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)]. Accepted Paper.
 
 - [@Blombach_et_al_KONVENS:2019] [[bib](bib/Blombach_et_al_KONVENS2019GerReddit:2019.bib), [pdf](pdf/blombach_et_al_2019_reddit_konvens.pdf)]
 
@@ -88,6 +97,11 @@ csl: chicago-author-date.csl
 - [@Gracia_et_al_TIAD2019:2019] [[bib](bib/Gracia_et_al_TIAD2019:2019.bib)]
 
 - [@Gracia_et_al_TIAD2019Results:2019] [[bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
+
+
+## Guidelines ##
+
+- [@Proisl_et_al_LemmatisierungEmpiriST:2019] [[bib](bib/Proisl_et_al_LemmatisierungEmpiriST:2019.bib)] 
 
 
 ## Recent talks and presentations ##
