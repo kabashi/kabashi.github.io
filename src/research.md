@@ -47,7 +47,9 @@ similarity, and implicit emotion recognition.
 
 - [@Kabashi_eLex:2019] [[bib](bib/Kabashi_eLex:2019.bib)]
 
-- [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib), [pdf](pdf/proisl_et_al_2017_tiad.pdf)]
+- [@Gracia_et_al_TIAD2019Results:2019] [[bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
+
+- [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib)]
 
 - [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/kabashi_2007_clitics.pdf)]
 

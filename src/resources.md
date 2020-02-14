@@ -17,8 +17,8 @@ csl: chicago-author-date.csl
 
 See the data set (and the description) on [GitHub](https://github.com/fau-klue/empirist-corpus).
 
-
 ## Corpora ##
+
 
 ### Albanian Corpus (AlCo) ###
 
@@ -43,5 +43,15 @@ data.
 
 The Buzuku Corpus contains the text of  "Missale" (1555) from Gjon Buzuku.
 The corpus is not annotated.
+
+
+### GeRedE: A Corpus of German Reddit Exchanges ###
+
+GeRedE is a 270 million token German CMC corpus containing approximately 380,000 submissions and 6,800,000 comments posted on Reddit between 2010 and 2018.
+
+Created in collaboration with Andreas Blombach, Natalie Dykes, [Philipp Heinrich](https://philipp-heinrich.eu/) and [Thomas Proisl](https://thomas-proisl.de/).
+
+See the data set (and the description) on [GitHub](https://github.com/fau-klue/german-reddit-korpus).
+
 
 <!-- ## News ## -->

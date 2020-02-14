@@ -7,8 +7,8 @@ bibliography: kabashi_bibliography.bib
 csl: chicago-author-date.csl
 ---
 
-- [TIAD 2019 @ LDK 2019](#The 2nd “Translation Inference Across Dictionaries” (TIAD) @ LDK 2019)
-- [TIAD 2020 as GlobaLex Track 2 @ LREC 2020](#[The 3rd “Translation Inference Across Dictionaries” (TIAD)])
+- [TIAD 2019 @ LDK 2019](#the-2nd-translation-inference-across-dictionaries-tiad-ldk-2019)
+- [TIAD 2020 as GlobaLex Track 2 @ LREC 2020](#the-3rd-translation-inference-across-dictionaries-tiad-lrec-2020)
 
 ### The 2nd “Translation Inference Across Dictionaries” (TIAD) @ LDK 2019 ###
 
@@ -22,10 +22,10 @@ Aviv, Israel.
 -> [TIAD 2 – Proceedings](http://ceur-ws.org/Vol-2493/)
 
 
-### [The 3rd “Translation Inference Across Dictionaries” (TIAD)](https://tiad2020.unizar.es/) @ LREC 2020 ###
+### The 3rd “Translation Inference Across Dictionaries” (TIAD) @ LREC 2020 ###
 
-The third shared task for “Translation Inference Across Dictionaries”
-(TIAD 2020): Linking Bilingual and Multilingual Lexicographic
+[The third shared task for “Translation Inference Across Dictionaries”
+(TIAD 2020)](https://tiad2020.unizar.es/): Linking Bilingual and Multilingual Lexicographic
 Resources, as Track 2 of [GlobaLex 2020 Workshop: Linked
 Lexicography](https://globalex.link/events/workshops/globalex-workshop-2020/)
 @ [LREC

@@ -3,15 +3,24 @@ title: Teaching
 title-prefix: Besim Kabashi
 author: Besim Kabashi
 lang: en
+bibliography: kabashi_bibliography.bib
+csl: chicago-author-date.csl
 ---
 
-## Corpus and Computational Linguistics (FAU, Erlangen) ##
 
-- The Corpus Linguist’s Essential Toolbox. (Übung, Sommer 2015, Sommer 2016, Sommer 2017, Sommer 2018, Sommer 2019).
-- Grundlagen der Computerlinguistik 2. (Vorlesung, Sommer 2019).
+- [Corpus and Computational Linguistics, FAU Erlangen](#corpus-and-computational-linguistics-fau-erlangen)
+- [Computational Linguistics, UT Tirana](#computational-linguistics-ut-tirana)
+- [Albanian Linguistics, LMU Munich](#albanian-linguistics-lmu-munich)
+- [Computational Lexicography, USC Santiago de Compostela](#computational-lexicography-usc-santiago-de-compostela)
+
+
+## Corpus and Computational Linguistics, FAU Erlangen ##
+
+- The Corpus Linguist’s Essential Toolbox. (Übung, Sommer 2015, Sommer 2016, Sommer 2017, Sommer 2018, Sommer 2019, Sommer 2020).
+- Grundlagen der Computerlinguistik 2. (Vorlesung, Sommer 2019, Sommer 2020).
 - Grundlagen der Computerlinguistik 1. (Vorlesung, Winter 2016/-7, Winter 2018/-9, Winter 2019/-20). 
 - Aufbaukurs Programmierung in Python für Computerlinguisten. (Programmierkurs, Winter 2018/-9, Winter 2019/-20).
-- Grundkurs Programmierung in Python für Computerlinguisten. (Programmierkurs, Sommer 2018).
+- Grundkurs Programmierung in Python für Computerlinguisten. (Programmierkurs, Sommer 2018, Sommer 2020).
 - Übung zur Grundlagen der Computerlinguistik 2. (Übung, Sommer 2017). 
 - Korpusbasierte Computerlexikographie. (Hauptseminar, Winter 2016/-7). 
 - Werkzeuge und Arbeitstechniken der Computerlinguistik. (Übung, Winter 2016/-7). 
@@ -37,17 +46,14 @@ lang: en
 - Computerlexikographie. (Proseminar, Winter 2004/-5).
 
 
-
-
-## Computational Linguistics (UT, Tiranë) ##
+## Computational Linguistics, UT Tirana ##
 
 - Hyrje në gjuhësi kompjuterike, me ushtrime [= Introduction to Computational Linguistics, with exercises]. (2009, 2010, 2011).
 
 
+## Albanian Linguistics, LMU Munich ##
 
-
-## Albanian Linguistics (LMU, München) ##
-
+- Syntaktischer Aufbau des Albanischen. (Seminar, Sommer 2020). 
 - Morphologischer Aufbau des Albanischen. (Seminar, Winter 2019/-20). 
 - Einführung in die Albanologie. (Einführungskurs, Winter 2017/-18 Blockseminar, Winter 2018/-9, Winter 2019/-20).
 - Neologismen in der aktuellen albanischen Presse – eine korpusbasierte Untersuchung. (Blockseminar, Sommer 2016). 
@@ -55,22 +61,9 @@ lang: en
 - Der Verbalkomplex im Albanischen. (Proseminar, Winter 2004/-5). 
 
 
+## Computational Lexicography, USC Santiago de Compostela ##
 
-## Computational Lexicography (UCS, S. de Compostela) ##
+- Computational Lexicography; Erasmus Mundus "European Master in Lexicography (EMLex)". (Winter/Spring 2020).
 
-- Erasmus Mundus "European Master in Lexicography (EMLex)": Computational Lexicography. (Winter/Spring 2020).
-
-
-<!-- ## Supervised theses ## -->
-
-<!-- ### Master's theses ### -->
-
-<!--   X Y (2019) -->
-    
-<!--   Supervisor: -->
-
-<!-- ### Bachelor's theses ### -->
-
-<!--   * X Y (2019)  -->
 
 <!-- ## News ## -->

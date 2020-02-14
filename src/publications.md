@@ -38,16 +38,22 @@ csl: chicago-author-date.csl
 
 - [@Kabashi_AlCo:2017] [[bib](bib/Kabashi_AlCo:2017.bib), [pdf](pdf/kabashi_2017_AlCo.pdf)]
 
-- [@Proils_et_al_ANSC_LRE:2020] [[bib](bib/Proils_et_al_ANSC_LRE:2020.bib)]. In Print.
+- [@Proisl_et_al_ANSC_LRE:2020] [[bib](bib/Proisl_et_al_ANSC_LRE:2020.bib)], In preparation.
 
 
 ## Articles in conference proceedings and collections ##
 
-<!-- Proisl et al. NSURL -->
+- [@Proisl_et_al_EmpiriST-2_LREC:2020] [[bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)], Accepted paper.
 
-- [@Proisl_et_al_EmpiriST-2_LREC:2020] [[bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)]. Accepted Paper.
+- [@Blombach_et_al_GeRedE-LREC:2020] [[bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)], Accepted paper.
 
-- [@Blombach_et_al_GeRedE-LREC:2020] [[bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)]. Accepted Paper.
+- [@Kabashi_et_al_Word-lists:2020] [[bib](bib/Kabashi_et_al_Word-lists:2020.bib)], Accepted poster.
+
+- [@Proisl_et_al_EmpiriST2_DGfS:2020] [[bib](bib/Proisl_et_al_EmpiriST2_DGfS:2020.bib), [pdf](pdf/proisl_et_al_2020-dgfs.pdf)].
+
+- [@Kabashi_Diachronic_Corpora:2020] [[bib](bib/Kabashi_Diachronic_Corpora:2020.bib)].
+
+- [@Proisl_et_al_The_Illiterati:2019] [[bib](bib/Proisl_et_al_The_Illiterati:2019.bib)]. 
 
 - [@Blombach_et_al_KONVENS:2019] [[bib](bib/Blombach_et_al_KONVENS2019GerReddit:2019.bib), [pdf](pdf/blombach_et_al_2019_reddit_konvens.pdf)]
 
