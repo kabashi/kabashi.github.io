@@ -34,11 +34,11 @@ csl: chicago-author-date.csl
 
 ## Journal articles ##
 
+- [@Proisl_et_al_ANSC_LRE:2020] [[bib](bib/Proisl_et_al_ANSC_LRE:2020.bib)], In preparation.
+
 - [@Kabashi_Lexicographica:2018] [[bib](bib/Kabashi_Lexicographica:2018.bib)]
 
 - [@Kabashi_AlCo:2017] [[bib](bib/Kabashi_AlCo:2017.bib), [pdf](pdf/kabashi_2017_AlCo.pdf)]
-
-- [@Proisl_et_al_ANSC_LRE:2020] [[bib](bib/Proisl_et_al_ANSC_LRE:2020.bib)], In preparation.
 
 
 ## Articles in conference proceedings and collections ##
