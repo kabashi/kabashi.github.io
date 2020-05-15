@@ -18,6 +18,8 @@ csl: chicago-author-date.csl
 
 -> [TIAD 3 – Baseline Word2Vec](https://github.com/kabashi/TIAD2020_word2vec).
 
+-> [GlobaLex 2020 Proceedings (incl. TIAD)](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/GLOBALEX2020book.pdf)
+
 ### The 2nd “Translation Inference Across Dictionaries” (TIAD) @ LDK 2019 ###
 
 The second shared task for “Translation Inference Across Dictionaries” (TIAD 2019).  In conjunction with the second conference on [“Language, Data and Knowledge (LDK 2019)”](http://2019.ldk-conf.org/) in Leipzig, Germany, on May 20, 2019. Organized in cooperation with Jorge Gracia, Universidad de Zaragoza, Spain and Ilan Kernerman, K Dictionaries, Tel Aviv, Israel.
