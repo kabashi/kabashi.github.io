@@ -24,7 +24,10 @@ Spain.
 
 -> [TIAD 3 – Baseline Word2Vec](https://github.com/kabashi/TIAD2020_word2vec).
 
+<<<<<<< HEAD
 -> [GlobaLex 2020 Proceedings (incl. TIAD Track)](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/GLOBALEX2020book.pdf).
+=======
+>>>>>>> 4fb709ab43fde39e2c89e64b49876bd6f9208fef
 
 ### The 2nd “Translation Inference Across Dictionaries” (TIAD) @ LDK 2019 ###
 
