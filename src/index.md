@@ -15,15 +15,15 @@ Feel free to browse these pages.
 
 ### Contact ###
 
-Dr.-Ing. Besim Kabashi \
+Dr.-Ing. Besim Kabashi\
 Friedrich-Alexander-Universität Erlangen-Nürnberg \
 Lehrstuhl für Korpus- und Computerlinguistik \
 Bismarckstr. 6 \
 91054 Erlangen \
 Germany
 
-[E-mail](mailto:besim.kabashi@fau.de) ·
-Phone: +49 9131 85-29252 ·
-Fax: +49 9131 85-29251
+[E-mail](https://univis.fau.de/) ·
+[Phone](https://univis.fau.de/) ·
+[Fax](https://univis.fau.de/) 
 
 <!-- ## News ## -->

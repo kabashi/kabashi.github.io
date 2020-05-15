@@ -64,8 +64,7 @@ csl: chicago-author-date.csl
 
 ## Computational Lexicography, USC Santiago de Compostela ##
 
-- Computational Lexicography; Erasmus Mundus "European Master in Lexicography (EMLex)". (Winter/Spring 2020). (Jointly with
-[Stefan Evert](http://www.stefan-evert.de/) and [Ulrich Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/).)
+- Computational Lexicography; Erasmus Mundus "European Master in Lexicography (EMLex)". (Winter/Spring 2020). (Jointly with [Stefan Evert](http://www.stefan-evert.de/) and [Ulrich Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/).)
 
 
 <!-- ## News ## -->
