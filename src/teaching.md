@@ -31,7 +31,8 @@ csl: chicago-author-date.csl
 - Einführung in die Grammatikentwicklung. (Übung, Sommer 2013, Sommer 2014).
 - Grundlagen der Computerlinguistik 2. (Proseminar, Sommer 2012).
 - Einführung in die maschinelle Sprachverarbeitung. (Winter 2011/-2, Winter 2012/-3, Winter 2013/-4).
-- Grundlagen der Computerlinguistik 1. (Proseminar, Winter 2011/-2).
+- Grundlagen der Computerlinguistik. (Proseminar, Winter 2011/-2).
+- Übung zum Proseminar Grundlagen der Computerlinguistik. (Übung, Winter 2011/-2, Jointly with [Thomas Proisl](http://www.thomas-proisl.de/).) 
 - Übung zur Einführung in die maschinelle Sprachverarbeitung: Computerlexikographie. (Übung, Winter 2010/-1).
 - Einführung in die maschinelle Sprachverarbeitung: Computerlexikographie. (Proseminar, Sommer 2010, Winter 2010/-1).
 - Übung zur Einführung in die maschinelle Sprachverarbeitung. (Übung, Sommer 2010).
@@ -53,7 +54,7 @@ csl: chicago-author-date.csl
 
 ## Albanian Linguistics, LMU Munich ##
 
-- Syntaktischer Aufbau des Albanischen. (Seminar, Sommer 2020). 
+- Syntaktischer Aufbau des Albanischen. (Seminar, Sommer 2020). (Jointly withres [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html).)
 - Morphologischer Aufbau des Albanischen. (Seminar, Winter 2019/-20). 
 - Einführung in die Albanologie. (Einführungskurs, Winter 2017/-18 Blockseminar, Winter 2018/-9, Winter 2019/-20).
 - Neologismen in der aktuellen albanischen Presse – eine korpusbasierte Untersuchung. (Blockseminar, Sommer 2016). 
@@ -63,7 +64,8 @@ csl: chicago-author-date.csl
 
 ## Computational Lexicography, USC Santiago de Compostela ##
 
-- Computational Lexicography; Erasmus Mundus "European Master in Lexicography (EMLex)". (Winter/Spring 2020).
+- Computational Lexicography; Erasmus Mundus "European Master in Lexicography (EMLex)". (Winter/Spring 2020). (Jointly with
+[Stefan Evert](http://www.stefan-evert.de/) and [Ulrich Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/).)
 
 
 <!-- ## News ## -->

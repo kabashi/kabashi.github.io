@@ -32,15 +32,30 @@ similarity, and implicit emotion recognition.
 ### Key publications ###
 
 
-- [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/kabashi_proisl_2018_lrec.pdf)]
+- [@Kabashi_Lexicographica:2018] [[bib](bib/Kabashi_Lexicographica:2018.bib)]
 
-- [@Kabashi_Proisl_LREC:2016] [[bib](bib/Kabashi_Proisl_LREC:2016.bib), [pdf](pdf/kabashi_proisl_2016_lrec.pdf)]
+- [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/kabashi_proisl_2018_lrec.pdf)]
 
 - [@Kabashi_Alphabet:2009] [[bib](bib/Kabashi_Alphabet:2009.bib), [pdf](pdf/kabashi_2009_alphabet.pdf)]
 
 
-## Lexicography / Valency / Cooccurrence phenomena ##
 
+
+## Corpus Linguistics ##
+
+
+### Key publications ###
+
+- [@Proisl_et_al_EmpiriST-2_LREC:2020] [[bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)].
+
+- [@Blombach_et_al_GeRedE-LREC:2020] [[bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)].
+
+- [@Kabashi_AlCo:2017] [[bib](bib/Kabashi_AlCo:2017.bib), [pdf](pdf/kabashi_2017_AlCo.pdf)]
+
+
+
+
+## Lexicography / Valency / Cooccurrence phenomena ##
 
 
 ### Key publications ###

@@ -11,8 +11,8 @@ csl: chicago-author-date.csl
 - [Books](#books)
 - [Journal articles](#journal-articles)
 - [Articles in conference proceedings and collections](#articles-in-conference-proceedings-and-collections)
-- [Editorships](#editorships)
 - [Guidelines](#guidelines)
+- [Editorships](#editorships)
 - [Recent talks and presentations](#recent-talks-and-presentations)
 
 [ [FAU Current Research Information System (CRIS)](https://cris.fau.de/converis/portal/Person/104399870?auxfun=&lang=de_DE) |
@@ -22,7 +22,7 @@ csl: chicago-author-date.csl
   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36608230200) |
   [Google Scholar](https://scholar.google.com/citations?hl=en&user=8KqEl74AAAAJ) ] 
 
-< ORCID identifier: 0000-0002-6759-1808 >
+< [ORCID identifier: 0000-0002-6759-1808](https://orcid.org/0000-0002-6759-1808) >
 
 
 ## Books ##
@@ -34,24 +34,29 @@ csl: chicago-author-date.csl
 
 ## Journal articles ##
 
+- [@Proisl_et_al_ANSC_LRE:2020] [[bib](bib/Proisl_et_al_ANSC_LRE:2020.bib)], In preparation.
+
 - [@Kabashi_Lexicographica:2018] [[bib](bib/Kabashi_Lexicographica:2018.bib)]
 
 - [@Kabashi_AlCo:2017] [[bib](bib/Kabashi_AlCo:2017.bib), [pdf](pdf/kabashi_2017_AlCo.pdf)]
 
-- [@Proisl_et_al_ANSC_LRE:2020] [[bib](bib/Proisl_et_al_ANSC_LRE:2020.bib)], In preparation.
-
 
 ## Articles in conference proceedings and collections ##
 
-- [@Proisl_et_al_EmpiriST-2_LREC:2020] [[bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)], Accepted paper.
 
-- [@Blombach_et_al_GeRedE-LREC:2020] [[bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)], Accepted paper.
+- [@Kabashi_et_al_Word-lists:2020]
+  [[Abstract](https://easychair.org/smart-program/APCLC2020/2020-02-13.html#talk:140430),
+  [bib](bib/Kabashi_et_al_Word-lists:2020.bib)].
 
-- [@Kabashi_et_al_Word-lists:2020] [[bib](bib/Kabashi_et_al_Word-lists:2020.bib)], Accepted poster.
+- [@Proisl_et_al_EmpiriST-2_LREC:2020] [[bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)].
+
+- [@Blombach_et_al_GeRedE-LREC:2020] [[bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)].
 
 - [@Proisl_et_al_EmpiriST2_DGfS:2020] [[bib](bib/Proisl_et_al_EmpiriST2_DGfS:2020.bib), [pdf](pdf/proisl_et_al_2020-dgfs.pdf)].
 
 - [@Kabashi_Diachronic_Corpora:2020] [[bib](bib/Kabashi_Diachronic_Corpora:2020.bib)].
+
+
 
 - [@Proisl_et_al_The_Illiterati:2019] [[bib](bib/Proisl_et_al_The_Illiterati:2019.bib)]. 
 
@@ -59,11 +64,15 @@ csl: chicago-author-date.csl
 
 - [@Kabashi_eLex:2019] [[bib](bib/Kabashi_eLex:2019.bib)]
 
+
+
 - [@Proisl_et_al_IEST:2018] [[bib](bib/Proisl_et_al_IEST:2018.bib), [pdf](pdf/proisl_et_al_2018_iest.pdf)]
 
 - [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/kabashi_proisl_2018_lrec.pdf)]
 
 - [@Kabashi_Neologjizmat:2018] [[bib](bib/Kabashi_Neologjizmat:2018.bib)]
+
+
 
 - [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib), [pdf](pdf/proisl_et_al_2017_tiad.pdf)]
 
@@ -96,18 +105,31 @@ csl: chicago-author-date.csl
 - [@Kabashi_Analiza:2004] [[bib](bib/Kabashi_Analiza:2004.bib)]
 
 
+## Guidelines ##
+
+- [@Proisl_et_al_LemmatisierungEmpiriST:2019] [[bib](bib/Proisl_et_al_LemmatisierungEmpiriST:2019.bib)] 
+
+
+
+
 ## Editorships ##
+
+###  [Globalex Workshop on Linked Lexicography, 2020](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/GLOBALEX2020book.pdf)  ###
+
+- [@Kernerman_et_al_GlobaLex-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)]
+
+- [@Kernerman_et_al_GlobaLex-Intro-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-Intro-2020:2020.bib)]
+
 
 ###  [Translation Inference Across Dictionaries (TIAD), 2019](http://ceur-ws.org/Vol-2493/)  ###
 
 - [@Gracia_et_al_TIAD2019:2019] [[bib](bib/Gracia_et_al_TIAD2019:2019.bib)]
 
+- [@Gracia_et_al_TIAD2019-Intro:2019] [[bib](bib/Gracia_et_al_TIAD2019-Intro:2019.bib)]
+
 - [@Gracia_et_al_TIAD2019Results:2019] [[bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
 
 
-## Guidelines ##
-
-- [@Proisl_et_al_LemmatisierungEmpiriST:2019] [[bib](bib/Proisl_et_al_LemmatisierungEmpiriST:2019.bib)] 
 
 
 ## Recent talks and presentations ##
@@ -115,6 +137,7 @@ csl: chicago-author-date.csl
 
 <!-- Kabashi et al. APCLA -->
 
+- [@Proisl_et_al_EmpiriST2_DGfS:2020] [[bib](bib/Proisl_et_al_EmpiriST2_DGfS:2020.bib), [pdf](pdf/proisl_et_al_2020-dgfs.pdf)].
 
 - [@Blombach_et_al_KONVENS:2019] [[bib](bib/Blombach_et_al_KONVENS:2019.bib)]
 
