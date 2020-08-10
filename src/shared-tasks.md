@@ -22,7 +22,7 @@ csl: chicago-author-date.csl
 
 ### The 2nd “Translation Inference Across Dictionaries” (TIAD) @ LDK 2019 ###
 
-The second shared task for “Translation Inference Across Dictionaries” (TIAD 2019).  In conjunction with the second conference on [“Language, Data and Knowledge (LDK 2019)”](http://2019.ldk-conf.org/) in Leipzig, Germany, on May 20, 2019. Organized in cooperation with Jorge Gracia, Universidad de Zaragoza, Spain and Ilan Kernerman, K Dictionaries, Tel Aviv, Israel.
+[The second shared task for “Translation Inference Across Dictionaries” (TIAD 2019)](https://tiad2019.unizar.es/): In conjunction with the second conference on [“Language, Data and Knowledge (LDK 2019)”](http://2019.ldk-conf.org/) in Leipzig, Germany, on May 20, 2019. Organized in cooperation with Jorge Gracia, Universidad de Zaragoza, Spain and Ilan Kernerman, K Dictionaries, Tel Aviv, Israel.
 
 -> [TIAD 2 – Proceedings](http://ceur-ws.org/Vol-2493/)
 

@@ -8,10 +8,10 @@ csl: chicago-author-date.csl
 ---
 
 
-- [Corpus and Computational Linguistics, FAU Erlangen](#corpus-and-computational-linguistics-fau-erlangen)
-- [Computational Linguistics, UT Tirana](#computational-linguistics-ut-tirana)
-- [Albanian Linguistics, LMU Munich](#albanian-linguistics-lmu-munich)
-- [Computational Lexicography, USC Santiago de Compostela](#computational-lexicography-usc-santiago-de-compostela)
+- [Corpus and Computational Linguistics, FAU Erlangen, Germany](#corpus-and-computational-linguistics-fau-erlangen)
+- [Albanian Linguistics, LMU Munich, Germany](#albanian-linguistics-lmu-munich)
+- [Computational Linguistics, U. of Tirana, Albania](#computational-linguistics-ut-tirana)
+- [Computational Lexicography, U. of Santiago de Compostela, Spain](#computational-lexicography-usc-santiago-de-compostela)
 
 
 ## Corpus and Computational Linguistics, FAU Erlangen ##
@@ -47,14 +47,9 @@ csl: chicago-author-date.csl
 - Computerlexikographie. (Proseminar, Winter 2004/-5).
 
 
-## Computational Linguistics, UT Tirana ##
-
-- Hyrje në gjuhësi kompjuterike, me ushtrime [= Introduction to Computational Linguistics, with exercises]. (2009, 2010, 2011).
-
-
 ## Albanian Linguistics, LMU Munich ##
 
-- Syntaktischer Aufbau des Albanischen. (Seminar, Sommer 2020). (Jointly withres [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html).)
+- Syntaktischer Aufbau des Albanischen. (Seminar, Sommer 2020). (Jointly with [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html).)
 - Morphologischer Aufbau des Albanischen. (Seminar, Winter 2019/-20). 
 - Einführung in die Albanologie. (Einführungskurs, Winter 2017/-18 Blockseminar, Winter 2018/-9, Winter 2019/-20).
 - Neologismen in der aktuellen albanischen Presse – eine korpusbasierte Untersuchung. (Blockseminar, Sommer 2016). 
@@ -62,7 +57,12 @@ csl: chicago-author-date.csl
 - Der Verbalkomplex im Albanischen. (Proseminar, Winter 2004/-5). 
 
 
-## Computational Lexicography, USC Santiago de Compostela ##
+## Computational Linguistics, U. Tirana ##
+
+- Hyrje në gjuhësi kompjuterike, me ushtrime [= Introduction to Computational Linguistics, with exercises]. (2009, 2010, 2011).
+
+
+## Computational Lexicography, U. Santiago de Compostela ##
 
 - Computational Lexicography; Erasmus Mundus "European Master in Lexicography (EMLex)". (Winter/Spring 2020). (Jointly with [Stefan Evert](http://www.stefan-evert.de/) and [Ulrich Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/).)
 
