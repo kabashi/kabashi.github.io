@@ -9,7 +9,7 @@ csl: chicago-author-date.csl
 
 
 - [Books: Authored Monographs](#authored-monographs)
-- [Books: Editorships](#edited-proceedings)
+- [Books: Editorships](#co-edited-proceedings)
 - [Journal articles](#journal-articles)
 - [Articles in conference proceedings and collections](#articles-in-conference-proceedings-and-collections)
 - [Guidelines](#guidelines)
@@ -36,7 +36,7 @@ csl: chicago-author-date.csl
 
 - <div class="book"><div class="bibentry">[@Kabashi:2015] [[bib](bib/Kabashi:2015.bib)]</div>
 
-## Edited Proceedings ##
+## Co-Edited Proceedings ##
 
 ###  [Globalex Workshop on Linked Lexicography, 2020](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/)  ###
 

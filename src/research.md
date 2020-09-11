@@ -7,6 +7,11 @@ bibliography: kabashi_bibliography.bib
 csl: chicago-author-date.csl
 ---
 
+- [Language technology](#language-technology)
+- [Corpus Linguistics](#corpus-linguistics)
+- [Lexicography / Valency / Cooccurrence phenomena](#lexicography-valency-cooccurrence-phenomena)
+
+
 I work in the area of [language technology](#language-technology).
 
 I am a member in the [Interdisciplinary Centre for Research on
@@ -53,7 +58,6 @@ such for Translation Inference Across Dictionaries.
 
 
 
-
 ## Corpus Linguistics ##
 
 
@@ -64,7 +68,6 @@ such for Translation Inference Across Dictionaries.
 - [@Blombach_et_al_GeRedE-LREC:2020] [[bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)].
 
 - [@Kabashi_AlCo:2017] [[bib](bib/Kabashi_AlCo:2017.bib), [pdf](pdf/Kabashi_2017_AlCo.pdf)]
-
 
 
 
@@ -80,6 +83,7 @@ such for Translation Inference Across Dictionaries.
 - [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib)]
 
 - [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/Kabashi_2007_clitics.pdf)]
+
 
 
 
