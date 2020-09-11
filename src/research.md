@@ -13,20 +13,33 @@ I am a member in the [Interdisciplinary Centre for Research on
 Lexicography, Valency and
 Collocation](http://www.lexi.uni-erlangen.de)
 and in the [Interdisciplinary Centre for Digital
-Humanities](http://izdigital.fau.de).
+Humanities](http://izdigital.fau.de) at the [Friedrich-Alexander-Universität
+Erlangen-Nürnberg](https://www.fau.de).
+
+Also I am a member in [The Association for Computational Linguistics
+(ACL)](https://www.aclweb.org/portal/what-is-cl), in [The European
+Association for Lexicography (EURALEX)](https://euralex.org/), and in
+[The German Society for Computational Linguistics and Language
+Technology (GSCL)](https://gscl.org/).
+
+I have an interest in Human Language Processing and Technology,
+Computational Linguistics, Corpus Linguistics, Language Resources, and
+Digital Humanities. So far, I have been active in the following areas:
+Tokenization, Computational Morphology, Elecrtonic Lexicography,
+Part-of-speech Tagging, Syntax (Valency), Sentiment Analysis, Semantic
+Similarity, Implicit Emotion Recognition, and Cooccurrence Phenomena
+(Collocation).
 
 Recurring key aspects of my research are:
 
 - **Methodology and fundamentals**: Development of fundamental
-linguistic resources such as a part-of-speech tagset for Albanian.
+linguistic resources such as a part-of-speech tagset for Albanian,
+Language Corpora and Lexicons, or development of methods and
+techniques such as for Sentiment Analysis, Semantic Similarity, and
+such for Translation Inference Across Dictionaries.
 
 
 ## Language technology ##
-
-I have an interest in natural language processing (NLP). So far, I
-have been active in the following areas: tokenization, computational
-morphology, part-of-speech tagging, sentiment analysis, semantic
-similarity, and implicit emotion recognition.
 
 
 ### Key publications ###
@@ -34,9 +47,9 @@ similarity, and implicit emotion recognition.
 
 - [@Kabashi_Lexicographica:2018] [[bib](bib/Kabashi_Lexicographica:2018.bib)]
 
-- [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/kabashi_proisl_2018_lrec.pdf)]
+- [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/Kabashi_Proisl_2018_lrec.pdf)]
 
-- [@Kabashi_Alphabet:2009] [[bib](bib/Kabashi_Alphabet:2009.bib), [pdf](pdf/kabashi_2009_alphabet.pdf)]
+- [@Kabashi_Alphabet:2009] [[bib](bib/Kabashi_Alphabet:2009.bib), [pdf](pdf/Kabashi_2009_alphabet.pdf)]
 
 
 
@@ -50,7 +63,7 @@ similarity, and implicit emotion recognition.
 
 - [@Blombach_et_al_GeRedE-LREC:2020] [[bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)].
 
-- [@Kabashi_AlCo:2017] [[bib](bib/Kabashi_AlCo:2017.bib), [pdf](pdf/kabashi_2017_AlCo.pdf)]
+- [@Kabashi_AlCo:2017] [[bib](bib/Kabashi_AlCo:2017.bib), [pdf](pdf/Kabashi_2017_AlCo.pdf)]
 
 
 
@@ -66,7 +79,7 @@ similarity, and implicit emotion recognition.
 
 - [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib)]
 
-- [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/kabashi_2007_clitics.pdf)]
+- [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/Kabashi_2007_clitics.pdf)]
 
 
 

@@ -8,12 +8,12 @@ csl: chicago-author-date.csl
 ---
 
 
-- [Books/Monographs](#books-monographs)
+- [Books: Authored Monographs](#authored-monographs)
+- [Books: Editorships](#edited-proceedings)
 - [Journal articles](#journal-articles)
 - [Articles in conference proceedings and collections](#articles-in-conference-proceedings-and-collections)
 - [Guidelines](#guidelines)
-- [Editorships](#editorships)
-- [Organized Conferences](#organized-conferences)
+<!-- - [Organized Conferences](#organized-conferences) -->
 - [Talks and presentations](#talks-and-presentations)
 
 [ [FAU Current Research Information System (CRIS)](https://cris.fau.de/converis/portal/Person/104399870?auxfun=&lang=de_DE) ·
@@ -30,11 +30,21 @@ csl: chicago-author-date.csl
 <div class="cover" align="left">< [ ORCID identifier: 0000-0002-6759-1808](https://orcid.org/0000-0002-6759-1808) ></div>
 
 
-## Books / Monographs ##
+## Authored Monographs ##
 
 <div class="cover" align="center">[![Kabashi, Besim. 2015. Automatische Verarbeitung der Morphologie des Albanischen. Erlangen, Germany: FAU University Press.](img/bk_d2015_p1_25x25.jpeg){.bookcover}](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf)</div>
 
 - <div class="book"><div class="bibentry">[@Kabashi:2015] [[bib](bib/Kabashi:2015.bib)]</div>
+
+## Edited Proceedings ##
+
+###  [Globalex Workshop on Linked Lexicography, 2020](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/)  ###
+
+- [@Kernerman_et_al_GlobaLex-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)]
+
+###  [Translation Inference Across Dictionaries (TIAD), 2019](https://tiad2019.unizar.es/index.html)  ###
+
+- [@Gracia_et_al_TIAD2019:2019] [[bib](bib/Gracia_et_al_TIAD2019:2019.bib)]
 
 
 ## Journal articles ##
@@ -70,7 +80,7 @@ csl: chicago-author-date.csl
 
 - [@Proisl_et_al_The_Illiterati:2019] [[bib](bib/Proisl_et_al_The_Illiterati:2019.bib)]. 
 
-- [@Blombach_et_al_KONVENS:2019] [[pdf](pdf/blombach_et_al_2019_reddit_konvens.pdf), [bib](bib/Blombach_et_al_KONVENS2019GerReddit:2019.bib)]
+- [@Blombach_et_al_KONVENS:2019] [[pdf](pdf/Blombach_et_al_2019_reddit_konvens.pdf), [bib](bib/Blombach_et_al_KONVENS2019GerReddit:2019.bib)]
 
 - [@Gracia_et_al_TIAD2019-Intro:2019] [[bib](bib/Gracia_et_al_TIAD2019-Intro:2019.bib)]
 
@@ -104,7 +114,7 @@ csl: chicago-author-date.csl
 
 <!-- ### 2013 ### -->
 
-- [@Greiner_et_al_StarSem:2013] [[pdf](pdf/greiner_et_al_2013_starsem.pdf), [bib](bib/Greiner_et_al_StarSem:2013.bib)]
+- [@Greiner_et_al_StarSem:2013] [[pdf](pdf/Greiner_et_al_2013_starsem.pdf), [bib](bib/Greiner_et_al_StarSem:2013.bib)]
 
 - [@Proisl_et_al_SemEval:2013] [[pdf](pdf/Proisl_et_al_2013_semeval.pdf), [bib](bib/Proisl_et_al_SemEval:2013.bib)]
 
@@ -145,25 +155,14 @@ csl: chicago-author-date.csl
 
 ## Guidelines ##
 
-- [@Proisl_et_al_LemmatisierungEmpiriST:2019] [[pdf](https://github.com/fau-klue/empirist-corpus/blob/master/doc/Lemmatisierungsrichtlinien.pdf), [bib](bib/Proisl_et_al_LemmatisierungEmpiriST:2019.bib)] 
+- [@Proisl_et_al_LemmatisierungEmpiriST:2019] [[pdf](pdf/Proisl_et_al_2019_EmpiriST-Lr.pdf), [bib](bib/Proisl_et_al_LemmatisierungEmpiriST:2019.bib)] 
 
 
-## Editorships ##
+<!-- ## Organized Conferences ## -->
 
-###  [Globalex Workshop on Linked Lexicography, 2020](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/)  ###
+<!-- ###  [KONVENS 2019](https://2019.konvens.org/) ### -->
 
-- [@Kernerman_et_al_GlobaLex-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)]
-
-###  [Translation Inference Across Dictionaries (TIAD), 2019](https://tiad2019.unizar.es/index.html)  ###
-
-- [@Gracia_et_al_TIAD2019:2019] [[bib](bib/Gracia_et_al_TIAD2019:2019.bib)]
-
-
-## Organized Conferences ##
-
-###  [KONVENS 2019](https://2019.konvens.org/) ### 
-
-- [@Evert_et_al_KONVENS2019ConfOrg] [[bib](bib/Evert_et_al_KONVENS2019ConfOrg.bib)]
+<!-- - [@Evert_et_al_KONVENS2019ConfOrg] [[bib](bib/Evert_et_al_KONVENS2019ConfOrg.bib)] -->
 
 
 ## Talks and presentations ##

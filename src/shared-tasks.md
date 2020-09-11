@@ -1,11 +1,22 @@
 ---
-title: Shared tasks
+title: Organized Conferences and Shared tasks 
 title-prefix: Besim Kabashi
 author: Besim Kabashi
 lang: en
 bibliography: kabashi_bibliography.bib
 csl: chicago-author-date.csl
 ---
+
+## Co-Organized Conferences ##
+
+- [The 15th Conference on Natural Language Processing (KONVENS)](#konvens-2019)
+
+###  [KONVENS 2019](https://2019.konvens.org/) ### 
+
+[@Evert_et_al_KONVENS2019ConfOrg] [[bib](bib/Evert_et_al_KONVENS2019ConfOrg.bib)]
+
+
+## Co-Organized Shared tasks ##
 
 - [TIAD 2020 as GlobaLex Track 2 @ LREC 2020](#the-3rd-translation-inference-across-dictionaries-tiad-lrec-2020)
 - [TIAD 2019 @ LDK 2019](#the-2nd-translation-inference-across-dictionaries-tiad-ldk-2019)
