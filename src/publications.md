@@ -62,9 +62,9 @@ csl: chicago-author-date.csl
 
 - [@Kabashi_Diachronic_Corpora:2020] [[bib](bib/Kabashi_Diachronic_Corpora:2020.bib)].
 
-- [@Kabashi_et_al_Word-lists:2020]
-  [[Abstract](https://easychair.org/smart-program/APCLC2020/2020-02-13.html#talk:140430),
-  [bib](bib/Kabashi_et_al_Word-lists:2020.bib)].
+- [@Kabashi_et_al_Word-lists:2020] [[bib](bib/Kabashi_et_al_Word-lists:2020.bib)].
+
+<!--  - [@Kabashi_et_al_Word-lists:2020] [[Abstract](https://easychair.org/smart-program/APCLC2020/2020-02-13.html#talk:140430), [bib](bib/Kabashi_et_al_Word-lists:2020.bib)]. -->
 
 - [@Proisl_et_al_EmpiriST-2_LREC:2020] [[bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)].
 

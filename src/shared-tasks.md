@@ -16,7 +16,7 @@ csl: chicago-author-date.csl
 
 ### [The 15th Conference on Natural Language Processing (KONVENS)](https://2019.konvens.org/) ### 
 
-The 15th KONVENS “Bridging the gap between NLP and human understanding” October 9–11, 2019, at Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany.  Organized in cooperation with Stefan Evert (in chief), Andreas Blombach, Natalie Dykes, Paul Greiner, Tim Griebel, Philipp Heinrich, Thomas Proisl, and Tanja Schorr; Proceedings edited by The Chair of Computational Corpus Linguistics, University of Erlangen-Nuremberg; German Society for Computational Linguistics & Language Technology.
+The 15th KONVENS “Bridging the gap between NLP and human understanding”, October 9–11, 2019, at Friedrich-Alexander University of Erlangen-Nuremberg, Germany.  Organized in cooperation with Stefan Evert (in chief), Andreas Blombach, Natalie Dykes, Paul Greiner, Tim Griebel, Philipp Heinrich, Thomas Proisl, and Tanja Schorr; Proceedings edited by The Chair of Computational Corpus Linguistics, University of Erlangen-Nuremberg; German Society for Computational Linguistics & Language Technology.
 
 -> [KONVENS 2019 Proceedings](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/) [[bib](bib/Evert_et_al_KONVENS2019ConfOrg.bib)]
 

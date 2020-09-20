@@ -22,10 +22,12 @@ Humanities](http://izdigital.fau.de) at the [Friedrich-Alexander-Universität
 Erlangen-Nürnberg](https://www.fau.de).
 
 Also I am a member in [The Association for Computational Linguistics
-(ACL)](https://www.aclweb.org/portal/what-is-cl), in [The European
-Association for Lexicography (EURALEX)](https://euralex.org/), and in
-[The German Society for Computational Linguistics and Language
-Technology (GSCL)](https://gscl.org/).
+(ACL)](https://www.aclweb.org/portal/what-is-cl), in [The
+European Language Resources Association
+(ELRA)](http://www.elra.info/en/), in [The European Association for
+Lexicography (EURALEX)](https://euralex.org/), and in [The German
+Society for Computational Linguistics and Language Technology
+(GSCL)](https://gscl.org/).
 
 I have an interest in Human Language Processing and Technology,
 Computational Linguistics, Corpus Linguistics, Language Resources, and
@@ -37,11 +39,13 @@ Similarity, Implicit Emotion Recognition, and Cooccurrence Phenomena
 
 Recurring key aspects of my research are:
 
-- **Methodology and fundamentals**: Development of fundamental
-linguistic resources such as a part-of-speech tagset for Albanian,
-Language Corpora and Lexicons, or development of methods and
-techniques such as for Sentiment Analysis, Semantic Similarity, and
-such for Translation Inference Across Dictionaries.
+- **Fundamentals**: Development of fundamental linguistic resources
+such as a part-of-speech tagsets, e.g. for Albanian, Language Corpora
+and Lexicons.
+
+- **Methodology**: Development of methods and techniques such as for
+Sentiment Analysis, Semantic Similarity, and such for Translation
+Inference Across Dictionaries.
 
 
 ## Language technology ##
