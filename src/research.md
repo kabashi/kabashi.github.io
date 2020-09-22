@@ -10,6 +10,7 @@ csl: chicago-author-date.csl
 - [Language technology](#language-technology)
 - [Corpus Linguistics](#corpus-linguistics)
 - [Lexicography / Valency / Cooccurrence phenomena](#lexicography-valency-cooccurrence-phenomena)
+- [Knowledge Resources / Artificial Intelligence](#knowledge-resources-artificial-intelligence)
 
 
 I work in the area of [language technology](#language-technology).
@@ -54,9 +55,9 @@ Inference Across Dictionaries.
 ### Key publications ###
 
 
-- [@Kabashi_Lexicographica:2018] [[bib](bib/Kabashi_Lexicographica:2018.bib)]
-
 - [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/Kabashi_Proisl_2018_lrec.pdf)]
+
+- [@Handl_et_al_SFCM:2009] [[pdf](pdf/Handl_et_al_SFCM.pdf), [bib](bib/@Handl_et_al_SFCM:2009.bib)]
 
 - [@Kabashi_Alphabet:2009] [[bib](bib/Kabashi_Alphabet:2009.bib), [pdf](pdf/Kabashi_2009_alphabet.pdf)]
 
@@ -82,12 +83,22 @@ Inference Across Dictionaries.
 
 - [@Kabashi_eLex:2019] [[bib](bib/Kabashi_eLex:2019.bib)]
 
-- [@Gracia_et_al_TIAD2019Results:2019] [[bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
-
-- [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib)]
+- [@Kabashi_Lexicographica:2018] [[bib](bib/Kabashi_Lexicographica:2018.bib)]
 
 - [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/Kabashi_2007_clitics.pdf)]
 
+
+
+## Knowledge Resources / Artificial Intelligence ##
+
+
+### Key publications ###
+
+- [@Gracia_et_al_TIAD2019Results:2019] [[bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
+
+- [@Proisl_et_al_IEST:2018] [[pdf](pdf/Proisl_et_al_2018_iest.pdf), [bib](bib/Proisl_et_al_IEST:2018.bib)]
+
+- [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib)]
 
 
 
