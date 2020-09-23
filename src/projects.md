@@ -39,9 +39,10 @@ Computerlinguistik](https://www.linguistik.phil.fau.de/).  Two of them
 are (1) [GeRedE](https://github.com/fau-klue/empirist-corpus) – a
 Corpus of German Reddit Exchanges, created in collaboration with
 Andreas Blombach, Natalie Dykes, Philipp Heinrich, and Thomas Proisl,
-and (2) the [EmpiriST](https://github.com/fau-klue/empirist-corpus)
-Corpus, created in collaboration with Thomas Proisl, Natalie Dykes,
-Philipp Heinrich, Andreas Blombach, and Stefan Evert.
+and (2) the [EmpiriST Corpus
+2.0](https://github.com/fau-klue/empirist-corpus), created in
+collaboration with Thomas Proisl, Natalie Dykes, Philipp Heinrich,
+Andreas Blombach, and Stefan Evert.
 
 
 ## Lexical Resources ##

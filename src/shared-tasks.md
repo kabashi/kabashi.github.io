@@ -9,6 +9,7 @@ csl: chicago-author-date.csl
 
 - [Conferences](#conferences)
 - [Shared tasks](#shared-tasks)
+- [Recent reviews / participating committees](#recent-reviews-participating-committees)
 
 ## Conferences ##
 
@@ -41,6 +42,25 @@ The third shared task for “Translation Inference Across Dictionaries” (TIAD 
 The second shared task for “Translation Inference Across Dictionaries” (TIAD 2019): In conjunction with the second conference on [“Language, Data and Knowledge (LDK 2019)”](http://2019.ldk-conf.org/) in Leipzig, Germany, on May 20, 2019. Organized in cooperation with Jorge Gracia, University of Zaragoza, Spain and Ilan Kernerman, K Dictionaries, Tel Aviv, Israel.
 
 -> [TIAD 2 – Proceedings](http://ceur-ws.org/Vol-2493/) [[bib](bib/Gracia_et_al_TIAD2019:2019.bib)]
+
+
+## Recent reviews / participating committees ##
+
+LDK 2021 – 3rd Biennial Conference on Language, Data and Knowledge,  University of Zaragoza, Spain, June 14–16, 2021. [Program committee / Reviewer]
+
+The 2021 Conference of the North American Chapter of the Association for Computational Linguistics – Human Language Technologies (NAACL 2021), Mexico City, Mexico, June 6–11, 2021. [Program committee / Reviewer].
+
+The 2021 Conference of the European Chapter of the Association for Computational Linguistics (EACL 2021), Kiev, Ukraine, April 19–23, 2021. [Program committee / Reviewer]. 
+
+AACL-IJCNLP 2020 – The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 9th International Joint Conference on Natural Language Processing. Suzhou, China, December 4–7, 2020. [Program committee / Reviewer]
+
+EMNLP 2020 – The 2020 Conference on Empirical Methods in Natural Language Processing. Dominican Republic, November, 16 – 20, 2020. [Reviewer]. 
+
+GLOBALEX 2020 @ LREC 2020, Marseílle, France, May 12, 2020. [Program committee / Reviewer].
+
+The Twelfth Edition of the International Conference on Language Resources and Evaluation (LREC 2020), Marseílle, France, May 11–16, 2020. [Scientific committee / Reviewer].
+
+The 55th Annual Meeting of the Association for Computational Linguistics, July 30 – August 4, 2017. Vancouver, Canada. ISBN 978-1-945626-75-3 (Volume 1, Long Papers) ISBN 978-1-945626-76-0 (Volume 2, Short Papers). [Program committee / Reviewer] 
 
 
 <!-- ## News ## -->

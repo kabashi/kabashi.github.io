@@ -169,7 +169,7 @@ csl: chicago-author-date.csl
 
 <!-- Kabashi et al. APCLA -->
 
-### Recent Talks and presentations ###
+### Recent Talks and Presentations ###
 
 - [@Proisl_et_al_EmpiriST2_DGfS:2020] [[pdf](pdf/Proisl_et_al_2020-dgfs.pdf), [bib](bib/Proisl_et_al_EmpiriST2_DGfS:2020.bib)].
 
