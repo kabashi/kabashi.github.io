@@ -54,11 +54,11 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 [AACL-IJCNLP 2020](http://aacl2020.org/) – The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 9th International Joint Conference on Natural Language Processing. Suzhou, China, December 4–7, 2020. [Program committee / Reviewer]
 
-[EMNLP 2020](https://2020.emnlp.org/) – The 2020 Conference on Empirical Methods in Natural Language Processing. Dominican Republic, November, 16 – 20, 2020. [Reviewer]. 
+[EMNLP 2020](https://2020.emnlp.org/) – The 2020 Conference on Empirical Methods in Natural Language Processing. Dominican Republic, November, 16–20, 2020. [Reviewer]. 
 
 [GLOBALEX 2020](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/) @ [LREC 2020](https://lrec2020.lrec-conf.org/), Marseílle, France, May 12, 2020. [Program committee / Reviewer].
 
-[LREC 2020](https://lrec2020.lrec-conf.org/) – The Twelfth Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, May 11–16, 2020. [[Scientific committee](https://lrec2020.lrec-conf.org/en/about/committees/scientific-committee/) / Reviewer].
+[LREC 2020](https://lrec2020.lrec-conf.org/) – The 12th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, May 11–16, 2020. [[Scientific committee](https://lrec2020.lrec-conf.org/en/about/committees/scientific-committee/) / Reviewer].
 
 [ACL 2017](http://acl2017.org/) – The 55th Annual Meeting of the Association for Computational Linguistics, July 30 – August 4, 2017. Vancouver, Canada. ISBN 978-1-945626-75-3 ([Volume 1, Long Papers](https://www.aclweb.org/anthology/volumes/P17-1/)) ISBN 978-1-945626-76-0 ([Volume 2, Short Papers](https://www.aclweb.org/anthology/volumes/P17-2/)). [Program committee / Primary reviewer] 
 
