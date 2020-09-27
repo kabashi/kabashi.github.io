@@ -11,7 +11,9 @@ csl: chicago-author-date.csl
 - [Books: Authored Monographs](#authored-monographs)
 - [Books: Editorships](#co-edited-proceedings)
 - [Journal articles](#journal-articles)
-- [Articles in conference proceedings and collections](#articles-in-conference-proceedings-and-collections)
+- [Articles in conference proceedings](#articles-in-conference-proceedings)
+- [Articles in collections](#articles-in-collections)
+- [Shared tasks](#shared-tasks)
 - [Guidelines](#guidelines)
 <!-- - [Organized Conferences](#organized-conferences) -->
 - [Talks and presentations](#talks-and-presentations)
@@ -56,13 +58,11 @@ csl: chicago-author-date.csl
 - [@Kabashi_AlCo:2017] [[pdf](pdf/Kabashi_2017_AlCo.pdf), [bib](bib/Kabashi_AlCo:2017.bib)]
 
 
-## Articles in conference proceedings and collections ##
+## Articles in conference proceedings ##
 
 <!-- ### 2020 ## -->
 
-- [@Kabashi_Diachronic_Corpora:2020] [[bib](bib/Kabashi_Diachronic_Corpora:2020.bib)].
-
-- [@Kabashi_et_al_Word-lists:2020] [[bib](bib/Kabashi_et_al_Word-lists:2020.bib)].
+- [@Kabashi_et_al_Word-lists:2020] [[bib](bib/Kabashi_et_al_Word-lists:2020.bib)]. [Conference cancelled due to the current situation].
 
 <!--  - [@Kabashi_et_al_Word-lists:2020] [[Abstract](https://easychair.org/smart-program/APCLC2020/2020-02-13.html#talk:140430), [bib](bib/Kabashi_et_al_Word-lists:2020.bib)]. -->
 
@@ -70,53 +70,54 @@ csl: chicago-author-date.csl
 
 - [@Blombach_et_al_GeRedE-LREC:2020] [[bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)].
 
-- [@Proisl_et_al_EmpiriST2_DGfS:2020] [[pdf](pdf/Proisl_et_al_2020-dgfs.pdf), [bib](bib/Proisl_et_al_EmpiriST2_DGfS:2020.bib)].
-
-- [@Kernerman_et_al_GlobaLex-Intro-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-Intro-2020:2020.bib)]
-
 <!-- ### 2019 ## -->
 
 - [@Kabashi_eLex:2019] [[bib](bib/Kabashi_eLex:2019.bib)]
 
-- [@Proisl_et_al_The_Illiterati:2019] [[bib](bib/Proisl_et_al_The_Illiterati:2019.bib)]. 
-
 - [@Blombach_et_al_KONVENS:2019] [[pdf](pdf/Blombach_et_al_2019_reddit_konvens.pdf), [bib](bib/Blombach_et_al_KONVENS2019GerReddit:2019.bib)]
-
-- [@Gracia_et_al_TIAD2019-Intro:2019] [[bib](bib/Gracia_et_al_TIAD2019-Intro:2019.bib)]
-
-- [@Gracia_et_al_TIAD2019Results:2019] [[bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
 
 <!-- ### 2018 ## -->
 
-- [@Kabashi_Neologjizmat:2018] [[bib](bib/Kabashi_Neologjizmat:2018.bib)]
-
-<!-- - [@Kabashi_EURALEX:2018] [[pdf](pdf/Kabashi_2018_euralex.pdf), [bib](bib/Kabashi_EURALEX:2018.bib)] -->
-
-- [@Proisl_et_al_IEST:2018] [[pdf](pdf/Proisl_et_al_2018_iest.pdf), [bib](bib/Proisl_et_al_IEST:2018.bib)]
+- [@Kabashi_EURALEX:2018] [[pdf](pdf/Kabashi_2018_euralex.pdf), [bib](bib/Kabashi_EURALEX:2018.bib)] 
 
 - [@Kabashi_Proisl_LREC:2018] [[pdf](pdf/Kabashi_Proisl_2018_lrec.pdf), [bib](bib/Kabashi_Proisl_LREC:2018.bib)]
-
-<!-- ### 2017 ### -->
-
-- [@Proisl_et_al_TIAD:2017] [[pdf](pdf/Proisl_et_al_2017_tiad.pdf), [bib](bib/Proisl_et_al_TIAD:2017.bib)]
 
 <!-- ### 2016 ### -->
 
 - [@Kabashi_Proisl_LREC:2016] [[pdf](pdf/Kabashi_Proisl_2016_lrec.pdf), [bib](bib/Kabashi_Proisl_LREC:2016.bib)]
 
+
+
+<!-- ### 2011 ### -->
+
+- [@Proisl_Kabashi_LREC:2010] [[pdf](pdf/Proisl_Kabashi_2010_lrec.pdf), [bib](bib/Proisl_Kabashi_LREC:2010.bib)]
+
+<!-- ### 2009 ### -->
+
+- [@Handl_et_al_SFCM:2009] [[pdf](pdf/Handl_et_al_SFCM.pdf), [bib](bib/@Handl_et_al_SFCM:2009.bib)]
+
+<!-- ### 2005 ### -->
+
+- [@Kabashi_Modelimi:2005] [[bib](bib/Kabashi_Modelimi:2005.bib)]
+
+<!-- ### 2004 ### -->
+
+- [@Kabashi_Analiza:2004] [[bib](bib/Kabashi_Analiza:2004.bib)]
+
+
+## Articles in collections ##
+
+<!-- ### 2020 ## -->
+
+- [@Kabashi_Diachronic_Corpora:2020] [[bib](bib/Kabashi_Diachronic_Corpora:2020.bib)].
+
+<!-- ### 2018 ## -->
+
+- [@Kabashi_Neologjizmat:2018] [[bib](bib/Kabashi_Neologjizmat:2018.bib)]
+
 <!-- ### 2014 ### -->
 
 - [@Kabashi_Rrokjet:2014] [[bib](bib/Kabashi_Rrokjet:2014.bib)]
-
-- [@Evert_et_al_SemEval:2014] [[pdf](pdf/evert_et_al_2014_semeval.pdf), [bib](bib/Evert_et_al_SemEval:2014.bib)]
-
-- [@Proisl_et_al_SemEval:2014] [[pdf](pdf/Proisl_et_al_2014_semeval.pdf), [bib](bib/Proisl_et_al_SemEval:2014.bib)]
-
-<!-- ### 2013 ### -->
-
-- [@Greiner_et_al_StarSem:2013] [[pdf](pdf/Greiner_et_al_2013_starsem.pdf), [bib](bib/Greiner_et_al_StarSem:2013.bib)]
-
-- [@Proisl_et_al_SemEval:2013] [[pdf](pdf/Proisl_et_al_2013_semeval.pdf), [bib](bib/Proisl_et_al_SemEval:2013.bib)]
 
 <!-- ### 2012 ### -->
 
@@ -132,25 +133,48 @@ csl: chicago-author-date.csl
 
 - [@Kabashi_Resurset:2010] [[pdf](pdf/Kabashi_2009_resurset.pdf), [bib](bib/Kabashi_Resurset:2010.bib)]
 
-- [@Proisl_Kabashi_LREC:2010] [[pdf](pdf/Proisl_Kabashi_2010_lrec.pdf), [bib](bib/Proisl_Kabashi_LREC:2010.bib)]
-
 <!-- ### 2009 ### -->
 
 - [@Kabashi_Alphabet:2009] [[pdf](pdf/Kabashi_2009_alphabet.pdf), [bib](bib/Kabashi_Alphabet:2009.bib)]
-
-- [@Handl_et_al_SFCM:2009] [[pdf](pdf/Handl_et_al_SFCM.pdf), [bib](bib/@Handl_et_al_SFCM:2009.bib)]
 
 <!-- ### 2007 ### -->
 
 - [@Kabashi_PronominalClitics:2007] [[pdf](pdf/Kabashi_2007_clitics.pdf), [bib](bib/Kabashi_PronominalClitics:2007.bib)]
 
-<!-- ### 2005 ### -->
 
-- [@Kabashi_Modelimi:2005] [[bib](bib/Kabashi_Modelimi:2005.bib)]
+## Shared tasks ##
 
-<!-- ### 2004 ### -->
+<!-- ### 2020 ## -->
 
-- [@Kabashi_Analiza:2004] [[bib](bib/Kabashi_Analiza:2004.bib)]
+- [@Kernerman_et_al_GlobaLex-Intro-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-Intro-2020:2020.bib)]
+
+<!-- ### 2019 ## -->
+
+- [@Proisl_et_al_The_Illiterati:2019] [[bib](bib/Proisl_et_al_The_Illiterati:2019.bib)]. 
+
+- [@Gracia_et_al_TIAD2019-Intro:2019] [[bib](bib/Gracia_et_al_TIAD2019-Intro:2019.bib)]
+
+- [@Gracia_et_al_TIAD2019Results:2019] [[bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
+
+<!-- ### 2018 ## -->
+
+- [@Proisl_et_al_IEST:2018] [[pdf](pdf/Proisl_et_al_2018_iest.pdf), [bib](bib/Proisl_et_al_IEST:2018.bib)]
+
+<!-- ### 2017 ### -->
+
+- [@Proisl_et_al_TIAD:2017] [[pdf](pdf/Proisl_et_al_2017_tiad.pdf), [bib](bib/Proisl_et_al_TIAD:2017.bib)]
+
+<!-- ### 2014 ### -->
+
+- [@Evert_et_al_SemEval:2014] [[pdf](pdf/evert_et_al_2014_semeval.pdf), [bib](bib/Evert_et_al_SemEval:2014.bib)]
+
+- [@Proisl_et_al_SemEval:2014] [[pdf](pdf/Proisl_et_al_2014_semeval.pdf), [bib](bib/Proisl_et_al_SemEval:2014.bib)]
+
+<!-- ### 2013 ### -->
+
+- [@Greiner_et_al_StarSem:2013] [[pdf](pdf/Greiner_et_al_2013_starsem.pdf), [bib](bib/Greiner_et_al_StarSem:2013.bib)]
+
+- [@Proisl_et_al_SemEval:2013] [[pdf](pdf/Proisl_et_al_2013_semeval.pdf), [bib](bib/Proisl_et_al_SemEval:2013.bib)]
 
 
 ## Guidelines ##

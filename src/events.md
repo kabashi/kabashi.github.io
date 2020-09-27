@@ -60,7 +60,9 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 [LREC 2020](https://lrec2020.lrec-conf.org/) – The 12th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, May 11–16, 2020. [[Scientific committee](https://lrec2020.lrec-conf.org/en/about/committees/scientific-committee/) / Reviewer].
 
-[ACL 2017](http://acl2017.org/) – The 55th Annual Meeting of the Association for Computational Linguistics, July 30 – August 4, 2017. Vancouver, Canada. ISBN 978-1-945626-75-3 ([Volume 1, Long Papers](https://www.aclweb.org/anthology/volumes/P17-1/)) ISBN 978-1-945626-76-0 ([Volume 2, Short Papers](https://www.aclweb.org/anthology/volumes/P17-2/)). [Program committee / Primary reviewer] 
+<!-- #### In the past (selected) #### -->
+
+<!-- [ACL 2017](http://acl2017.org/) – The 55th Annual Meeting of the Association for Computational Linguistics, July 30 – August 4, 2017. Vancouver, Canada. ISBN 978-1-945626-75-3 ([Volume 1, Long Papers](https://www.aclweb.org/anthology/volumes/P17-1/)) ISBN 978-1-945626-76-0 ([Volume 2, Short Papers](https://www.aclweb.org/anthology/volumes/P17-2/)). [Program committee / Primary reviewer] -->
 
 
 <!-- ## News ## -->
