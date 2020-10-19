@@ -29,12 +29,12 @@ csl: chicago-author-date.csl
 <!-- [ResearchGate](https://www.researchgate.net/profile/Besim_Kabashi) · -->
   [Google Scholar](https://scholar.google.com/citations?hl=en&user=8KqEl74AAAAJ) ] 
 
-<div class="cover" align="left">< [ ORCID identifier: 0000-0002-6759-1808](https://orcid.org/0000-0002-6759-1808) ></div>
+< [ ORCID identifier: 0000-0002-6759-1808](https://orcid.org/0000-0002-6759-1808) ></div>
 
 
 ## Authored Monographs ##
 
-<div class="cover" align="center">[![Kabashi, Besim. 2015. Automatische Verarbeitung der Morphologie des Albanischen. Erlangen: FAU University Press.](img/bk_d2015_p1_25x25.jpeg){.bookcover}](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf)</div>
+<div class="cover">[![Kabashi, Besim. 2015. Automatische Verarbeitung der Morphologie des Albanischen. Erlangen: FAU University Press.](img/bk_d2015_p1_25x25.jpeg){.bookcover}](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf)</div>
 
 - <div class="book"><div class="bibentry">[@Kabashi:2015] [[bib](bib/Kabashi:2015.bib)]</div>
 
