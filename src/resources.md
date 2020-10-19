@@ -39,7 +39,7 @@ normalized and lemmatized the data and converted the corpus into a
 Workbench, CQPweb, SketchEngine, or similar corpus tools.
 
 Normalization and lemmatization added in collaboration with [Thomas
-Proisl](https://thomas-proisl.de), [Natalie Dykes](), [Philipp
+Proisl](https://thomas-proisl.de), Natalie Dykes, [Philipp
 Heinrich](https://philipp-heinrich.eu/), and [Stefan
 Evert](http://stefan-evert.de/).
 

@@ -13,6 +13,9 @@ csl: chicago-author-date.csl
 - [Computational Linguistics, UT, Tirana, Albania](#computational-linguistics-ut-tirana)
 - [Computational Lexicography, USC, Santiago de Compostela, Spain](#computational-lexicography-usc-santiago-de-compostela)
 
+Since spring 2020 I am part of the teaching staff of [**European
+Master in Lexicography – EMLex**](https://www.emlex.phil.fau.eu/) in the
+advanced module [**Computational Lexicography**]().
 
 ## Corpus and Computational Linguistics, FAU, Erlangen ##
 
@@ -65,7 +68,7 @@ csl: chicago-author-date.csl
 
 ## Computational Lexicography, USC, Santiago de Compostela ##
 
-- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Winter/Spring 2020, jointly with Prof. [Stefan Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [Ulrich Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
+- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2020, jointly with Prof. [Stefan Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [Ulrich Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
 
 
 <!-- [Total: 62 (45+10+6+1)] -->
