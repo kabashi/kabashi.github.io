@@ -30,6 +30,11 @@ Lexicography (EURALEX)](https://euralex.org/), and in [The German
 Society for Computational Linguistics and Language Technology
 (GSCL)](https://gscl.org/).
 
+(Since spring 2020) I am part of the teaching staff of [EMLex – European
+Master in Lexicography](https://www.emlex.phil.fau.eu/), in the
+advanced module [Computational
+Lexicography](https://www.emlex.phil.fau.eu/files/2019/03/EMLex-A6-module-description-ENG-2019.pdf).
+
 I have an interest in Human Language Processing and Technology,
 Computational Linguistics, Corpus Linguistics, Language Resources, and
 Digital Humanities. So far, I have been active in the following areas:

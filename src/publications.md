@@ -34,9 +34,10 @@ csl: chicago-author-date.csl
 
 ## Authored Monographs ##
 
-<div class="cover" align="center">[![Kabashi, Besim. 2015. Automatische Verarbeitung der Morphologie des Albanischen. Erlangen, Germany: FAU University Press.](img/bk_d2015_p1_25x25.jpeg){.bookcover}](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf)</div>
+<div class="cover" align="center">[![Kabashi, Besim. 2015. Automatische Verarbeitung der Morphologie des Albanischen. Erlangen: FAU University Press.](img/bk_d2015_p1_25x25.jpeg){.bookcover}](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf)</div>
 
 - <div class="book"><div class="bibentry">[@Kabashi:2015] [[bib](bib/Kabashi:2015.bib)]</div>
+
 
 ## Co-Edited Proceedings ##
 
@@ -62,13 +63,11 @@ csl: chicago-author-date.csl
 
 <!-- ### 2020 ## -->
 
-- [@Kabashi_et_al_Word-lists:2020] [[bib](bib/Kabashi_et_al_Word-lists:2020.bib)]. [Conference cancelled due to the current situation].
-
-<!--  - [@Kabashi_et_al_Word-lists:2020] [[Abstract](https://easychair.org/smart-program/APCLC2020/2020-02-13.html#talk:140430), [bib](bib/Kabashi_et_al_Word-lists:2020.bib)]. -->
-
 - [@Proisl_et_al_EmpiriST-2_LREC:2020] [[bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)].
 
 - [@Blombach_et_al_GeRedE-LREC:2020] [[bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)].
+
+- [@Kabashi_et_al_Word-lists:2020] [[Abstract](https://easychair.org/smart-program/APCLC2020/2020-02-13.html#talk:140430), [bib](bib/Kabashi_et_al_Word-lists:2020.bib)]. [Conference cancelled due to the current pandemic situation].
 
 <!-- ### 2019 ## -->
 
@@ -195,11 +194,12 @@ csl: chicago-author-date.csl
 
 ### Recent Talks and Presentations ###
 
-- [@Proisl_et_al_EmpiriST2_DGfS:2020] [[pdf](pdf/Proisl_et_al_2020-dgfs.pdf), [bib](bib/Proisl_et_al_EmpiriST2_DGfS:2020.bib)].
+- [@Proisl_et_al_EmpiriST2_DGfS:2020] [[Abstract, pdf](pdf/Proisl_et_al_2020-dgfs.pdf), [Poster, pdf](pdf/EmpiriST_corpus___DGfS_CL_2020__Poster_.pdf), [bib](bib/Proisl_et_al_EmpiriST2_DGfS:2020.bib)].
 
 - [@Blombach_et_al_KONVENS:2019] [[bib](bib/Blombach_et_al_KONVENS:2019.bib)]
 
-- [@Proisl_et_al_ANSC:2019] [[bib](bib/Proisl_et_al_ANSC:2019.bib)]
+- [@Proisl_et_al_ANSC:2019] [[Presentation, pdf](pdf/NLP_for_German_CMC_Texts__ANSC_Bamberg_2019_Present.pdf), [bib](bib/Proisl_et_al_ANSC:2019.bib)]
+
 
 <!-- ### Selected Talks and presentations  ### -->
 

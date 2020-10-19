@@ -14,7 +14,7 @@ csl: chicago-author-date.csl
 
 ## Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.) ##
 
-I'm co-working on the [DFG-Projekt "Digitales
+I am co-working on the [DFG-Projekt "Digitales
 philologisch-etymologisches Wörterbuch des Altalbanischen
 (15.-18. Jh.)"](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html)
 at the [Ludwig-Maximilians-Universität München](https://www.uni-muenchen.de/). 
@@ -44,7 +44,7 @@ and (2) the [EmpiriST Corpus
 collaboration with Thomas Proisl, Natalie Dykes, Philipp Heinrich,
 Andreas Blombach, and Stefan Evert.
 
-I'm also interested in creating corpora of other languages, especially
+Also I am interested in creating corpora of other languages, especially
 those for members of the Romance, Germanic and Slavic language groups
 and Greek (e.g. for Bulgarian, Croatian, English, Greek, Italian,
 Serbian, Russian). I am especially interested in the creation of
@@ -52,7 +52,7 @@ parallel corpora of these languages.
 
 ## Lexical Resources ##
 
-I'm working on building different lexical resources for **the Albanian
+I am working on building different lexical resources for **the Albanian
 language**, for **the German language**, and for **the [other]
 languages** mentioned above, using natural language processing
 methods, based on language corpora.

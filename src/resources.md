@@ -13,9 +13,37 @@ csl: chicago-author-date.csl
 
 ## Data Sets ##
 
-### EmpiriST Corpus ###
+### EmpiriST Corpus 2.0 ###
 
-See the data set (and the description) on
+The EmpiriST Corpus 2.0 is a manually annotated corpus consisting of
+German web pages and German computer-mediated communication (CMC),
+i.e. written discourse. Examples for CMC genres are monologic and
+dialogic tweets, social and professional chats, threads from Wikipedia
+talk pages, WhatsApp interactions and blog comments.
+
+The dataset was originally created by [Beißwenger et
+al. (2016)](https://www.aclweb.org/anthology/W16-2606/) for the
+[EmpiriST 2015](https://sites.google.com/site/empirist2015/) shared
+task and featured manual tokenization and part-of-speech
+tagging. Subsequently, [Rehbein et al.
+(2018)](https://www.oeaw.ac.at/fileadmin/subsites/academiaecorpora/PDF/konvens18_03.pdf)
+incorporated the dataset into their [harmonised testsuite for POS
+tagging of German social media
+data](https://www.cl.uni-heidelberg.de/~rehbein/tweeDe.mhtml),
+manually added sentence boundaries and automatically mapped the
+part-of-speech tags to [UD pos
+tags](https://universaldependencies.org/u/pos/all.html). In our own
+annotation efforts (Proisl et al., in preparation), we manually
+normalized and lemmatized the data and converted the corpus into a
+“vertical” format suitable for importing into the Open Corpus
+Workbench, CQPweb, SketchEngine, or similar corpus tools.
+
+Normalization and lemmatization added in collaboration with [Thomas
+Proisl](https://thomas-proisl.de), [Natalie Dykes](), [Philipp
+Heinrich](https://philipp-heinrich.eu/), and [Stefan
+Evert](http://stefan-evert.de/).
+
+-> See the data set (and the description) on
 [GitHub](https://github.com/fau-klue/empirist-corpus).
 
 ## Corpora ##
@@ -31,7 +59,7 @@ Created in collaboration with Andreas Blombach, Natalie Dykes,
 [Philipp Heinrich](https://philipp-heinrich.eu/) and [Thomas
 Proisl](https://thomas-proisl.de/).
 
-See the data set (and the description) on
+-> See the data set (and the description) on
 [GitHub](https://github.com/fau-klue/german-reddit-korpus).
 
 

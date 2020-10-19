@@ -1,5 +1,5 @@
 ---
-title: Organized Conferences and Shared tasks 
+title: Organized Conferences, Shared Tasks, etc.
 title-prefix: Besim Kabashi
 author: Besim Kabashi
 lang: en
@@ -46,13 +46,13 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 ## Recent participating committees / reviews ##
 
-[LDK 2021](http://2021.ldk-conf.org/) – The 3rd Biennial Conference on Language, Data and Knowledge,  University of Zaragoza, Spain, June 14–16, 2021. [Program committee / Reviewer]
+[LDK 2021](http://2021.ldk-conf.org/) – The 3rd Biennial Conference on Language, Data and Knowledge,  University of Zaragoza, Spain, June 14–16, 2021. [Program committee / Reviewer].
 
 [NAACL 2021](https://2021.naacl.org/) – The 2021 Conference of the North American Chapter of the Association for Computational Linguistics – Human Language Technologies, Mexico City, Mexico, June 6–11, 2021. [Program committee / Reviewer].
 
 [EACL 2021](https://2021.eacl.org/) – The 2021 Conference of the European Chapter of the Association for Computational Linguistics, Kiev, Ukraine, April 19–23, 2021. [Program committee / Reviewer]. 
 
-[AACL-IJCNLP 2020](http://aacl2020.org/) – The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 9th International Joint Conference on Natural Language Processing. Suzhou, China, December 4–7, 2020. [Program committee / Reviewer]
+[AACL-IJCNLP 2020](http://aacl2020.org/) – The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 9th International Joint Conference on Natural Language Processing. Suzhou, China, December 4–7, 2020. [Program committee / Reviewer].
 
 [EMNLP 2020](https://2020.emnlp.org/) – The 2020 Conference on Empirical Methods in Natural Language Processing. Dominican Republic, November, 16–20, 2020. [Reviewer]. 
 
