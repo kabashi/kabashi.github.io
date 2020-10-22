@@ -194,11 +194,11 @@ csl: chicago-author-date.csl
 
 ### Recent Talks and Presentations ###
 
-- [@Proisl_et_al_EmpiriST2_DGfS:2020] [[Abstract, pdf](pdf/Proisl_et_al_2020-dgfs.pdf), [Poster, pdf](pdf/EmpiriST_corpus___DGfS_CL_2020__Poster_.pdf), [bib](bib/Proisl_et_al_EmpiriST2_DGfS:2020.bib)].
+- [@Proisl_et_al_EmpiriST2_DGfS:2020] [[Abstract, pdf](pdf/Proisl_et_al_2020_DGFS_Abstract.pdf), [Poster, pdf](pdf/Proisl_et_al_EmpiriST-corpus-2.0_DGfS_CL_2020_Poster.pdf), [bib](bib/Proisl_et_al_EmpiriST2_DGfS:2020.bib)].
 
 - [@Blombach_et_al_KONVENS:2019] [[bib](bib/Blombach_et_al_KONVENS:2019.bib)]
 
-- [@Proisl_et_al_ANSC:2019] [[Presentation, pdf](pdf/NLP_for_German_CMC_Texts__ANSC_Bamberg_2019_Present.pdf), [bib](bib/Proisl_et_al_ANSC:2019.bib)]
+- [@Proisl_et_al_ANSC:2019] [[Presentation, pdf](pdf/Proisl_et_al_2019_NLP_for_German_CMC_Texts_ANSC_Bamberg_Presentation.pdf), [bib](bib/Proisl_et_al_ANSC:2019.bib)]
 
 
 <!-- ### Selected Talks and presentations  ### -->
