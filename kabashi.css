@@ -42,9 +42,10 @@ header.navigation {
 
 header.navigation h1 {
     /* display: block; */
-    color: #EE1111;
+    /* color: #EE1111; */
+    color: #063868;  
     text-align: left;
-    padding: 1.5em 0.25em 0em; 
+    padding: 1.1em 0.25em 0em; 
     margin: 0;
 }
 

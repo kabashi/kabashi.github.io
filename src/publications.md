@@ -41,13 +41,20 @@ csl: chicago-author-date.csl
 
 ## Co-Edited Proceedings ##
 
+
 ###  [Globalex Workshop on Linked Lexicography, 2020](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/)  ###
 
-- [@Kernerman_et_al_GlobaLex-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)]
+<div class="cover">[![Kernerman et al. GlobaLex 2020](img/GLOBALEX-2020_TIAD3-MWSA.jpeg){.bookcover}](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/GLOBALEX2020book.pdf)</div>
+- <div class="book"><div class="bibentry">[@Kernerman_et_al_GlobaLex-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)]</div>
+
+<!--  - [@Kernerman_et_al_GlobaLex-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)] -->
 
 ###  [Translation Inference Across Dictionaries (TIAD), 2019](https://tiad2019.unizar.es/index.html)  ###
 
-- [@Gracia_et_al_TIAD2019:2019] [[bib](bib/Gracia_et_al_TIAD2019:2019.bib)]
+<div class="cover">[![Gracia et al. TIAD 2 @ LDK 2019](img/CEUR-WS-Vol-2493-TIAD-2019.jpeg){.bookcover}](http://ceur-ws.org/Vol-2493/)</div>
+- <div class="book"><div class="bibentry">[@Gracia_et_al_TIAD2019:2019] [[bib](bib/Gracia_et_al_TIAD2019:2019.bib)]</div>
+
+<!--  - [@Gracia_et_al_TIAD2019:2019] [[bib](bib/Gracia_et_al_TIAD2019:2019.bib)] -->
 
 
 ## Journal articles ##
