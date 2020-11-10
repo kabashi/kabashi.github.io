@@ -205,7 +205,9 @@ csl: chicago-author-date.csl
 
 - [@Blombach_et_al_KONVENS:2019] [[bib](bib/Blombach_et_al_KONVENS:2019.bib)]
 
-- [@Proisl_et_al_ANSC:2019] [[Presentation, pdf](pdf/Proisl_et_al_2019_NLP_for_German_CMC_Texts_ANSC_Bamberg_Presentation.pdf), [bib](bib/Proisl_et_al_ANSC:2019.bib)]
+<!-- [@Proisl_et_al_ANSC:2019] [[Presentation, pdf](pdf/Proisl_et_al_2019_NLP_for_German_CMC_Texts_ANSC_Bamberg_Presentation.pdf), [bib](bib/Proisl_et_al_ANSC:2019.bib)] -->
+
+- [@Proisl_et_al_ANSC:2019] [[bib](bib/Proisl_et_al_ANSC:2019.bib)].
 
 
 <!-- ### Selected Talks and presentations  ### -->

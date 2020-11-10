@@ -43,7 +43,7 @@ Proisl](https://thomas-proisl.de), Natalie Dykes, [Philipp
 Heinrich](https://philipp-heinrich.eu/), and [Stefan
 Evert](http://stefan-evert.de/).
 
--> See the data set (and the description) on
+–> See the data set (and the description) on
 [GitHub](https://github.com/fau-klue/empirist-corpus).
 
 ## Corpora ##
@@ -59,7 +59,7 @@ Created in collaboration with Andreas Blombach, Natalie Dykes,
 [Philipp Heinrich](https://philipp-heinrich.eu/) and [Thomas
 Proisl](https://thomas-proisl.de/).
 
--> See the data set (and the description) on
+–> See the data set (and the description) on
 [GitHub](https://github.com/fau-klue/german-reddit-korpus).
 
 
