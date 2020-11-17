@@ -54,9 +54,9 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 [AACL-IJCNLP 2020](http://aacl2020.org/) – The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 9th International Joint Conference on Natural Language Processing. Suzhou, China, December 4–7, 2020. [Program committee / Reviewer].
 
-[EMNLP 2020](https://2020.emnlp.org/) – The 2020 Conference on Empirical Methods in Natural Language Processing. Dominican Republic, November, 16–20, 2020. [Reviewer]. 
+[EMNLP 2020](https://2020.emnlp.org/) – The 2020 Conference on Empirical Methods in Natural Language Processing. Dominican Republic, November, 16–20, 2020. [[Reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf)].
 
-[GLOBALEX 2020](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/) @ [LREC 2020](https://lrec2020.lrec-conf.org/), Marseílle, France, May 12, 2020. [Program committee / Reviewer].
+[GLOBALEX 2020](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/) @ [LREC 2020](https://lrec2020.lrec-conf.org/), Marseílle, France, May 12, 2020. [[Track co-organizer](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020) / [Program committee](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020) / Reviewer].
 
 [LREC 2020](https://lrec2020.lrec-conf.org/) – The 12th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, May 11–16, 2020. [[Scientific committee](https://lrec2020.lrec-conf.org/en/about/committees/scientific-committee/) / Reviewer].
 

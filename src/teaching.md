@@ -27,11 +27,12 @@ Courses](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-le
 
 ## Corpus and Computational Linguistics, FAU, Erlangen ##
 
-- The **Corpus Linguist’s Essential Toolbox**. (Übung, Sommer 2015, Sommer 2016, Sommer 2017, Sommer 2018, Sommer 2019, Sommer 2020).
+- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2021, jointly with Prof. [Stefan Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [Ulrich Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
 - **Werkzeuge und Infrastrukturen der Computerlinguistik**. (Proseminar, Winter 2020/-21). 
+- Aufbaukurs **Programmierung in Python für Computerlinguisten**. (Programmierkurs, Winter 2018/-9, Winter 2019/-20, Winter 2020/-21).
+- The **Corpus Linguist’s Essential Toolbox**. (Übung, Sommer 2015, Sommer 2016, Sommer 2017, Sommer 2018, Sommer 2019, Sommer 2020).
 - **Grundlagen der Computerlinguistik** 2. (Vorlesung, Sommer 2019, Sommer 2020).
 - Grundlagen der Computerlinguistik 1. (Vorlesung, Winter 2016/-7, Winter 2018/-9, Winter 2019/-20). 
-- Aufbaukurs **Programmierung in Python für Computerlinguisten**. (Programmierkurs, Winter 2018/-9, Winter 2019/-20, Winter 2020/-21).
 - Grundkurs Programmierung in Python für Computerlinguisten. (Programmierkurs, Sommer 2018, Sommer 2020).
 - Übung zur Grundlagen der Computerlinguistik 2. (Übung, Sommer 2017). 
 - **Korpusbasierte Computerlexikographie**. (Hauptseminar, Winter 2016/-7). 
@@ -61,9 +62,9 @@ Courses](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-le
 
 ## Albanian Linguistics, LMU, Munich ##
 
-- **Syntaktischer Aufbau** des Albanischen. (Seminar, Sommer 2020, jointly with Prof. [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html), LMU Munich).
 - **Morphologischer Aufbau** des Albanischen. (Seminar, Winter 2019/-20, Winter 2020/-21). 
 - **Einführung in die Albanologie**. (Einführungskurs, Winter 2017/-18 Blockseminar, Winter 2018/-9, Winter 2019/-20, Winter 2020/-21).
+- **Syntaktischer Aufbau** des Albanischen. (Seminar, Sommer 2020, jointly with Prof. [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html), LMU Munich).
 - **Neologismen** in der aktuellen albanischen Presse – eine korpusbasierte Untersuchung. (Blockseminar, Sommer 2016). [Invitation](pdf/Kabashi__Neologismen_LMU_2016.pdf).
 - **Lexikalische Semantik** am Beispiel des Albanischen. (Proseminar, Sommer 2006). 
 - Der **Verbalkomplex** im Albanischen. (Proseminar, Winter 2004/-5). 

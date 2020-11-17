@@ -145,7 +145,7 @@ csl: chicago-author-date.csl
 
 <!-- ### 2007 ### -->
 
-- [@Kabashi_PronominalClitics:2007] [[pdf](pdf/Kabashi_2007_clitics.pdf), [bib](bib/Kabashi_PronominalClitics:2007.bib)]
+- [@Kabashi_PronominalClitics:2007] [[pdf](pdf/Kabashi_2007_Clitics-Valency.pdf), [bib](bib/Kabashi_PronominalClitics:2007.bib)]
 
 
 ## Shared tasks ##
