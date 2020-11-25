@@ -49,6 +49,14 @@ csl: chicago-author-date.csl
 
 <!--  - [@Kernerman_et_al_GlobaLex-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)] -->
 
+
+### [The 15th Conference on Natural Language Processing (KONVENS), 2019](https://2019.konvens.org/) ### 
+
+<div class="cover">[![Organized by Stefan Evert (in chief), Andreas Blombach, Natalie Dykes, Paul Greiner, Tim Griebel, Philipp Heinrich, Besim  Kabshi, and Thomas Proisl. Edited by The Chair of Computational Corpus Linguistics, University of Erlangen-Nuremberg; German Society for Computational Linguistics & Language Technology.](img/KONVENS-2019.jpeg){.bookcover}](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/Proceedings_of_the_15th_Conference_on_Natural_Language_Processing_KONVENS_2019.pdf)</div>
+
+- <div class="book"><div class="bibentry">[@Evert_et_al_KONVENS2019] [[bib](bib/Evert_et_al_KONVENS2019.bib)]</div> 
+
+
 ###  [Translation Inference Across Dictionaries (TIAD), 2019](https://tiad2019.unizar.es/index.html)  ###
 
 <div class="cover">[![Gracia et al. TIAD 2 @ LDK 2019](img/CEUR-WS-Vol-2493-TIAD-2019.jpeg){.bookcover}](http://ceur-ws.org/Vol-2493/)</div>

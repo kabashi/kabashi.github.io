@@ -57,6 +57,8 @@ Inference Across Dictionaries.
 
 - [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/Kabashi_Proisl_2018_lrec.pdf)]
 
+- [@Kabashi:2015] [[bib](bib/Kabashi:2015.bib), [pdf](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf)]
+
 - [@Handl_et_al_SFCM:2009] [[pdf](pdf/Handl_et_al_SFCM.pdf), [bib](bib/@Handl_et_al_SFCM:2009.bib)]
 
 - [@Kabashi_Alphabet:2009] [[bib](bib/Kabashi_Alphabet:2009.bib), [pdf](pdf/Kabashi_2009_alphabet.pdf)]

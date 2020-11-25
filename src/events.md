@@ -17,6 +17,11 @@ csl: chicago-author-date.csl
 
 ### [The 15th Conference on Natural Language Processing (KONVENS), 2019](https://2019.konvens.org/) ### 
 
+
+<!-- <div class="cover">[![Organized by Stefan Evert (in chief), Andreas Blombach, Natalie Dykes, Paul Greiner, Tim Griebel, Philipp Heinrich, Besim  Kabshi, and Thomas Proisl. Edited by The Chair of Computational Corpus Linguistics, University of Erlangen-Nuremberg; German Society for Computational Linguistics & Language Technology.](img/KONVENS-2019.jpeg){.bookcover}](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/Proceedings_of_the_15th_Conference_on_Natural_Language_Processing_KONVENS_2019.pdf)</div> -->
+
+<!-- - <div class="book"><div class="bibentry">[@Evert_et_al_KONVENS2019] [[bib](bib/Evert_et_al_KONVENS2019.bib)]</div> -->
+
 The 15th KONVENS “Bridging the gap between NLP and human understanding”, October 9–11, 2019, at Friedrich-Alexander University of Erlangen-Nuremberg, Germany.  Organized in cooperation with Stefan Evert (in chief), Andreas Blombach, Natalie Dykes, Paul Greiner, Tim Griebel, Philipp Heinrich, Thomas Proisl, and Tanja Schorr; Proceedings edited by The Chair of Computational Corpus Linguistics, University of Erlangen-Nuremberg; German Society for Computational Linguistics & Language Technology.
 
 –> [The 15th KONVENS (2019) Proceedings](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/) [[bib](bib/Evert_et_al_KONVENS2019ConfOrg.bib)]
@@ -24,9 +29,13 @@ The 15th KONVENS “Bridging the gap between NLP and human understanding”, Oct
 
 ## Shared tasks ##
 
+<!-- - [TIAD 2021 @ LDK 2021](#the-4th-translation-inference-across-dictionaries-tiad-ldk-2021) -->
 <!-- - [TIAD 2020 as GlobaLex Track 2 @ LREC 2020](#the-3rd-translation-inference-across-dictionaries-tiad-lrec-2020) -->
 <!-- - [TIAD 2019 @ LDK 2019](#the-2nd-translation-inference-across-dictionaries-tiad-ldk-2019) -->
 
+### The 4th “Translation Inference Across Dictionaries” (TIAD) @ LDK 2021 ###
+
+[**In Preparation**]: The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on Juni 13, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel, and *Noam Ordan*, Computational Linguistics Research Group, University of Haifa, Israel.
 
 ### [The 3rd “Translation Inference Across Dictionaries” (TIAD)](https://tiad2020.unizar.es/) @ LREC 2020 ###
 
