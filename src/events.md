@@ -34,7 +34,7 @@ The 15th KONVENS “Bridging the gap between NLP and human understanding”, Oct
 
 ### The 4th “Translation Inference Across Dictionaries” (TIAD) @ LDK 2021 ###
 
-[**In Preparation**]: The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on Juni 13, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel, and *Noam Ordan*, Computational Linguistics Research Group, University of Haifa, Israel.
+[**In Preparation**]: The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on Juni 13, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel, and *Noam Ordan*, University of Haifa, Israel.
 
 ### [The 3rd “Translation Inference Across Dictionaries” (TIAD)](https://tiad2020.unizar.es/) @ LREC 2020 ###
 
@@ -49,7 +49,7 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 –> [TIAD 2 (2019) – Proceedings](http://ceur-ws.org/Vol-2493/) [[bib](bib/Gracia_et_al_TIAD2019:2019.bib)]
 
 
-## Recent participating committees / reviews ##
+## Recent participating committees / reviews, etc. ##
 
 [LDK 2021](http://2021.ldk-conf.org/) – The 3rd Biennial Conference on Language, Data and Knowledge,  University of Zaragoza, Spain, June 14–16, 2021. [Program committee / Reviewer].
 
@@ -58,6 +58,8 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 [EACL 2021](https://2021.eacl.org/) – The 2021 Conference of the European Chapter of the Association for Computational Linguistics, Kiev, Ukraine, April 19–23, 2021. [Program committee / Reviewer]. 
 
 [AACL-IJCNLP 2020](http://aacl2020.org/) – The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 9th International Joint Conference on Natural Language Processing. Suzhou, China, December 4–7, 2020. [Program committee / Reviewer].
+
+[European Language Grid](http://european-language-grid.eu/) – The second  annual ELG conference: META FORUM 2020, December 1–3, 2020, Berlin, Germany. [Participating].
 
 [EMNLP 2020](https://2020.emnlp.org/) – The 2020 Conference on Empirical Methods in Natural Language Processing. Dominican Republic, November, 16–20, 2020. [[Reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf)].
 
