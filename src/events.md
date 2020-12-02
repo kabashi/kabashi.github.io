@@ -38,18 +38,18 @@ The 15th KONVENS “Bridging the gap between NLP and human understanding”, Oct
 
 ### [The 3rd “Translation Inference Across Dictionaries” (TIAD)](https://tiad2020.unizar.es/) @ LREC 2020 ###
 
-The third shared task for “Translation Inference Across Dictionaries” (TIAD 2020): Linking Bilingual and Multilingual Lexicographic Resources, as Track 2 of [GlobaLex 2020 Workshop: Linked Lexicography](https://globalex.link/events/workshops/globalex-workshop-2020/) @ [LREC 2020](https://lrec2020.lrec-conf.org/en/workshops-and-tutorials/2020-workshops/) in Marseílle, France, on May 12, 2020. Organized in cooperation with Jorge Gracia, University of Zaragoza, Spain.
+The third shared task for “Translation Inference Across Dictionaries” (TIAD 2020) “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2020 Workshop: Linked Lexicography](https://globalex.link/events/workshops/globalex-workshop-2020/) @ [LREC 2020](https://lrec2020.lrec-conf.org/en/workshops-and-tutorials/2020-workshops/) in Marseílle, France, on May 12, 2020. Organized in cooperation with Jorge Gracia, University of Zaragoza, Spain.
 –> [TIAD 3 (2020) – Baseline Word2Vec](https://github.com/kabashi/TIAD2020_word2vec).
 –> [GlobaLex 2020 Proceedings, incl. TIAD 3 (2020)](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/GLOBALEX2020book.pdf) [[bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)]
 
 ### [GermEval 2019 shared task on the lemmatization of German web and social media data (EmpiriST-lemmatization 2019)](https://fau-klue.github.io/empirist-lemmatization/) ###
 
-GermEval 2019 shared task on the lemmatization of German web and social media data in Erlangen, Germany, October 8, 2019. In conjunction with [The 15th KONVENS “Bridging the gap between NLP and human understanding”](https://2019.konvens.org/), October 9–11, 2019, at Friedrich-Alexander University of Erlangen-Nuremberg, Germany. Organized in cooperation with Stefan Evert, Natalie Dykes, Philipp Heinrich and Thomas Proisl (all University of Erlangen-Nuremberg, Germany). –> [Web](https://fau-klue.github.io/empirist-lemmatization/). –> [GitHub](https://fau-klue.github.io/empirist-lemmatization/).
+GermEval 2019 shared task on the lemmatization of German web and social media data. Erlangen, Germany, October 8, 2019. In conjunction with [The 15th KONVENS “Bridging the gap between NLP and human understanding”](https://2019.konvens.org/), October 9–11, 2019, at Friedrich-Alexander University of Erlangen-Nuremberg, Germany. Organized in cooperation with Stefan Evert, Natalie Dykes, Philipp Heinrich and Thomas Proisl (all University of Erlangen-Nuremberg, Germany). –> Data on [GitHub](https://github.com/fau-klue/empirist-lemmatization/).
 
 
 ### [The 2nd “Translation Inference Across Dictionaries” (TIAD)](https://tiad2019.unizar.es/) @ LDK 2019 ###
 
-The second shared task for “Translation Inference Across Dictionaries” (TIAD 2019): In conjunction with the second conference on [“Language, Data and Knowledge (LDK 2019)”](http://2019.ldk-conf.org/) in Leipzig, Germany, on May 20, 2019. Organized in cooperation with Jorge Gracia, University of Zaragoza, Spain and Ilan Kernerman, K Dictionaries, Tel Aviv, Israel.
+The second shared task for “Translation Inference Across Dictionaries” (TIAD 2019). In conjunction with the second conference on [“Language, Data and Knowledge (LDK 2019)”](http://2019.ldk-conf.org/) in Leipzig, Germany, on May 20, 2019. Organized in cooperation with Jorge Gracia, University of Zaragoza, Spain and Ilan Kernerman, K Dictionaries, Tel Aviv, Israel.
 –> [TIAD 2 (2019) – Proceedings](http://ceur-ws.org/Vol-2493/) [[bib](bib/Gracia_et_al_TIAD2019:2019.bib)]
 
 
