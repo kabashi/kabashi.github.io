@@ -42,6 +42,10 @@ The third shared task for “Translation Inference Across Dictionaries” (TIAD 
 –> [TIAD 3 (2020) – Baseline Word2Vec](https://github.com/kabashi/TIAD2020_word2vec).
 –> [GlobaLex 2020 Proceedings, incl. TIAD 3 (2020)](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/GLOBALEX2020book.pdf) [[bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)]
 
+### [GermEval 2019 shared task on the lemmatization of German web and social media data (EmpiriST-lemmatization 2019)](https://fau-klue.github.io/empirist-lemmatization/) ###
+
+GermEval 2019 shared task on the lemmatization of German web and social media data in Erlangen, Germany, October 8, 2019. In conjunction with [The 15th KONVENS “Bridging the gap between NLP and human understanding”](https://2019.konvens.org/), October 9–11, 2019, at Friedrich-Alexander University of Erlangen-Nuremberg, Germany. Organized in cooperation with Stefan Evert, Natalie Dykes, Philipp Heinrich and Thomas Proisl (all University of Erlangen-Nuremberg, Germany). –> [Web](https://fau-klue.github.io/empirist-lemmatization/). –> [GitHub](https://fau-klue.github.io/empirist-lemmatization/).
+
 
 ### [The 2nd “Translation Inference Across Dictionaries” (TIAD)](https://tiad2019.unizar.es/) @ LDK 2019 ###
 
