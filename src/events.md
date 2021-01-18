@@ -32,9 +32,9 @@ The 15th KONVENS “Bridging the gap between NLP and human understanding”, Oct
 <!-- - [TIAD 2020 as GlobaLex Track 2 @ LREC 2020](#the-3rd-translation-inference-across-dictionaries-tiad-lrec-2020) -->
 <!-- - [TIAD 2019 @ LDK 2019](#the-2nd-translation-inference-across-dictionaries-tiad-ldk-2019) -->
 
-### The 4th “Translation Inference Across Dictionaries” (TIAD) @ LDK 2021 ###
+### [The 4th “Translation Inference Across Dictionaries” (TIAD)](https://tiad2021.unizar.es/) @ LDK 2021 ###
 
-[**In Preparation**]: The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on Juni 13, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel, and *Noam Ordan*, University of Haifa, Israel.
+[**In Preparation**]: The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on Juni 14, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel, and *Noam Ordan*, University of Haifa, Israel.
 
 ### [The 3rd “Translation Inference Across Dictionaries” (TIAD)](https://tiad2020.unizar.es/) @ LREC 2020 ###
 
@@ -55,21 +55,23 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 ## Recent participating committees / reviews, etc. ##
 
-[LDK 2021](http://2021.ldk-conf.org/) – The 3rd Biennial Conference on Language, Data and Knowledge,  University of Zaragoza, Spain, June 14–16, 2021. [Program committee / Reviewer].
+[AACL-IJCNLP 2021](http://aacl2021.org/) – The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing. Bangkok, Thailand, August 1–6, 2021. [Reviewer].
 
-[NAACL 2021](https://2021.naacl.org/) – The 2021 Conference of the North American Chapter of the Association for Computational Linguistics – Human Language Technologies, Mexico City, Mexico, June 6–11, 2021. [Program committee / Reviewer].
+[LDK 2021](http://2021.ldk-conf.org/) – The 3rd Biennial Conference on Language, Data and Knowledge,  University of Zaragoza, Spain, June 14–16, 2021. [[Workshop co-organizer](https://tiad2021.unizar.es/), Program committee & Reviewer].
 
-[EACL 2021](https://2021.eacl.org/) – The 2021 Conference of the European Chapter of the Association for Computational Linguistics, Kiev, Ukraine, April 19–23, 2021. [Program committee / Reviewer]. 
+[NAACL 2021](https://2021.naacl.org/) – The 2021 Conference of the North American Chapter of the Association for Computational Linguistics – Human Language Technologies, Mexico City, Mexico, June 6–11, 2021. [Reviewer].
 
-[AACL-IJCNLP 2020](http://aacl2020.org/) – The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 9th International Joint Conference on Natural Language Processing. Suzhou, China, December 4–7, 2020. [Program committee / Reviewer].
+[EACL 2021](https://2021.eacl.org/) – The 2021 Conference of the European Chapter of the Association for Computational Linguistics, Kiev, Ukraine, April 19–23, 2021. [Reviewer]. 
+
+[AACL-IJCNLP 2020](http://aacl2020.org/) – The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 9th International Joint Conference on Natural Language Processing. Suzhou, China, December 4–7, 2020. [Reviewer], [[Proceedings](https://www.aclweb.org/anthology/events/aacl-2020/)].
 
 [European Language Grid](http://european-language-grid.eu/) – The second  annual ELG conference: META FORUM 2020, December 1–3, 2020, Berlin, Germany. [Participating].
 
-[EMNLP 2020](https://2020.emnlp.org/) – The 2020 Conference on Empirical Methods in Natural Language Processing. Dominican Republic, November, 16–20, 2020. [[Reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf)].
+[EMNLP 2020](https://2020.emnlp.org/) – The 2020 Conference on Empirical Methods in Natural Language Processing. Dominican Republic, November, 16–20, 2020. [Reviewer], [[Proceedings](https://www.aclweb.org/anthology/events/emnlp-2020/)].
 
-[GLOBALEX 2020](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/) @ [LREC 2020](https://lrec2020.lrec-conf.org/), Marseílle, France, May 12, 2020. [[Track co-organizer](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020) / [Program committee](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020) / Reviewer].
+[GLOBALEX 2020](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/) @ [LREC 2020](https://lrec2020.lrec-conf.org/), Marseílle, France, May 12, 2020. [[Track co-organizer](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020), [Program committee](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020) & Reviewer].
 
-[LREC 2020](https://lrec2020.lrec-conf.org/) – The 12th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, May 11–16, 2020. [[Scientific committee](https://lrec2020.lrec-conf.org/en/about/committees/scientific-committee/) / Reviewer].
+[LREC 2020](https://lrec2020.lrec-conf.org/) – The 12th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, May 11–16, 2020. [[Scientific committee](https://lrec2020.lrec-conf.org/en/about/committees/scientific-committee/) & Reviewer].
 
 <!-- #### In the past (selected) #### -->
 

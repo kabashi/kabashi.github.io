@@ -36,7 +36,7 @@ csl: chicago-author-date.csl
 
 <div class="cover">[![Kabashi, Besim. 2015. Automatische Verarbeitung der Morphologie des Albanischen. Erlangen: FAU University Press.](img/bk_d2015_p1_25x25.jpeg){.bookcover}](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf)</div>
 
-- <div class="book"><div class="bibentry">[@Kabashi:2015] [[bib](bib/Kabashi:2015.bib)]</div>
+- <div class="book"><div class="bibentry">[@Kabashi:2015] [[pdf](pdf/Kabashi_2015_Morphology-of-Albanian.pdf), [bib](bib/Kabashi:2015.bib)]</div>
 
 
 ## Co-Edited Proceedings ##
@@ -45,24 +45,22 @@ csl: chicago-author-date.csl
 ###  [Globalex Workshop on Linked Lexicography, 2020](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/)  ###
 
 <div class="cover">[![Kernerman et al. GlobaLex 2020](img/GLOBALEX-2020_TIAD3-MWSA.jpeg){.bookcover}](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/GLOBALEX2020book.pdf)</div>
-- <div class="book"><div class="bibentry">[@Kernerman_et_al_GlobaLex-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)]</div>
 
-<!--  - [@Kernerman_et_al_GlobaLex-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)] -->
+- <div class="book"><div class="bibentry">[@Kernerman_et_al_GlobaLex-2020:2020] [[pdf](pdf/Kernerman_et_al_2020_GlobaLex.pdf), [bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)]</div>
 
 
 ### [The 15th Conference on Natural Language Processing (KONVENS), 2019](https://2019.konvens.org/) ### 
 
 <div class="cover">[![Organized by Stefan Evert (in chief), Andreas Blombach, Natalie Dykes, Paul Greiner, Tim Griebel, Philipp Heinrich, Besim  Kabshi, and Thomas Proisl. Edited by The Chair of Computational Corpus Linguistics, University of Erlangen-Nuremberg; German Society for Computational Linguistics & Language Technology.](img/KONVENS-2019.jpeg){.bookcover}](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/Proceedings_of_the_15th_Conference_on_Natural_Language_Processing_KONVENS_2019.pdf)</div>
 
-- <div class="book"><div class="bibentry">[@Evert_et_al_KONVENS2019] [[bib](bib/Evert_et_al_KONVENS2019.bib)]</div> 
+- <div class="book"><div class="bibentry">[@Evert_et_al_KONVENS2019] [[pdf](pdf/Evert_et_al_KONVENS2019.pdf), [bib](bib/Evert_et_al_KONVENS2019.bib)]</div> 
 
 
 ###  [Translation Inference Across Dictionaries (TIAD), 2019](https://tiad2019.unizar.es/index.html)  ###
 
 <div class="cover">[![Gracia et al. TIAD 2 @ LDK 2019](img/CEUR-WS-Vol-2493-TIAD-2019.jpeg){.bookcover}](http://ceur-ws.org/Vol-2493/)</div>
-- <div class="book"><div class="bibentry">[@Gracia_et_al_TIAD2019:2019] [[bib](bib/Gracia_et_al_TIAD2019:2019.bib)]</div>
 
-<!--  - [@Gracia_et_al_TIAD2019:2019] [[bib](bib/Gracia_et_al_TIAD2019:2019.bib)] -->
+- <div class="book"><div class="bibentry">[@Gracia_et_al_TIAD2019:2019] [[net/pdf](http://ceur-ws.org/Vol-2493/), [bib](bib/Gracia_et_al_TIAD2019:2019.bib)]</div>
 
 
 ## Journal articles ##
@@ -78,15 +76,15 @@ csl: chicago-author-date.csl
 
 <!-- ### 2020 ## -->
 
-- [@Proisl_et_al_EmpiriST-2_LREC:2020] [[bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)].
+- [@Proisl_et_al_EmpiriST-2_LREC:2020] [[pdf](pdf/Proisl_et_al_2020_EmpiriST-corpus-2.0.pdf), [bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)].
 
-- [@Blombach_et_al_GeRedE-LREC:2020] [[bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)].
+- [@Blombach_et_al_GeRedE-LREC:2020] [[pdf](pdf/Blombach_et_al_2020_GeRedE.pdf), [bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)].
 
-- [@Kabashi_et_al_Word-lists:2020] [[Abstract](https://easychair.org/smart-program/APCLC2020/2020-02-13.html#talk:140430), [bib](bib/Kabashi_et_al_Word-lists:2020.bib)]. [Conference cancelled due to the current pandemic situation].
+- [@Kabashi_et_al_Word-lists:2020] [[Abstract](https://easychair.org/smart-program/APCLC2020/2020-02-13.html#talk:140430), [bib](bib/Kabashi_et_al_Word-lists:2020.bib)]. [Conference cancelled due to the COVID-19 pandemic situation].
 
 <!-- ### 2019 ## -->
 
-- [@Kabashi_eLex:2019] [[bib](bib/Kabashi_eLex:2019.bib)]
+- [@Kabashi_eLex:2019] [[pdf](pdf/Kabashi_2019_Collocations.pdf), [bib](bib/Kabashi_eLex:2019.bib)]
 
 - [@Blombach_et_al_KONVENS:2019] [[pdf](pdf/Blombach_et_al_2019_reddit_konvens.pdf), [bib](bib/Blombach_et_al_KONVENS2019GerReddit:2019.bib)]
 
@@ -123,7 +121,7 @@ csl: chicago-author-date.csl
 
 <!-- ### 2020 ## -->
 
-- [@Kabashi_Diachronic_Corpora:2020] [[bib](bib/Kabashi_Diachronic_Corpora:2020.bib)].
+- [@Kabashi_Diachronic_Corpora:2020] [[pdf](pdf/Kabashi_2020_Diachronic_Corpora.pdf), [bib](bib/Kabashi_Diachronic_Corpora:2020.bib)].
 
 <!-- ### 2018 ## -->
 
@@ -160,15 +158,15 @@ csl: chicago-author-date.csl
 
 <!-- ### 2020 ## -->
 
-- [@Kernerman_et_al_GlobaLex-Intro-2020:2020] [[bib](bib/Kernerman_et_al_GlobaLex-Intro-2020:2020.bib)]
+- [@Kernerman_et_al_GlobaLex-Intro-2020:2020] [[pdf](pdf/Kernerman_et_al_2020_GlobaLex-Intro.pdf), [bib](bib/Kernerman_et_al_GlobaLex-Intro-2020:2020.bib)]
 
 <!-- ### 2019 ## -->
 
-- [@Proisl_et_al_The_Illiterati:2019] [[bib](bib/Proisl_et_al_The_Illiterati:2019.bib)]. 
+- [@Proisl_et_al_The_Illiterati:2019] [[pdf](Proisl_et_al_2019_Illiterati.pdf), [bib](bib/Proisl_et_al_The_Illiterati:2019.bib)]. 
 
-- [@Gracia_et_al_TIAD2019-Intro:2019] [[bib](bib/Gracia_et_al_TIAD2019-Intro:2019.bib)]
+- [@Gracia_et_al_TIAD2019-Intro:2019] [[pdf](pdf/Gracia_et_al_2019_TIAD2_Preface.pdf), [bib](bib/Gracia_et_al_TIAD2019-Intro:2019.bib)]
 
-- [@Gracia_et_al_TIAD2019Results:2019] [[bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
+- [@Gracia_et_al_TIAD2019Results:2019] [[pdf](pdf/Gracia_et_al_2019_TIAD2_Summary.pdf), [bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
 
 <!-- ### 2018 ## -->
 
