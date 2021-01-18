@@ -46,7 +46,7 @@ csl: chicago-author-date.csl
 
 <div class="cover">[![Kernerman et al. GlobaLex 2020](img/GLOBALEX-2020_TIAD3-MWSA.jpeg){.bookcover}](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/GLOBALEX2020book.pdf)</div>
 
-- <div class="book"><div class="bibentry">[@Kernerman_et_al_GlobaLex-2020:2020] [[pdf](pdf/Kernerman_et_al_2020_GlobaLex.pdf), [bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)]</div>
+- <div class="book"><div class="bibentry">[@Kernerman_et_al_GlobaLex-2020:2020] [[ACL net](https://www.aclweb.org/anthology/volumes/2020.globalex-1/), [pdf](pdf/Kernerman_et_al_2020_GlobaLex.pdf), [bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)]</div>
 
 
 ### [The 15th Conference on Natural Language Processing (KONVENS), 2019](https://2019.konvens.org/) ### 
@@ -60,7 +60,7 @@ csl: chicago-author-date.csl
 
 <div class="cover">[![Gracia et al. TIAD 2 @ LDK 2019](img/CEUR-WS-Vol-2493-TIAD-2019.jpeg){.bookcover}](http://ceur-ws.org/Vol-2493/)</div>
 
-- <div class="book"><div class="bibentry">[@Gracia_et_al_TIAD2019:2019] [[net/pdf](http://ceur-ws.org/Vol-2493/), [bib](bib/Gracia_et_al_TIAD2019:2019.bib)]</div>
+- <div class="book"><div class="bibentry">[@Gracia_et_al_TIAD2019:2019] [[CEUR net/pdf](http://ceur-ws.org/Vol-2493/), [bib](bib/Gracia_et_al_TIAD2019:2019.bib)]</div>
 
 
 ## Journal articles ##
