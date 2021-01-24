@@ -55,13 +55,13 @@ Inference Across Dictionaries.
 ### Key publications ###
 
 
-- [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/Kabashi_Proisl_2018_lrec.pdf)]
+- [@Kabashi_Proisl_LREC:2018] [[pdf](pdf/Kabashi_Proisl_2018_lrec.pdf), [bib](bib/Kabashi_Proisl_LREC:2018.bib)]
 
-- [@Kabashi:2015] [[bib](bib/Kabashi:2015.bib), [pdf](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf)]
+- [@Kabashi:2015] [[pdf](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf), [bib](bib/Kabashi:2015.bib)]
 
 - [@Handl_et_al_SFCM:2009] [[pdf](pdf/Handl_et_al_SFCM.pdf), [bib](bib/@Handl_et_al_SFCM:2009.bib)]
 
-- [@Kabashi_Alphabet:2009] [[bib](bib/Kabashi_Alphabet:2009.bib), [pdf](pdf/Kabashi_2009_alphabet.pdf)]
+- [@Kabashi_Alphabet:2009] [[pdf](pdf/Kabashi_2009_alphabet.pdf), [bib](bib/Kabashi_Alphabet:2009.bib)]
 
 
 
@@ -70,11 +70,11 @@ Inference Across Dictionaries.
 
 ### Key publications ###
 
-- [@Proisl_et_al_EmpiriST-2_LREC:2020] [[bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)].
+- [@Proisl_et_al_EmpiriST-2_LREC:2020] [[pdf](pdf/Proisl_et_al_2020_EmpiriST-corpus-2.0.pdf), [bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)].
 
-- [@Blombach_et_al_GeRedE-LREC:2020] [[bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)].
+- [@Blombach_et_al_GeRedE-LREC:2020] [[pdf](pdf/Blombach_et_al_2020_GeRedE.pdf), [bib](bib/Blombach_et_al_GeRedE-LREC:2020.bib)].
 
-- [@Kabashi_AlCo:2017] [[bib](bib/Kabashi_AlCo:2017.bib), [pdf](pdf/Kabashi_2017_AlCo.pdf)]
+- [@Kabashi_AlCo:2017] [[pdf](pdf/Kabashi_2017_AlCo.pdf), [bib](bib/Kabashi_AlCo:2017.bib)]
 
 
 
@@ -83,11 +83,11 @@ Inference Across Dictionaries.
 
 ### Key publications ###
 
-- [@Kabashi_eLex:2019] [[bib](bib/Kabashi_eLex:2019.bib)]
+- [@Kabashi_eLex:2019] [[pdf](pdf/Kabashi_2019_Collocations.pdf), [bib](bib/Kabashi_eLex:2019.bib)]
 
-- [@Kabashi_Lexicographica:2018] [[bib](bib/Kabashi_Lexicographica:2018.bib)]
+- [@Kabashi_Lexicographica:2018] [[DOI](https://doi.org/10.1515/lex-2018-340112), [bib](bib/Kabashi_Lexicographica:2018.bib)]
 
-- [@Kabashi_PronominalClitics:2007] [[bib](bib/Kabashi_PronominalClitics:2007.bib), [pdf](pdf/Kabashi_2007_Clitics-Valency.pdf)]
+- [@Kabashi_PronominalClitics:2007] [[pdf](pdf/Kabashi_2007_Clitics-Valency.pdf), [bib](bib/Kabashi_PronominalClitics:2007.bib)]
 
 
 
@@ -96,11 +96,11 @@ Inference Across Dictionaries.
 
 ### Key publications ###
 
-- [@Gracia_et_al_TIAD2019Results:2019] [[bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
+- [@Gracia_et_al_TIAD2019Results:2019] [[pdf](pdf/Gracia_et_al_2019_TIAD2_Summary.pdf), [bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
 
 - [@Proisl_et_al_IEST:2018] [[pdf](pdf/Proisl_et_al_2018_iest.pdf), [bib](bib/Proisl_et_al_IEST:2018.bib)]
 
-- [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib)]
+- [@Proisl_et_al_TIAD:2017] [[pdf](pdf/Proisl_et_al_2017_tiad.pdf), [bib](bib/Proisl_et_al_TIAD:2017.bib)]
 
 - [@Proisl_et_al_SemEval:2014] [[pdf](pdf/Proisl_et_al_2014_semeval.pdf), [bib](bib/Proisl_et_al_SemEval:2014.bib)]
 

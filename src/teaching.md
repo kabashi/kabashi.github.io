@@ -13,28 +13,44 @@ csl: chicago-author-date.csl
 - [Computational Linguistics, UT, Tirana, Albania](#computational-linguistics-ut-tirana)
 - [Computational Lexicography, USC, Santiago de Compostela, Spain](#computational-lexicography-usc-santiago-de-compostela)
 
-I am part of the teaching staff of [**European Master in Lexicography
-– EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module
-**Computational Lexicography**.
+I teach at the [**Friedrich-Alexander-Universität Erlangen-Nürnberg**](https://www.fau.de/), and at the
+[**Ludwig-Maximilians-Univeristät München**](https://www.lmu.de/), in the fields of *Computational Linguistics*,
+*Corpus Linguistics*, *Linguistics*, *Computational Lexicography*, and *Albanian Linguistics*.
+
+In addition to my teaching activities at the FAU, Erlangen, and at the LMU, Munich, I am
+part of the teaching staff of [**European Master in Lexicography –
+EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module
+[Computational Lexicography](https://www.emlex.phil.fau.eu/files/2019/03/EMLex-A6-module-description-ENG-2019.pdf).
 
 [The next **EMLex 2021 summer
-term**](https://www.emlex.phil.fau.eu/emlex-summer-schools/) will be
+term**](https://www.emlex-summerterm-2021.phil.fau.eu/) will be
 held at the [University of Erlangen-Nuremberg](https://www.fau.de/)
 starting by March 1st. See the provisional description of the
 [Computational Lexicography
 Courses](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-lexicography/).
 
+## –> Summer term 2021 ##
+- **Statistik für Korpuslinguisten** (Übung, FAU).
+- **Oberseminar Computerlinguistik** (Seminar, FAU).
+- Übung zur **Grundlagen der Computerlinguistik** 2. (Übung, FAU). 
+- The **Corpus Linguist’s Essential Toolbox**. (Übung, FAU).
+- **Computational Lexicography**; "[European Master in Lexicography](https://www.emlex-summerterm-2021.phil.fau.eu/)", (Lectures, and exercises, jointly with
+    Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and
+    Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/),
+    U. of Hildesheim)
+- **Syntaktischer Aufbau** des Albanischen. (Seminar, LMU München).
 
 ## Corpus and Computational Linguistics, FAU, Erlangen ##
 
-- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2021, jointly with Prof. [Stefan Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [Ulrich Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
+- **Statistik für Korpuslinguisten** (Übung, Sommer 2021). 
+- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2021, jointly with Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
 - **Werkzeuge und Infrastrukturen der Computerlinguistik**. (Proseminar, Winter 2020/-21). 
 - Aufbaukurs **Programmierung in Python für Computerlinguisten**. (Programmierkurs, Winter 2018/-9, Winter 2019/-20, Winter 2020/-21).
-- The **Corpus Linguist’s Essential Toolbox**. (Übung, Sommer 2015, Sommer 2016, Sommer 2017, Sommer 2018, Sommer 2019, Sommer 2020).
+- The **Corpus Linguist’s Essential Toolbox**. (Übung, Sommer 2015, Sommer 2016, Sommer 2017, Sommer 2018, Sommer 2019, Sommer 2020, Sommer 2021).
 - **Grundlagen der Computerlinguistik** 2. (Vorlesung, Sommer 2019, Sommer 2020).
 - Grundlagen der Computerlinguistik 1. (Vorlesung, Winter 2016/-7, Winter 2018/-9, Winter 2019/-20). 
 - Grundkurs Programmierung in Python für Computerlinguisten. (Programmierkurs, Sommer 2018, Sommer 2020).
-- Übung zur Grundlagen der Computerlinguistik 2. (Übung, Sommer 2017). 
+- Übung zur Grundlagen der Computerlinguistik 2. (Übung, Sommer 2017, Sommer 2021). 
 - **Korpusbasierte Computerlexikographie**. (Hauptseminar, Winter 2016/-7). 
 - **Werkzeuge und Arbeitstechniken der Computerlinguistik**. (Übung, Winter 2016/-7). 
 - Übung zur Grundlagen der Computerlinguistik 2. (Übung, Sommer 2016). 
@@ -64,7 +80,7 @@ Courses](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-le
 
 - **Morphologischer Aufbau** des Albanischen. (Seminar, Winter 2019/-20, Winter 2020/-21). 
 - **Einführung in die Albanologie**. (Einführungskurs, Winter 2017/-18 Blockseminar, Winter 2018/-9, Winter 2019/-20, Winter 2020/-21).
-- **Syntaktischer Aufbau** des Albanischen. (Seminar, Sommer 2020, jointly with Prof. [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html), LMU Munich).
+- **Syntaktischer Aufbau** des Albanischen. (Seminar, Sommer 2020, jointly with Prof. [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html), LMU Munich; Sommer 2021).
 - **Neologismen** in der aktuellen albanischen Presse – eine korpusbasierte Untersuchung. (Blockseminar, Sommer 2016). [Invitation](pdf/Kabashi__Neologismen_LMU_2016.pdf).
 - **Lexikalische Semantik** am Beispiel des Albanischen. (Proseminar, Sommer 2006). 
 - Der **Verbalkomplex** im Albanischen. (Proseminar, Winter 2004/-5). 
