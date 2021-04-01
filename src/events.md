@@ -55,7 +55,9 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 ## Recent participating committees and reviews ##
 
-[AACL-IJCNLP 2021](http://aacl2021.org/) – The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing. Bangkok, Thailand, August 1–6, 2021. [Reviewer].
+[EMNLP 2021](https://2021.emnlp.org/) – The 2020 Conference on Empirical Methods in Natural Language Processing. Punta Cana, Dominican Republic, November, 7–11, 2021. [Program committee / Reviewer].
+
+[ACL-IJCNLP 2021](https://2021.aclweb.org/) – The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. Bangkok, Thailand, August 1–6, 2021. [Reviewer].
 
 [LDK 2021](http://2021.ldk-conf.org/) – The 3rd Biennial Conference on Language, Data and Knowledge,  University of Zaragoza, Spain, June 14–16, 2021. [[Workshop co-organizer](https://tiad2021.unizar.es/), Program committee & Reviewer].
 
