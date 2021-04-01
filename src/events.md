@@ -55,7 +55,7 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 ## Recent participating committees and reviews ##
 
-[EMNLP 2021](https://2021.emnlp.org/) – The 2020 Conference on Empirical Methods in Natural Language Processing. Punta Cana, Dominican Republic, November, 7–11, 2021. [Program committee / Reviewer].
+[EMNLP 2021](https://2021.emnlp.org/) – The 2021 Conference on Empirical Methods in Natural Language Processing. Punta Cana, Dominican Republic, November, 7–11, 2021. [Program committee / Reviewer].
 
 [ACL-IJCNLP 2021](https://2021.aclweb.org/) – The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. Bangkok, Thailand, August 1–6, 2021. [Reviewer].
 
