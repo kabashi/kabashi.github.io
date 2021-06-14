@@ -149,3 +149,6 @@ since 2020      Part of the teaching staff of  [**European Master in Lexicograph
   - [K Dictionaries, Tel Aviv, Israel](https://www.lexicala.com/)
   - [WSO Informatik GmbH, Betzenstein, Germany](https://www.wso-informatik.de/)
 
+
+<!-- ## News ## -->
+
