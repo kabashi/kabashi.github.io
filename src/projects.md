@@ -14,10 +14,16 @@ csl: chicago-author-date.csl
 
 ## Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.) ##
 
-I am co-working on the [DFG-Projekt "Digitales
+I worked 5/2018–4/2021 on the [DFG-Projekt "Digitales
 philologisch-etymologisches Wörterbuch des Altalbanischen
 (15.-18. Jh.)"](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html)
-at the [Ludwig-Maximilians-Universität München](https://www.uni-muenchen.de/). 
+at the [Ludwig-Maximilians-Universität
+München](https://www.uni-muenchen.de/).
+
+I cooperation with / support the DFG-Projekt “Digitales
+philologisch-etymologisches Wörterbuch des Altalbanischen
+(15.-18. Jh.)” at the Ludwig-Maximilians Univerity of Munich,
+Albanology (5/2021–…).
 
 ## Corpora ##
 
@@ -60,3 +66,4 @@ methods, based on language corpora.
 
 
 <!-- ## News ## -->
+

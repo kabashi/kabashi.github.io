@@ -162,7 +162,7 @@ csl: chicago-author-date.csl
 
 <!-- ### 2019 ## -->
 
-- [@Proisl_et_al_The_Illiterati:2019] [[pdf](Proisl_et_al_2019_Illiterati.pdf), [bib](bib/Proisl_et_al_The_Illiterati:2019.bib)]. 
+- [@Proisl_et_al_The_Illiterati:2019] [[pdf](pdf/Proisl_et_al_2019_Illiterati.pdf), [bib](bib/Proisl_et_al_The_Illiterati:2019.bib)]. 
 
 - [@Gracia_et_al_TIAD2019-Intro:2019] [[pdf](pdf/Gracia_et_al_2019_TIAD2_Preface.pdf), [bib](bib/Gracia_et_al_TIAD2019-Intro:2019.bib)]
 
@@ -178,7 +178,7 @@ csl: chicago-author-date.csl
 
 <!-- ### 2014 ### -->
 
-- [@Evert_et_al_SemEval:2014] [[pdf](pdf/evert_et_al_2014_semeval.pdf), [bib](bib/Evert_et_al_SemEval:2014.bib)]
+- [@Evert_et_al_SemEval:2014] [[pdf](pdf/Evert_et_al_2014_semeval.pdf), [bib](bib/Evert_et_al_SemEval:2014.bib)]
 
 - [@Proisl_et_al_SemEval:2014] [[pdf](pdf/Proisl_et_al_2014_semeval.pdf), [bib](bib/Proisl_et_al_SemEval:2014.bib)]
 
@@ -230,3 +230,4 @@ csl: chicago-author-date.csl
 
 
 <!-- ## News ## -->
+

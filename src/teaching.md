@@ -66,7 +66,7 @@ Courses](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-le
 - Einführung in die maschinelle Sprachverarbeitung: **Computerlexikographie**. (Proseminar, Sommer 2010, Winter 2010/-1).
 - Übung zur Einführung in die maschinelle Sprachverarbeitung. (Übung, Sommer 2010).
 - **Sprachressourcen**. (Proseminar, Winter 2009/-10). 
-- [Zeichen-]**Kodierung**. (Proseminar, Sommer 2009). 
+- **Zeichenkodierung**. (Proseminar, Sommer 2009, Jointly with Matthias Bethke). 
 - Werkzeuge und Arbeitstechniken der Computerlinguistik. (Rechnerübung, Winter 2008/-9).
 - **Grammatische Kodierung**. (Proseminar, Sommer 2008). 
 - **Sprachproduktion**. (Proseminar, Winter 2007/-8).
@@ -81,7 +81,7 @@ Courses](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-le
 - **Morphologischer Aufbau** des Albanischen. (Seminar, Winter 2019/-20, Winter 2020/-21). 
 - **Einführung in die Albanologie**. (Einführungskurs, Winter 2017/-18 Blockseminar, Winter 2018/-9, Winter 2019/-20, Winter 2020/-21).
 - **Syntaktischer Aufbau** des Albanischen. (Seminar, Sommer 2020, jointly with Prof. [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html), LMU Munich; Sommer 2021).
-- **Neologismen** in der aktuellen albanischen Presse – eine korpusbasierte Untersuchung. (Blockseminar, Sommer 2016). [Invitation](pdf/Kabashi__Neologismen_LMU_2016.pdf).
+- **Neologismen** in der aktuellen albanischen Presse – eine korpusbasierte Untersuchung. (Blockseminar, Sommer 2014). [Invitation](pdf/Kabashi__Neologismen_LMU_2016.pdf).
 - **Lexikalische Semantik** am Beispiel des Albanischen. (Proseminar, Sommer 2006). 
 - Der **Verbalkomplex** im Albanischen. (Proseminar, Winter 2004/-5). 
 
@@ -100,3 +100,4 @@ Courses](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-le
 <!-- [Total: 62 (45+10+6+1)] -->
 
 <!-- ## News ## -->
+
