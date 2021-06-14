@@ -45,7 +45,7 @@ since 2020      Part of the teaching staff of  [**European Master in Lexicograph
 
  - [**In Preparation** / **coming soon**]: The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on September 1, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel, and *Noam Ordan*, University of Haifa, Israel.
 
- - Co-organization of the [15th Conference on Natural Language Processing (KONVENS 2019)](https://2019.konvens.org/) in Erlangen, 8–11 October 2019 (with Stefan Evert, Andreas Blombach, Natalie Dykes, Paul Greiner, Tim Griebel, Philipp Heinrich, Thomas Proisl, and Tanja Schorr)
+ - Co-organization of the [15th Conference on Natural Language Processing (KONVENS 2019)](https://2019.konvens.org/) in Erlangen, 8–11 October 2019 – with Stefan Evert (in chief), Andreas Blombach, Natalie Dykes, Paul Greiner, Tim Griebel, Philipp Heinrich, Thomas Proisl, and Tanja Schorr.
 
  - See [more events](https://www.besim-kabashi.net/events.html).
  
