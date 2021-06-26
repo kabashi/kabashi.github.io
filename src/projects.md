@@ -25,7 +25,7 @@ philologisch-etymologisches Wörterbuch des Altalbanischen
 (15.-18. Jh.)” at the Ludwig-Maximilians Univerity of Munich,
 Albanology (5/2021–…).
 
-## Tracking the infodemic-Conspiracy theories in the corona crisis ##
+## Tracking the infodemic – Conspiracy theories in the corona crisis ##
 
 - I am co-working on the VW-Stiftung Project "Tracking the infodemic – Conspiracy theories in the corona crisis" 
 at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de) of the
