@@ -38,7 +38,7 @@ Courses](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-le
     Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and
     Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/),
     U. of Hildesheim)
-- **Syntaktischer Aufbau** des Albanischen. (Seminar, LMU München).
+- **Syntaktischer Aufbau** des Albanischen. (Seminar, LMU).
 
 ## Corpus and Computational Linguistics, FAU, Erlangen ##
 

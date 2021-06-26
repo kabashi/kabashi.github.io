@@ -18,27 +18,26 @@ csl: chicago-author-date.csl
 --------------- -----------------------------------------------------------------------------------------
 **since 2003**  **Researcher** at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de),\ [**Friedrich-Alexander University of Erlangen-Nuremberg** (FAU)](https://www.fau.de), Germany.
 
-since 2004      Various contracts as **Researcher** and **Lecturer** at **Ludwig-Maximilians Univerity of Munich**, **Albanology**.
+since 2004      Various contracts as **Researcher** and **Lecturer** at [**Ludwig-Maximilians Univerity of Munich**](https://www.lmu.de/), [**Albanology**.](https://www.albanologie.uni-muenchen.de/)
 
-2018–2021       Co-working on the DFG-Projekt “Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.)” at the **Ludwig-Maximilians Univerity of Munich**, **Albanology**.
+2018–2021       Co-working on the [DFG-Projekt “Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.)”](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html) at the **Ludwig-Maximilians Univerity of Munich**, **Albanology**.
 
-2020            **Visiting lecturer** at the **Univerisity of Santiago de Compostela** (UCS), Spain, **Computational Lexicography** (**EMLex**).
+2020            **Visiting lecturer** at the [**Univerisity of Santiago de Compostela** (UCS)](https://www.usc.gal/en), Spain, **Computational Lexicography** (**EMLex**). 
 
 since 2020      Part of the teaching staff of  [**European Master in Lexicography – EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module **Computational Lexicography**. (International Elite Program).
 
-2018–2020       **Researcher** at the **Fraunhofer** IIS, **Erlangen**, Germany, **Natural Language Processing**.  
+2018–2020       **Researcher** at the [**Fraunhofer** IIS](https://www.iis.fraunhofer.de/), **Erlangen**, Germany, **Natural Language Processing**.  
 
-2011–2014       **Dr.-Ing.** in **Computer Science**, **Artificial Intelligence**, Friedrich-Alexander **University of Erlangen-Nuremberg**, Germany.\
-				Thesis: *Automatische Verarbeitung der Morphologie des Albanischen* 
+2011–2014       **Doktor-Ingenieur**, (**Dr.-Ing.**), in **Computer Science**, **Artificial Intelligence** / **Digital Humanities**, Friedrich-Alexander **University of Erlangen-Nuremberg**, Germany.\
+				Thesis: [*Automatische Verarbeitung der Morphologie des Albanischen*](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf) (i.e. *Automatic Processing of the Morphology of Albanian*).
 
-2009–2011       **Visiting lecturer** at the **Univerisity of Tirana**, Albania, **Computational Linguistics**. 
+2009–2011       **Visiting lecturer** at the [**Univerisity of Tirana**](https://unitir.edu.al/), Albania, **Computational Linguistics**.
 
 2007-2011       Project **Natural Language Production**, Computational Linguistics, Friedrich-Alexander University of Erlangen-Nuremberg.
 
-2004–2006       Certificate: **European Masters of Language and Speech**, Friedrich-Alexander **University of Erlangen-Nuremberg**, Germany & Radboud **University of Nijmegen**, Netherlands.
+2004–2006       **European Masters of Language and Speech**, Friedrich-Alexander **University of Erlangen-Nuremberg**, Germany, **The International Speech Association**, & **The European Chapter of the Association for Computational Linguistics**.
 
-1996–2003       **M.A.** in **Computational Linguistics** (**Linguistische Informatik**), **German Linguistics** and **Computer Science**, Friedrich-Alexander University of Erlangen-Nuremberg.\
-				Thesis: *Automatische Wortformerkennung	für das Albanische*.
+1996–2003       **Magister Artium**, (**M.A.**), in **Computational Linguistics** (**Linguistische Informatik**), **German Linguistics** and **Computer Science**, Friedrich-Alexander University of Erlangen-Nuremberg.
 --------------- -----------------------------------------------------------------------------------------
 
 ## Events (selected)
@@ -73,10 +72,10 @@ since 2020      Part of the teaching staff of  [**European Master in Lexicograph
   - AACL (The Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics)
   - EACL (The European Chapter of the Association for Computational Linguistics)
   - EMNLP (The Conference on Empirical Methods in Natural Language Processing)
-  - GLOBALEX (The Associations of lexicography in Africa (Afrilex), Asia (Asialex), Australasia (Australex), Europe (Euralex) and North America (DSNA))
+  - GLOBALEX (The Associations of lexicography in Africa (AfriLex), Asia (AsiaLex), Australasia (AustraLex), Europe (EuraLex) and North America (DSNA))
   - HLT (The Conference on Human Language Technologies)
   - IJCNLP (The International Joint Conference on Natural Language Processing)
-  - KONVENS (The Conference on Natural Language Processing (German: “Konferenz zur Verarbeitung natürlicher Sprache”))
+  - KONVENS (“Konferenz zur Verarbeitung natürlicher Sprache”)
   - LREC (International Conference on Language Resources and Evaluation)
   - LDK (The Conference on Language, Data and Knowledge)
   - NAACL (North American Chapter of the Association for Computational Linguistics)

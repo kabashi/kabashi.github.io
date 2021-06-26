@@ -8,22 +8,29 @@ csl: chicago-author-date.csl
 ---
 
 - [Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.)](#digitales-philologisch-etymologisches-wörterbuch-des-altalbanischen-15.-18.-jh.)
+- [Tracking the infodemic-Conspiracy theories in the corona crisis](#tracking-the-infodemic-conspiracy-theories-in-the-corona-crisis)
 - [Corpora](#corpora)
 - [Lexical Resources](#lexical-resources)
 
 
 ## Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.) ##
 
-I worked 5/2018–4/2021 on the [DFG-Projekt "Digitales
+- I worked 5/2018–4/2021 on the [DFG-Projekt "Digitales
 philologisch-etymologisches Wörterbuch des Altalbanischen
 (15.-18. Jh.)"](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html)
 at the [Ludwig-Maximilians-Universität
-München](https://www.uni-muenchen.de/).
-
+München](https://www.uni-muenchen.de/).\
 I cooperation with / support the DFG-Projekt “Digitales
 philologisch-etymologisches Wörterbuch des Altalbanischen
 (15.-18. Jh.)” at the Ludwig-Maximilians Univerity of Munich,
 Albanology (5/2021–…).
+
+## Tracking the infodemic-Conspiracy theories in the corona crisis ##
+
+- I am co-working on the VW-Stiftung Project "Tracking the infodemic – Conspiracy theories in the corona crisis" 
+at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de) of the
+[University of Erlangen-Nuremberg](https://www.fau.de), (4/2021–…).
+
 
 ## Corpora ##
 
@@ -48,8 +55,8 @@ Andreas Blombach, Natalie Dykes, Philipp Heinrich, and Thomas Proisl,
 and (2) the [EmpiriST Corpus
 2.0](https://github.com/fau-klue/empirist-corpus), created in
 collaboration with Thomas Proisl, Natalie Dykes, Philipp Heinrich,
-Andreas Blombach, and Stefan Evert.
-
+Andreas Blombach, and Stefan Evert.\
+\
 Also I am interested in creating corpora of other languages, especially
 those for members of the Romance, Germanic and Slavic language groups
 and Greek (e.g. for Bulgarian, Croatian, English, Greek, Italian,
@@ -58,7 +65,7 @@ parallel corpora of these languages.
 
 ## Lexical Resources ##
 
-I am working on building different lexical resources for **the Albanian
+- I am working on building different lexical resources for **the Albanian
 language**, for **the German language**, and for **the [other]
 languages** mentioned above, using natural language processing
 methods, based on language corpora.
