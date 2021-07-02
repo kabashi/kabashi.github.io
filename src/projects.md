@@ -20,7 +20,7 @@ philologisch-etymologisches Wörterbuch des Altalbanischen
 (15.-18. Jh.)"](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html)
 at the [Ludwig-Maximilians-Universität
 München](https://www.uni-muenchen.de/).\
-I cooperation with / support the DFG-Projekt “Digitales
+I cooperate with / support the DFG-Projekt “Digitales
 philologisch-etymologisches Wörterbuch des Altalbanischen
 (15.-18. Jh.)” at the Ludwig-Maximilians Univerity of Munich,
 Albanology (5/2021–…).

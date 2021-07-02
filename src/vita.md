@@ -8,7 +8,7 @@ csl: chicago-author-date.csl
 ---
 
   - [Education and work](#education-and-work)
-  - [Events](#events-selected)
+  - [Events](#events-recent)
   - [Reviewing activity](#reviewing-activity-selected)
 <!--  - [Invited talks](#invited-talks-selected) -->
   - [Cooperations outside the academia (selected)](#cooperations-outside-the-academia-selected)
@@ -16,15 +16,15 @@ csl: chicago-author-date.csl
 ## Education and work
 
 --------------- -----------------------------------------------------------------------------------------
+**since 2020**  Part of the teaching staff of  [**European Master in Lexicography – EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module **Computational Lexicography**. (International Elite Program).
+
+**since 2004**  Various contracts as **Researcher** and **Lecturer** at [**Ludwig-Maximilians Univerity of Munich**](https://www.lmu.de/), [**Albanology**.](https://www.albanologie.uni-muenchen.de/)
+
 **since 2003**  **Researcher** at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de),\ [**Friedrich-Alexander University of Erlangen-Nuremberg** (FAU)](https://www.fau.de), Germany.
-
-since 2004      Various contracts as **Researcher** and **Lecturer** at [**Ludwig-Maximilians Univerity of Munich**](https://www.lmu.de/), [**Albanology**.](https://www.albanologie.uni-muenchen.de/)
-
-2018–2021       Co-working on the [DFG-Projekt “Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.)”](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html) at the **Ludwig-Maximilians Univerity of Munich**, **Albanology**.
 
 2020            **Visiting lecturer** at the [**Univerisity of Santiago de Compostela** (UCS)](https://www.usc.gal/en), Spain, **Computational Lexicography** (**EMLex**). 
 
-since 2020      Part of the teaching staff of  [**European Master in Lexicography – EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module **Computational Lexicography**. (International Elite Program).
+2018–2021       Co-working on the [DFG-Projekt “Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.)”](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html) at the **Ludwig-Maximilians Univerity of Munich**, **Albanology**.
 
 2018–2020       **Researcher** at the [**Fraunhofer** IIS](https://www.iis.fraunhofer.de/), **Erlangen**, Germany, **Natural Language Processing**.  
 
@@ -37,14 +37,12 @@ since 2020      Part of the teaching staff of  [**European Master in Lexicograph
 
 2004–2006       **European Masters of Language and Speech**, Friedrich-Alexander **University of Erlangen-Nuremberg**, Germany, **The International Speech Association**, & **The European Chapter of the Association for Computational Linguistics**.
 
-1996–2003       **Magister Artium**, (**M.A.**), in **Computational Linguistics** (**Linguistische Informatik**), **German Linguistics** and **Computer Science**, Friedrich-Alexander University of Erlangen-Nuremberg.
+1996…2003       **Magister Artium**, (**M.A.**), in **Computational Linguistics** (**Linguistische Informatik**), **German Linguistics** and **Computer Science**, Friedrich-Alexander University of Erlangen-Nuremberg.
 --------------- -----------------------------------------------------------------------------------------
 
-## Events (selected)
+## Events (recent)
 
- - [**In Preparation** / **coming soon**]: The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on September 1, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel, and *Noam Ordan*, University of Haifa, Israel.
-
- - Co-organization of the [15th Conference on Natural Language Processing (KONVENS 2019)](https://2019.konvens.org/) in Erlangen, 8–11 October 2019 – with Stefan Evert (in chief), Andreas Blombach, Natalie Dykes, Paul Greiner, Tim Griebel, Philipp Heinrich, Thomas Proisl, and Tanja Schorr.
+ - [**In Preparation** / **coming soon**]: [The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021)](https://tiad2021.unizar.es/). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on September 1, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel, and *Noam Ordan*, University of Haifa, Israel.
 
  - See [more events](https://www.besim-kabashi.net/events.html).
  
@@ -58,14 +56,6 @@ since 2020      Part of the teaching staff of  [**European Master in Lexicograph
   - [Language Technology and Computational Linguistics (JLCL)](https://www.jlcl.org/)
   - [Semantic Web Journal (by IOS Press)](http://www.semantic-web-journal.net/)
 	  
-### Publishers
-
-  - ACL (The Association for Computational Linguistics)
-  - ACM (The Association for Computing Machinery)
-  - De Gruyter (Berlin, Basel, Munich, Beijing, Warsaw, Vienna)
-  - Springer (Heidelberg, Berlin, New York, etc.)
-  - IOS Press (Amsterdam, Washington, Tokyo, Berlin, Beijing, Delft)
-
 ### Conferences
 
   - ACL (The Association for Computational Linguistics)
@@ -87,9 +77,14 @@ since 2020      Part of the teaching staff of  [**European Master in Lexicograph
   - SFCM (Workshop on Systems and Frameworks for Computational Morphology) 
   - TIAD (The shared task for “Translation Inference Across Dictionaries”)
   - WASSA (Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis)
-  
 
+### Publishers
 
+  - ACL (The Association for Computational Linguistics)
+  - ACM (The Association for Computing Machinery)
+  - De Gruyter (Berlin, Basel, Munich, Beijing, Warsaw, Vienna)
+  - Springer (Heidelberg, Berlin, New York, etc.)
+  - IOS Press (Amsterdam, Washington, Tokyo, Berlin, Beijing)
 
 
 <!-- ## Invited talks (selected) -->
@@ -114,16 +109,12 @@ since 2020      Part of the teaching staff of  [**European Master in Lexicograph
 <!-- - University of Vlora, Albania, 2012. "Automatic syllabication for the Albanian language". -->
 <!-- - Center for Albanian Studies / Academy of Sciences of the R. of Albania, Tirana, Albania, 2011. \ -->
 <!--   "Corpora and other language resources for Albanian". -->
-
-<!--  Center for Albanian Studies / Academy of Sciences of the R. of Albania, Durrës, ALbania, 2010. -->
+<!--  Center for Albanian Studies / Academy of Sciences of the R. of Albania, Durrës, Albania, 2010. -->
 <!-- - The Ministry of Education, Science, Technology and Innovation of the Republic of Kosovo, Conference place: Struga, Macedonia, 2008. "Communication and Language" -->
 <!-- - Institute of Linguistic Studies, State University of Sankt Petersbourg, Russia, 2006. -->
 <!-- - University of Osnabrück, Germany, 2004. -->
 
 <!-- #### Dissemination -->
-
-
-
 
 
 <!-- ## Cooperations (selected) -->
@@ -138,9 +129,6 @@ since 2020      Part of the teaching staff of  [**European Master in Lexicograph
 <!-- U of Prizren, Kosovo -->
 <!-- U of Cosenza, Italy -->
 <!-- U of Vienna, Austria -->
-
-
-
 
 
 ## Cooperations outside the academia (selected)

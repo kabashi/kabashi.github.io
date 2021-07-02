@@ -22,12 +22,13 @@ part of the teaching staff of [**European Master in Lexicography –
 EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module
 [Computational Lexicography](https://www.emlex.phil.fau.eu/files/2019/03/EMLex-A6-module-description-ENG-2019.pdf).
 
-[The next **EMLex 2021 summer
-term**](https://www.emlex-summerterm-2021.phil.fau.eu/) will be
-held at the [University of Erlangen-Nuremberg](https://www.fau.de/)
-starting by March 1st. See the provisional description of the
-[Computational Lexicography
-Courses](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-lexicography/).
+[The **EMLex 2021 summer term**](https://www.emlex-summerterm-2021.phil.fau.eu/) has taken place
+at the [University of Erlangen-Nuremberg](https://www.fau.de/)
+See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-lexicography/).
+
+[The **EMLex 2020 summer term**](http://www.portlex.usc.gal/emlex2020) has taken place
+at the [University of Santiago de Compostela](https://www.usc.gal/).
+See the [Computational Lexicography Course](http://www.portlex.usc.gal/emlex2020/module-a6).
 
 ## –> Summer term 2021 ##
 - **Statistik für Korpuslinguisten** (Übung, FAU).
