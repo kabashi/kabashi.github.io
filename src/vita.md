@@ -18,20 +18,20 @@ csl: chicago-author-date.csl
 --------------- -----------------------------------------------------------------------------------------
 **since 2020**  Part of the teaching staff of  [**European Master in Lexicography – EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module **Computational Lexicography**. (International Elite Program).
 
-**since 2004**  Various contracts as **Researcher** and **Lecturer** at [**Ludwig-Maximilians Univerity of Munich**](https://www.lmu.de/), [**Albanology**.](https://www.albanologie.uni-muenchen.de/)
+**since 2004**  Various contracts as **Researcher** and **Lecturer** at [**Ludwig-Maximilians University of Munich**](https://www.lmu.de/), [**Albanology**.](https://www.albanologie.uni-muenchen.de/)
 
 **since 2003**  **Researcher** at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de),\ [**Friedrich-Alexander University of Erlangen-Nuremberg** (FAU)](https://www.fau.de), Germany.
 
-2020            **Visiting lecturer** at the [**Univerisity of Santiago de Compostela** (UCS)](https://www.usc.gal/en), Spain, **Computational Lexicography** (**EMLex**). 
+2020            **Visiting lecturer** at the [**University of Santiago de Compostela** (UCS)](https://www.usc.gal/en), Spain, **Computational Lexicography** (**EMLex**). 
 
-2018–2021       Co-working on the [DFG-Projekt “Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.)”](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html) at the **Ludwig-Maximilians Univerity of Munich**, **Albanology**.
+2018–2021       Co-working on the [DFG-Projekt “Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.)”](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html) at the **Ludwig-Maximilians University of Munich**, **Albanology**.
 
 2018–2020       **Researcher** at the [**Fraunhofer** IIS](https://www.iis.fraunhofer.de/), **Erlangen**, Germany, **Natural Language Processing**.  
 
 2011–2014       **Doktor-Ingenieur**, (**Dr.-Ing.**), in **Computer Science**, **Artificial Intelligence** / **Digital Humanities**, Friedrich-Alexander **University of Erlangen-Nuremberg**, Germany.\
 				Thesis: [*Automatische Verarbeitung der Morphologie des Albanischen*](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf) (i.e. *Automatic Processing of the Morphology of Albanian*).
 
-2009–2011       **Visiting lecturer** at the [**Univerisity of Tirana**](https://unitir.edu.al/), Albania, **Computational Linguistics**.
+2009–2011       **Visiting lecturer** at the [**University of Tirana**](https://unitir.edu.al/), Albania, **Computational Linguistics**.
 
 2007-2011       Project **Natural Language Production**, Computational Linguistics, Friedrich-Alexander University of Erlangen-Nuremberg.
 

@@ -13,8 +13,8 @@ csl: chicago-author-date.csl
 - [Computational Linguistics, UT, Tirana, Albania](#computational-linguistics-ut-tirana)
 - [Computational Lexicography, USC, Santiago de Compostela, Spain](#computational-lexicography-usc-santiago-de-compostela)
 
-I teach at the [**Friedrich-Alexander-Universität Erlangen-Nürnberg**](https://www.fau.de/), and at the
-[**Ludwig-Maximilians-Univeristät München**](https://www.lmu.de/), in the fields of *Computational Linguistics*,
+I teach at the [**Friedrich-Alexander University of Erlangen-Nuremberg**](https://www.fau.de/), and at the
+[**Ludwig-Maximilians University of Munich**](https://www.lmu.de/), in the fields of *Computational Linguistics*,
 *Corpus Linguistics*, *Linguistics*, *Computational Lexicography*, and *Albanian Linguistics*.
 
 In addition to my teaching activities at the FAU, Erlangen, and at the LMU, Munich, I am
@@ -25,10 +25,6 @@ EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module
 [The **EMLex 2021 summer term**](https://www.emlex-summerterm-2021.phil.fau.eu/) has taken place
 at the [University of Erlangen-Nuremberg](https://www.fau.de/)
 See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-lexicography/).
-
-[The **EMLex 2020 summer term**](http://www.portlex.usc.gal/emlex2020) has taken place
-at the [University of Santiago de Compostela](https://www.usc.gal/).
-See the [Computational Lexicography Course](http://www.portlex.usc.gal/emlex2020/module-a6).
 
 ## –> Summer term 2021 ##
 - **Statistik für Korpuslinguisten** (Übung, FAU).
@@ -94,7 +90,7 @@ See the [Computational Lexicography Course](http://www.portlex.usc.gal/emlex2020
 
 ## Computational Lexicography, USC, Santiago de Compostela ##
 
-- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2020, jointly with Prof. [Stefan Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [Ulrich Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
+- [**Computational Lexicography**](http://www.portlex.usc.gal/emlex2020/module-a6); Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2020, jointly with Prof. [Stefan Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [Ulrich Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). 
 
 
 
