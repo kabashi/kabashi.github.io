@@ -19,8 +19,8 @@ I am a member in the [Interdisciplinary Centre for Research on
 Lexicography, Valency and
 Collocation](http://www.lexi.uni-erlangen.de)
 and in the [Interdisciplinary Centre for Digital
-Humanities](http://izdigital.fau.de) at the [Friedrich-Alexander-Universität
-Erlangen-Nürnberg](https://www.fau.de).
+Humanities](http://izdigital.fau.de) at the [Friedrich-Alexander University
+of Erlangen-Nuremberg](https://www.fau.de).
 
 Also I am a member in [The Association for Computational Linguistics
 (ACL)](https://www.aclweb.org/portal/what-is-cl), in [The

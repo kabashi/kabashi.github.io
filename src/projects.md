@@ -18,11 +18,11 @@ csl: chicago-author-date.csl
 - I worked 5/2018–4/2021 on the [DFG-Projekt "Digitales
 philologisch-etymologisches Wörterbuch des Altalbanischen
 (15.-18. Jh.)"](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html)
-at the [Ludwig-Maximilians-Universität
-München](https://www.uni-muenchen.de/).\
+at the [Ludwig-Maximilians University
+of Munich](https://www.uni-muenchen.de/).\
 I cooperate with / support the DFG-Projekt “Digitales
 philologisch-etymologisches Wörterbuch des Altalbanischen
-(15.-18. Jh.)” at the Ludwig-Maximilians Univerity of Munich,
+(15.-18. Jh.)” at the Ludwig-Maximilians University of Munich,
 Albanology (5/2021–…).
 
 ## Tracking the infodemic – Conspiracy theories in the corona crisis ##
@@ -35,7 +35,7 @@ at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.f
 ## Corpora ##
 
 - **of the Albanian language**: I am working on building Albanian
-Corpora at the [Friedrich-Alexander-Universität Erlangen-Nürnberg,
+Corpora at the [Friedrich-Alexander University of Erlangen-Nuremberg,
 Lehrstuhl für Korpus- und
 Computerlinguistik](https://www.linguistik.phil.fau.de/). The coprora
 [AlCo](https://corpora.linguistik.uni-erlangen.de/cqpweb/), [AlCoPress
@@ -46,7 +46,7 @@ created.  Other historical Albanian corpora (15.-18. Jh.), i. e. Old
 Gheg Corpus and Old Tosk Corpus are in preparation.
 
 - **of the German language**: I am co-working on building German
-Corpora at the [Friedrich-Alexander-Universität Erlangen-Nürnberg,
+Corpora at the [Friedrich-Alexander University of Erlangen-Nuremberg,
 Lehrstuhl für Korpus- und
 Computerlinguistik](https://www.linguistik.phil.fau.de/).  Two of them
 are (1) [GeRedE](https://github.com/fau-klue/empirist-corpus) – a
