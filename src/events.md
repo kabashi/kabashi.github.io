@@ -29,7 +29,7 @@ The 15th KONVENS “Bridging the gap between NLP and human understanding”, Oct
 <!-- - [TIAD 2019 @ LDK 2019](#the-2nd-translation-inference-across-dictionaries-tiad-ldk-2019) -->
 
 - ### [The 4th “Translation Inference Across Dictionaries” (TIAD)](https://tiad2021.unizar.es/) @ LDK 2021 ###
-[**In Preparation**]: The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on September 1, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel, and *Noam Ordan*, University of Haifa, Israel.
+[**In Preparation**]: The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on September 1, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, and *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel.
 
 - ### [The 3rd “Translation Inference Across Dictionaries” (TIAD)](https://tiad2020.unizar.es/) @ LREC 2020 ###
 The third shared task for “Translation Inference Across Dictionaries” (TIAD 2020) “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2020 Workshop: Linked Lexicography](https://globalex.link/events/workshops/globalex-workshop-2020/) @ [LREC 2020](https://lrec2020.lrec-conf.org/en/workshops-and-tutorials/2020-workshops/) in Marseílle, France, on May 12, 2020. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain.

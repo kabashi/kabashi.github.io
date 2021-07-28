@@ -14,7 +14,7 @@ csl: chicago-author-date.csl
 - [Computational Lexicography, USC, Santiago de Compostela, Spain](#computational-lexicography-usc-santiago-de-compostela)
 
 I teach at the [**Friedrich-Alexander University of Erlangen-Nuremberg**](https://www.fau.de/), and at the
-[**Ludwig-Maximilians University of Munich**](https://www.lmu.de/), in the fields of *Computational Linguistics*,
+[**Ludwig Maximilian University of Munich**](https://www.lmu.de/), in the fields of *Computational Linguistics*,
 *Corpus Linguistics*, *Linguistics*, *Computational Lexicography*, and *Albanian Linguistics*.
 
 In addition to my teaching activities at the FAU, Erlangen, and at the LMU, Munich, I am
@@ -23,8 +23,15 @@ EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module
 [Computational Lexicography](https://www.emlex.phil.fau.eu/files/2019/03/EMLex-A6-module-description-ENG-2019.pdf).
 
 [The **EMLex 2021 summer term**](https://www.emlex-summerterm-2021.phil.fau.eu/) has taken place
-at the [University of Erlangen-Nuremberg](https://www.fau.de/)
+at the [University of Erlangen-Nuremberg](https://www.fau.de/).
 See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-lexicography/).
+
+## –> Winter term 2021/2022 ##
+- **Oberseminar Computerlinguistik**. (Oberseminar, FAU).
+- Praktisches Hauptseminar **Computational Lexicography**. (Hauptseminar, FAU).
+- **Werkzeuge und Infrastrukturen der Computerlinguistik**. (Proseminar, FAU). 
+- **Morphologischer Aufbau** des Albanischen. (Proseminar/Übung, LMU). 
+- **Einführung in die Albanologie**. (Grundkurs, LMU).
 
 ## –> Summer term 2021 ##
 - **Statistik für Korpuslinguisten** (Übung, FAU).

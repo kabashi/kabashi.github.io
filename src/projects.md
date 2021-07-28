@@ -7,10 +7,17 @@ bibliography: kabashi_bibliography.bib
 csl: chicago-author-date.csl
 ---
 
-- [Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.)](#digitales-philologisch-etymologisches-wörterbuch-des-altalbanischen-15.-18.-jh.)
 - [Tracking the infodemic-Conspiracy theories in the corona crisis](#tracking-the-infodemic-conspiracy-theories-in-the-corona-crisis)
+- [Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.)](#digitales-philologisch-etymologisches-wörterbuch-des-altalbanischen-15.-18.-jh.)
 - [Corpora](#corpora)
 - [Lexical Resources](#lexical-resources)
+
+
+## Tracking the infodemic – Conspiracy theories in the corona crisis ##
+
+- I am co-working on the VW-Stiftung Project "Tracking the infodemic – Conspiracy theories in the corona crisis" 
+at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de) of the
+[University of Erlangen-Nuremberg](https://www.fau.de), (4/2021–…).
 
 
 ## Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.) ##
@@ -18,18 +25,12 @@ csl: chicago-author-date.csl
 - I worked 5/2018–4/2021 on the [DFG-Projekt "Digitales
 philologisch-etymologisches Wörterbuch des Altalbanischen
 (15.-18. Jh.)"](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html)
-at the [Ludwig-Maximilians University
+at the [Ludwig Maximilian University
 of Munich](https://www.uni-muenchen.de/).\
 I cooperate with / support the DFG-Projekt “Digitales
 philologisch-etymologisches Wörterbuch des Altalbanischen
-(15.-18. Jh.)” at the Ludwig-Maximilians University of Munich,
+(15.-18. Jh.)” at the Ludwig Maximilian University of Munich,
 Albanology (5/2021–…).
-
-## Tracking the infodemic – Conspiracy theories in the corona crisis ##
-
-- I am co-working on the VW-Stiftung Project "Tracking the infodemic – Conspiracy theories in the corona crisis" 
-at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de) of the
-[University of Erlangen-Nuremberg](https://www.fau.de), (4/2021–…).
 
 
 ## Corpora ##
