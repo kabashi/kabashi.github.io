@@ -28,9 +28,9 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 
 ## –> Winter term 2021/2022 ##
 - **Oberseminar Computerlinguistik**. (Oberseminar, FAU).
-- Praktisches Hauptseminar **Computational Lexicography**. (Hauptseminar, FAU).
-- **Werkzeuge und Infrastrukturen der Computerlinguistik**. (Proseminar, FAU). 
-- **Morphologischer Aufbau** des Albanischen. (Proseminar/Übung, LMU). 
+- **Computational Lexicography**. (Praktisches Hauptseminar, FAU).
+- **Werkzeuge und Infrastrukturen der Computerlinguistik**. (Praktisches Proseminar, FAU). 
+- **Morphologischer Aufbau des Albanischen**. (Proseminar/Übung, LMU). 
 - **Einführung in die Albanologie**. (Grundkurs, LMU).
 
 ## –> Summer term 2021 ##
@@ -42,7 +42,7 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
     Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and
     Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/),
     U. of Hildesheim)
-- **Syntaktischer Aufbau** des Albanischen. (Seminar, LMU).
+- **Syntaktischer Aufbau des Albanischen**. (Seminar, LMU).
 
 ## Corpus and Computational Linguistics, FAU, Erlangen ##
 
@@ -82,10 +82,10 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 
 ## Albanian Linguistics, LMU, Munich ##
 
-- **Morphologischer Aufbau** des Albanischen. (Seminar, Winter 2019/-20, Winter 2020/-21). 
-- **Einführung in die Albanologie**. (Einführungskurs, Winter 2017/-18 Blockseminar, Winter 2018/-9, Winter 2019/-20, Winter 2020/-21).
+- **Einführung in die Albanologie**. (Einführungskurs, Winter 2017/-18 Blockseminar, Winter 2018/-9, Winter 2019/-20, Winter 2020/-1, Winter 2021/-2).
+- **Morphologischer Aufbau** des Albanischen. (Seminar, Winter 2019/-20, Winter 2020/-1, Winter 2021/-2). 
 - **Syntaktischer Aufbau** des Albanischen. (Seminar, Sommer 2020, jointly with Prof. [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html), LMU Munich; Sommer 2021).
-- **Neologismen** in der aktuellen albanischen Presse – eine korpusbasierte Untersuchung. (Blockseminar, Sommer 2014). [Invitation](pdf/Kabashi__Neologismen_LMU_2016.pdf).
+- **Neologismen** in der aktuellen albanischen Presse – eine korpusbasierte Untersuchung. ([Blockseminar](pdf/Kabashi_2014_Neologismen_LMU.pdf), Sommer 2014). 
 - **Lexikalische Semantik** am Beispiel des Albanischen. (Proseminar, Sommer 2006). 
 - Der **Verbalkomplex** im Albanischen. (Proseminar, Winter 2004/-5). 
 
