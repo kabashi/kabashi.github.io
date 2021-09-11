@@ -55,7 +55,12 @@ csl: chicago-author-date.csl
   - [Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip/)
   - [Language Technology and Computational Linguistics (JLCL)](https://www.jlcl.org/)
   - [Semantic Web Journal (by IOS Press)](http://www.semantic-web-journal.net/)
-	  
+
+### Congresses
+
+  - EURALEX (The European Association for Lexicography)
+  - GLOBALEX (The Associations of lexicography in Africa (AfriLex), Asia (AsiaLex), Australasia (AustraLex), Europe (EuraLex) and North America (DSNA))
+
 ### Conferences
 
   - ACL (The Association for Computational Linguistics)
@@ -69,11 +74,6 @@ csl: chicago-author-date.csl
   - LDK (The Conference on Language, Data and Knowledge)
   - NAACL (North American Chapter of the Association for Computational Linguistics)
   - *SEM (Joint Conference on Lexical and Computational Semantics)
-
-### Congresses
-
-  - EURALEX (The European Association for Lexicography)
-  - GLOBALEX (The Associations of lexicography in Africa (AfriLex), Asia (AsiaLex), Australasia (AustraLex), Europe (EuraLex) and North America (DSNA))
 
 ### Workshops and shared tasks
 
