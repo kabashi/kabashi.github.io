@@ -62,7 +62,6 @@ csl: chicago-author-date.csl
   - AACL (The Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics)
   - EACL (The European Chapter of the Association for Computational Linguistics)
   - EMNLP (The Conference on Empirical Methods in Natural Language Processing)
-  - GLOBALEX (The Associations of lexicography in Africa (AfriLex), Asia (AsiaLex), Australasia (AustraLex), Europe (EuraLex) and North America (DSNA))
   - HLT (The Conference on Human Language Technologies)
   - IJCNLP (The International Joint Conference on Natural Language Processing)
   - KONVENS (“Konferenz zur Verarbeitung natürlicher Sprache”)
@@ -70,6 +69,11 @@ csl: chicago-author-date.csl
   - LDK (The Conference on Language, Data and Knowledge)
   - NAACL (North American Chapter of the Association for Computational Linguistics)
   - *SEM (Joint Conference on Lexical and Computational Semantics)
+
+### Congresses
+
+  - EURALEX (The European Association for Lexicography)
+  - GLOBALEX (The Associations of lexicography in Africa (AfriLex), Asia (AsiaLex), Australasia (AustraLex), Europe (EuraLex) and North America (DSNA))
 
 ### Workshops and shared tasks
 
