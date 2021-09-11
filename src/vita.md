@@ -59,7 +59,7 @@ csl: chicago-author-date.csl
 ### Congresses
 
   - EURALEX (The European Association for Lexicography)
-  - GLOBALEX (The Associations of lexicography in Africa (AfriLex), Asia (AsiaLex), Australasia (AustraLex), Europe (EuraLex) and North America (DSNA))
+  - GLOBALEX (The Associations of Lexicography in Africa (AfriLex), Asia (AsiaLex), Australasia (AustraLex), Europe (EuraLex) and North America (DSNA))
 
 ### Conferences
 
