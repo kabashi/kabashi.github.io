@@ -47,6 +47,8 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 ## Recent participating committees and reviews ##
 
+- [The XX EURALEX International Congress 2022](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress, “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language  (IDS), Mannheim, Germany, 12–16 July 2022. [[Scientific committee](https://euralex2022.ids-mannheim.de/organisation/#organising-committee) & Reviewer].
+
 - [AACL-IJCNLP 2021](https://2021.aclweb.org/) – The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. Bangkok, Thailand, August 1–6, 2021. [Reviewer],  [[Proceedings](https://www.aclweb.org/anthology/events/acl-2021/)]. 
 
 - [LDK 2021](http://2021.ldk-conf.org/) – The 3rd Biennial Conference on Language, Data and Knowledge,  University of Zaragoza, Spain, June 14–16, 2021. [[Workshop co-organizer](https://tiad2021.unizar.es/), [Program committee](http://2021.ldk-conf.org/program-committee/) & Reviewer].
