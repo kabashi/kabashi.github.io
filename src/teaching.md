@@ -20,7 +20,7 @@ I teach at the [**Friedrich-Alexander University of Erlangen-Nuremberg**](https:
 In addition to my teaching activities at the FAU, Erlangen, and at the LMU, Munich, I am
 part of the teaching staff of [**European Master in Lexicography –
 EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module
-[Computational Lexicography](https://www.emlex.phil.fau.eu/files/2019/03/EMLex-A6-module-description-ENG-2019.pdf).
+[Computational Lexicography](https://www.emlex.phil.fau.eu/files/2021/07/emlex-a6-module-description-eng-2021.pdf).
 
 [The **EMLex 2021 summer term**](https://www.emlex-summerterm-2021.phil.fau.eu/) has taken place
 at the [University of Erlangen-Nuremberg](https://www.fau.de/).
@@ -30,8 +30,8 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 - **Oberseminar Computerlinguistik**. (Oberseminar, FAU).
 - **Computational Lexicography**. (Praktisches Hauptseminar, FAU).
 - **Werkzeuge und Infrastrukturen der Computerlinguistik**. (Praktisches Proseminar, FAU). 
-- **Morphologischer Aufbau des Albanischen**. (Proseminar/Übung, LMU). 
-- **Einführung in die Albanologie**. (Grundkurs, LMU).
+<!-- - **Morphologischer Aufbau des Albanischen**. (Proseminar/Übung, LMU). -->
+<!-- - **Einführung in die Albanologie**. (Grundkurs, LMU). -->
 
 ## –> Summer term 2021 ##
 - **Statistik für Korpuslinguisten** (Übung, FAU).
