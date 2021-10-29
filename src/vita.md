@@ -28,7 +28,7 @@ csl: chicago-author-date.csl
 
 2018–2020       **Researcher** at the [**Fraunhofer** IIS](https://www.iis.fraunhofer.de/), **Erlangen**, Germany, **Natural Language Processing**.  
 
-2011–2014       **Doktor-Ingenieur**, (**Dr.-Ing.**), in **Computer Science**, **Artificial Intelligence** / **Digital Humanities**, Friedrich-Alexander **University of Erlangen-Nuremberg**, Germany.\
+2011–2014       **Doktor der Ingenieurwissenschaften**, (**Dr.-Ing.**), in **Computer Science**, **Artificial Intelligence** / **Digital Humanities**, Friedrich-Alexander **University of Erlangen-Nuremberg**, Germany.\
 				Thesis: [*Automatische Verarbeitung der Morphologie des Albanischen*](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf) (i.e. *Automatic Processing of the Morphology of Albanian*).
 
 2009–2011       **Visiting lecturer** at the [**University of Tirana**](https://unitir.edu.al/), Albania, **Computational Linguistics**.

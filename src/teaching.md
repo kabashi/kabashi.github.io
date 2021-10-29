@@ -28,7 +28,7 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 
 ## –> Winter term 2021/2022 ##
 - **Oberseminar Computerlinguistik**. (Oberseminar, FAU).
-- **Computational Lexicography**. (Praktisches Hauptseminar, FAU).
+- **Computational Lexicography**. (Praktisches Hauptseminar, FAU, EMLex).
 - **Werkzeuge und Infrastrukturen der Computerlinguistik**. (Praktisches Proseminar, FAU). 
 <!-- - **Morphologischer Aufbau des Albanischen**. (Proseminar/Übung, LMU). -->
 <!-- - **Einführung in die Albanologie**. (Grundkurs, LMU). -->
@@ -42,7 +42,7 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
     Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and
     Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/),
     U. of Hildesheim)
-- **Syntaktischer Aufbau des Albanischen**. (Seminar, LMU).
+<!-- - **Syntaktischer Aufbau des Albanischen**. (Seminar, LMU). -->
 
 ## Corpus and Computational Linguistics, FAU, Erlangen ##
 

@@ -9,7 +9,7 @@ csl: chicago-author-date.csl
 
 - [Conferences](#conferences)
 - [Shared tasks](#shared-tasks)
-- [Recent participating committees and reviews](#recent-participating-committees-and-reviews)
+- [Recent participating committees and reviews](#recent-participating-committees-and-reviews-selected)
 
 ## Conferences ##
 
@@ -45,9 +45,15 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 –> [[TIAD 2 (2019) Proceedings](http://ceur-ws.org/Vol-2493/) [–>CUER net](http://ceur-ws.org/Vol-2493/), [bib](bib/Gracia_et_al_TIAD2019:2019.bib)]
 
 
-## Recent participating committees and reviews ##
+## Recent participating committees and reviews (selected) ##
 
 - [EURALEX 2022](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress, “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language  (IDS), Mannheim, Germany, 12–16 July 2022. [[Scientific committee](https://euralex2022.ids-mannheim.de/organisation/#organising-committee) & Reviewer].
+
+- [LREC 2022](https://lrec2022.lrec-conf.org/) – The 13th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, June 20–25, 2022. [Scientific committee & Reviewer].
+
+- [GLOBALEX 2022]() @ [LREC 2022](https://lrec2022.lrec-conf.org/), Marseílle, France, June 20–25, 2022. [Track co-organizer, Program committee & Reviewer].
+
+- [META-FORUM 2021](http://meta-forum.eu/) – Using the European Language Grid, Berlin, Germany, November 15–17, 2021. [Participating].
 
 - [AACL-IJCNLP 2021](https://2021.aclweb.org/) – The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. Bangkok, Thailand, August 1–6, 2021. [Reviewer],  [[Proceedings](https://www.aclweb.org/anthology/events/acl-2021/)]. 
 
@@ -59,7 +65,7 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 - [AACL-IJCNLP 2020](http://aacl2020.org/) – The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing. Suzhou, China, December 4–7, 2020. [Reviewer], [[Proceedings](https://www.aclweb.org/anthology/events/aacl-2020/)].
 
-- [European Language Grid](http://european-language-grid.eu/) – The second  annual ELG conference: META FORUM 2020, December 1–3, 2020, Berlin, Germany. [Participating].
+- [European Language Grid](http://european-language-grid.eu/) – The second  annual ELG conference: META FORUM 2020, Berlin, Germany, December 1–3, 2020. [Participating].
 
 - [EMNLP 2020](https://2020.emnlp.org/) – The 2020 Conference on Empirical Methods in Natural Language Processing. Dominican Republic, November, 16–20, 2020. [Reviewer], [[Proceedings](https://www.aclweb.org/anthology/events/emnlp-2020/)].
 
