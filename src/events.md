@@ -8,6 +8,7 @@ csl: chicago-author-date.csl
 ---
 
 - [Conferences](#conferences)
+- [Workshops](#workshops)
 - [Shared tasks](#shared-tasks)
 - [Recent participating committees and reviews](#recent-participating-committees-and-reviews-selected)
 
@@ -22,11 +23,23 @@ The 15th KONVENS “Bridging the gap between NLP and human understanding”, Oct
 –> [[The 15th KONVENS (2019) Proceedings](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/), [bib](bib/Evert_et_al_KONVENS2019ConfOrg.bib)].
 
 
+## Workshops ##
+
+- ### [GlobaLex 2022 Workshop: Linked Lexicography]() @ [LREC 2022](https://lrec2022.lrec-conf.org/) ###
+[**In Preparation**] GlobaLex 2022 Workshop *Linked Lexicography*. In conjunction with The 13th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, on June 20, 2022. Organized in cooperation with *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel, *Simon Krek*, Jožef Stefan Institute, Ljubljana, Slovenia, *John McCrae*, National University of Ireland, Galway, Ireland, *Sina Ahmadi*, National University of Ireland, Galway, Ireland, and *Jorge Gracia*, University of Zaragoza, Spain.
+
+- ### [GlobaLex 2020 Workshop: Linked Lexicography](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/) @ [LREC 2020](https://lrec2020.lrec-conf.org/en/workshops-and-tutorials/2020-workshops/) ###
+GlobaLex 2020 Workshop *Linked Lexicography*. In conjunction with The 12th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, on May 12, 2020. Organized in cooperation with *Ilan Kernerman* (in chief), K Dictionaries, Tel Aviv, Israel, *Simon Krek*, Jožef Stefan Institute, Ljubljana, Slovenia, *John McCrae*, National University of Ireland, Galway, Ireland, *Sina Ahmadi*, National University of Ireland, Galway, Ireland, and *Jorge Gracia*, University of Zaragoza, Spain. –> [[GlobaLex 2020 Proceedings –>LREC net](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/GLOBALEX2020book.pdf), –>[ACL net](https://www.aclweb.org/anthology/volumes/2020.globalex-1/), [bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)].
+
+
 ## Shared tasks ##
 
 <!-- - [TIAD 2021 @ LDK 2021](#the-4th-translation-inference-across-dictionaries-tiad-ldk-2021) -->
 <!-- - [TIAD 2020 as GlobaLex Track 2 @ LREC 2020](#the-3rd-translation-inference-across-dictionaries-tiad-lrec-2020) -->
 <!-- - [TIAD 2019 @ LDK 2019](#the-2nd-translation-inference-across-dictionaries-tiad-ldk-2019) -->
+
+- ### [The 5th “Translation Inference Across Dictionaries” (TIAD)]() @ LREC 2022 ###
+[**In Preparation**] The fifth shared task for “Translation Inference Across Dictionaries” (TIAD 2022) “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography]() @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France,  on June 20, 2022. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain.
 
 - ### [The 4th “Translation Inference Across Dictionaries” (TIAD)](https://tiad2021.unizar.es/) @ LDK 2021 ###
 The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on September 1, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, and *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel.
