@@ -1,5 +1,5 @@
 ---
-title: Organized Conferences, Shared Tasks, etc.
+title: Organized Conferences, Workshops, etc.
 title-prefix: Besim Kabashi
 author: Besim Kabashi
 lang: en
