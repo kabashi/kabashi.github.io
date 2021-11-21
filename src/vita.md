@@ -13,6 +13,7 @@ csl: chicago-author-date.csl
 <!--  - [Invited talks](#invited-talks-selected) -->
   - [Cooperations outside the academia (selected)](#cooperations-outside-the-academia-selected)
 
+
 ## Education and work
 
 --------------- -----------------------------------------------------------------------------------------
@@ -40,12 +41,13 @@ csl: chicago-author-date.csl
 1996…2003       **Magister Artium**, (**M.A.**), in **Computational Linguistics** (**Linguistische Informatik**), **German Linguistics** and **Computer Science**, Friedrich-Alexander University of Erlangen-Nuremberg.
 --------------- -----------------------------------------------------------------------------------------
 
+
 ## Events (recent)
 
  - [The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021)](https://tiad2021.unizar.es/). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on September 1, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, and *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel.
 
  - See [more events](https://www.besim-kabashi.net/events.html).
- 
+
 
 ## Reviewing activity (selected)
 

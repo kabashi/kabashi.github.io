@@ -205,7 +205,10 @@ csl: chicago-author-date.csl
 
 <!-- Kabashi et al. APCLA -->
 
-### Recent Talks and Presentations ###
+### Recent Talks and Presentations (selected) ###
+
+- Kabashi, Besim. 2021. "A Corpus Network of Albanian". *Interdisziplinäre und transnationale Aspekte und Perspektiven der 
+Albanologie*: *Konferenz in Gedenken an Professor Wilfried Fiedler*, October 1, 2021. University of Jena, Germany. 
 
 - [@Proisl_et_al_EmpiriST2_DGfS:2020] [[Abstract, pdf](pdf/Proisl_et_al_2020_DGFS_Abstract.pdf), [Poster, pdf](pdf/Proisl_et_al_EmpiriST-corpus-2.0_DGfS_CL_2020_Poster.pdf), [bib](bib/Proisl_et_al_EmpiriST2_DGfS:2020.bib)].
 

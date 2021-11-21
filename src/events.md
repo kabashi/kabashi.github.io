@@ -11,6 +11,7 @@ csl: chicago-author-date.csl
 - [Workshops](#workshops)
 - [Shared tasks](#shared-tasks)
 - [Recent participating committees and reviews](#recent-participating-committees-and-reviews-selected)
+- [Next lectures, talks, etc.](#next-lectures-talks-etc.-selected)
 
 ## Conferences ##
 
@@ -89,6 +90,11 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 <!-- #### In the past (selected) #### -->
 
 <!-- [ACL 2017](http://acl2017.org/) – The 55th Annual Meeting of the Association for Computational Linguistics, July 30 – August 4, 2017. Vancouver, Canada. ISBN 978-1-945626-75-3 ([Volume 1, Long Papers](https://www.aclweb.org/anthology/volumes/P17-1/)) ISBN 978-1-945626-76-0 ([Volume 2, Short Papers](https://www.aclweb.org/anthology/volumes/P17-2/)). [Program committee / Primary reviewer] -->
+
+
+## Next lectures, talks, etc. (selected) ##
+
+- Scholarly lecture/talk and promoting EMLex at the University of Texas at Austin, USA, March 2022. European Master in Lexicography (EMLex). 
 
 
 <!-- ## News ## -->

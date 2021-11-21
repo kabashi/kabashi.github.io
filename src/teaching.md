@@ -12,6 +12,7 @@ csl: chicago-author-date.csl
 - [Albanian Linguistics, LMU, Munich, Germany](#albanian-linguistics-lmu-munich)
 - [Computational Linguistics, UT, Tirana, Albania](#computational-linguistics-ut-tirana)
 - [Computational Lexicography, USC, Santiago de Compostela, Spain](#computational-lexicography-usc-santiago-de-compostela)
+- [Computational Lexicography, UMinho, Braga, Portugal](#computational-lexicography-uminho-braga)
 
 I teach at the [**Friedrich-Alexander University of Erlangen-Nuremberg**](https://www.fau.de/), and at the
 [**Ludwig Maximilian University of Munich**](https://www.lmu.de/), in the fields of *Computational Linguistics*,
@@ -26,6 +27,15 @@ EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module
 at the [University of Erlangen-Nuremberg](https://www.fau.de/).
 See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-lexicography/).
 
+The **EMLex 2022 summer term** takes place at the **University of Minho, Braga, Portugal**.
+
+## –> Summer term 2022 ##
+- [**Planned/in Preparation**] *Computational Lexicography*, European Master in Lexicography,
+    *Universidade do Minho, Braga, Portugal*.  (Lectures, and exercises,
+    jointly with
+    Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and
+    Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
+    
 ## –> Winter term 2021/2022 ##
 - **Oberseminar Computerlinguistik**. (Oberseminar, FAU).
 - **Computational Lexicography**. (Praktisches Hauptseminar, FAU, EMLex).
@@ -40,8 +50,7 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 - The **Corpus Linguist’s Essential Toolbox**. (Übung, FAU).
 - **Computational Lexicography**; "[European Master in Lexicography](https://www.emlex-summerterm-2021.phil.fau.eu/)", (Lectures, and exercises, jointly with
     Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and
-    Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/),
-    U. of Hildesheim)
+    Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim)
 <!-- - **Syntaktischer Aufbau des Albanischen**. (Seminar, LMU). -->
 
 ## Corpus and Computational Linguistics, FAU, Erlangen ##
@@ -97,9 +106,11 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 
 ## Computational Lexicography, USC, Santiago de Compostela ##
 
-- [**Computational Lexicography**](http://www.portlex.usc.gal/emlex2020/module-a6); Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2020, jointly with Prof. [Stefan Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [Ulrich Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). 
+- [**Computational Lexicography**](http://www.portlex.usc.gal/emlex2020/module-a6); Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2020, jointly with Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). 
 
+## Computational Lexicography, UMinho, Braga##
 
+- [**Planned/in Preparation**] *Computational Lexicography*, Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2022, jointly with Prof. [S. Evert](https://stephanie-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). 
 
 <!-- [Total: 62 (45+10+6+1)] -->
 
