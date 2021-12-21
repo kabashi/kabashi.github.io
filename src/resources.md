@@ -80,6 +80,18 @@ word tokens (text words). The corpus is annotated like AlCo. We use
 CQPweb, a web-based corpus analysis system, to explore the corpus
 data.
 
+- ### AlCo-Tweets (sample 2020-2021) ###
+The Albanian Corpus of tweets contains around 1 million word tokens
+(text words), i.e. standard and non-standard Albanian. The corpus is
+not annotated yet.  We use CQPweb, a web-based corpus analysis system,
+to explore the corpus data.
+
+- ### AlCo-Tweets (selected users 2020-2021) ###
+The Albanian Corpus of tweets form selected users contains around 10
+million word tokens (text words), i.e. standard Albanian. The corpus
+is not annotated yet.  We use CQPweb, a web-based corpus analysis
+system, to explore the corpus data.
+
 - ### AlCo-Literature ###
 [Project just started]: The Albanian Corpus of literary texts
 (AlCo-Literature) contains around 2,5 million word tokens (text

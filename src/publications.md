@@ -207,6 +207,8 @@ csl: chicago-author-date.csl
 
 ### Recent Talks and Presentations (selected) ###
 
+- Kabashi, Besim. 2021. "Words, words, … : Usage and Constructions". *International Congress of Albanian Studies*, October 26, 2021, Academy of Sciences of the Republic of Albania, Tirana, Albania.
+
 - Kabashi, Besim. 2021. "A Corpus Network of Albanian". *Interdisziplinäre und transnationale Aspekte und Perspektiven der 
 Albanologie*: *Konferenz in Gedenken an Professor Wilfried Fiedler*, October 1, 2021. University of Jena, Germany. 
 
