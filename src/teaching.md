@@ -30,44 +30,49 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 The **EMLex 2022 summer term** takes place at the **University of Minho, Braga, Portugal**.
 
 ## –> Summer term 2022 ##
-- [**Planned/in Preparation**] *Computational Lexicography*, European Master in Lexicography,
+- **Oberseminar Computerlinguistik** (Oberseminar, FAU).
+- **Multimodal Corpora**. (Hauptseminar, FAU).
+- Grundkurs Programmierung in **Python für Computerlinguisten**. (Programmierkurs, FAU).
+- The **Corpus Linguist’s Essential Toolbox**. (Übung, FAU).
+- **Computational Lexicography**, European Master in Lexicography,
     *Universidade do Minho, Braga, Portugal*.  (Lectures, and exercises,
     jointly with
     Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and
     Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
-    
+<!-- - **Syntaktischer Aufbau des Albanischen**. (Seminar, LMU). -->
+
 ## –> Winter term 2021/2022 ##
 - **Oberseminar Computerlinguistik**. (Oberseminar, FAU).
 - **Computational Lexicography**. (Praktisches Hauptseminar, FAU, EMLex).
-- **Werkzeuge und Infrastrukturen der Computerlinguistik**. (Praktisches Proseminar, FAU). 
+- **Werkzeuge und Infrastrukturen der Computerlinguistik**. (Praktisches Proseminar/Übung, FAU). 
 <!-- - **Morphologischer Aufbau des Albanischen**. (Proseminar/Übung, LMU). -->
 <!-- - **Einführung in die Albanologie**. (Grundkurs, LMU). -->
 
-## –> Summer term 2021 ##
-- **Statistik für Korpuslinguisten** (Übung, FAU).
-- **Oberseminar Computerlinguistik** (Seminar, FAU).
-- Übung zur **Grundlagen der Computerlinguistik** 2. (Übung, FAU). 
-- The **Corpus Linguist’s Essential Toolbox**. (Übung, FAU).
-- **Computational Lexicography**; "[European Master in Lexicography](https://www.emlex-summerterm-2021.phil.fau.eu/)", (Lectures, and exercises, jointly with
+<!-- ## –> Summer term 2021 ## -->
+<!-- - **Statistik für Korpuslinguisten** (Übung, FAU). -->
+<!-- - **Oberseminar Computerlinguistik** (Seminar, FAU). -->
+<!-- - Übung zu **Grundlagen der Computerlinguistik** 2. (Übung, FAU).  -->
+<!-- - The **Corpus Linguist’s Essential Toolbox**. (Übung, FAU). -->
+<!-- - **Computational Lexicography**; "[European Master in Lexicography](https://www.emlex-summerterm-2021.phil.fau.eu/)", (Lectures, and exercises, jointly with
     Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and
-    Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim)
+    Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim) -->
 <!-- - **Syntaktischer Aufbau des Albanischen**. (Seminar, LMU). -->
 
 ## Corpus and Computational Linguistics, FAU, Erlangen ##
 
-- **Statistik für Korpuslinguisten** (Übung, Sommer 2021). 
+- **Statistik für Korpuslinguisten** (Übung, Sommer 2021).
+- **Computational Lexicography**. (Praktisches Hauptseminar, FAU, EMLex, Sommer 2021).
+- **Computerlinguistische Werkzeuge und Infrastrukturen **. (Proseminar, Winter 2020/-21, Winter 2021/-22). 
 - **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2021, jointly with Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
-- **Werkzeuge und Infrastrukturen der Computerlinguistik**. (Proseminar, Winter 2020/-21). 
 - Aufbaukurs **Programmierung in Python für Computerlinguisten**. (Programmierkurs, Winter 2018/-9, Winter 2019/-20, Winter 2020/-21).
 - The **Corpus Linguist’s Essential Toolbox**. (Übung, Sommer 2015, Sommer 2016, Sommer 2017, Sommer 2018, Sommer 2019, Sommer 2020, Sommer 2021).
 - **Grundlagen der Computerlinguistik** 2. (Vorlesung, Sommer 2019, Sommer 2020).
 - Grundlagen der Computerlinguistik 1. (Vorlesung, Winter 2016/-7, Winter 2018/-9, Winter 2019/-20). 
-- Grundkurs Programmierung in Python für Computerlinguisten. (Programmierkurs, Sommer 2018, Sommer 2020).
-- Übung zur Grundlagen der Computerlinguistik 2. (Übung, Sommer 2017, Sommer 2021). 
+- Grundkurs Programmierung in Python für Computerlinguisten. (Programmierkurs, Sommer 2018, Sommer 2020, Sommer 2022).
+- Übung zu Grundlagen der Computerlinguistik 2. (Übung, Sommer 2016, Sommer 2017, Sommer 2021). 
 - **Korpusbasierte Computerlexikographie**. (Hauptseminar, Winter 2016/-7). 
 - **Werkzeuge und Arbeitstechniken der Computerlinguistik**. (Übung, Winter 2016/-7). 
-- Übung zur Grundlagen der Computerlinguistik 2. (Übung, Sommer 2016). 
-- Übung zur Grundlagen der Computerlinguistik 1. (Übung, Winter 2015/-6).
+- Übung zu Grundlagen der Computerlinguistik 1. (Übung, Winter 2015/-6).
 - Computerlinguistische Infrastrukturen. (Proseminar, Sommer 2015).
 - Computerlinguistische Werkzeuge und Infrastrukturen. (Übung, Winter 2014/-5). 
 - Einführung in die **Grammatikentwicklung**. (Übung, Sommer 2013, Sommer 2014).
@@ -93,7 +98,7 @@ The **EMLex 2022 summer term** takes place at the **University of Minho, Braga, 
 
 - **Einführung in die Albanologie**. (Einführungskurs, Winter 2017/-18 Blockseminar, Winter 2018/-9, Winter 2019/-20, Winter 2020/-1, Winter 2021/-2).
 - **Morphologischer Aufbau** des Albanischen. (Seminar, Winter 2019/-20, Winter 2020/-1, Winter 2021/-2). 
-- **Syntaktischer Aufbau** des Albanischen. (Seminar, Sommer 2020, jointly with Prof. [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html), LMU Munich; Sommer 2021).
+- **Syntaktischer Aufbau** des Albanischen. (Seminar, Sommer 2020, jointly with Prof. [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html), LMU Munich; Sommer 2021, Sommer 2022).
 - **Neologismen** in der aktuellen albanischen Presse – eine korpusbasierte Untersuchung. ([Blockseminar](pdf/Kabashi_2014_Neologismen_LMU.pdf), Sommer 2014). 
 - **Lexikalische Semantik** am Beispiel des Albanischen. (Proseminar, Sommer 2006). 
 - Der **Verbalkomplex** im Albanischen. (Proseminar, Winter 2004/-5). 
