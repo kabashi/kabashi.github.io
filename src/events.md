@@ -39,7 +39,7 @@ The GlobaLex 2020 Workshop *Linked Lexicography*. In conjunction with The 12th E
 <!-- - [TIAD 2020 as GlobaLex Track 2 @ LREC 2020](#the-3rd-translation-inference-across-dictionaries-tiad-lrec-2020) -->
 <!-- - [TIAD 2019 @ LDK 2019](#the-2nd-translation-inference-across-dictionaries-tiad-ldk-2019) -->
 
-- ### [The 5th “Translation Inference Across Dictionaries” (TIAD)]() @ LREC 2022 ###
+- ### [The 5th “Translation Inference Across Dictionaries” (TIAD)](https://tiad2022.unizar.es/) @ LREC 2022 ###
 [**In Preparation**] The fifth shared task for “Translation Inference Across Dictionaries” (TIAD 2022) “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography]() @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France,  on June 20, 2022. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain.
 
 - ### [The 4th “Translation Inference Across Dictionaries” (TIAD)](https://tiad2021.unizar.es/) @ LDK 2021 ###

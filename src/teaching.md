@@ -34,9 +34,8 @@ The **EMLex 2022 summer term** takes place at the **University of Minho, Braga, 
 - **Multimodal Corpora**. (Hauptseminar, FAU).
 - Grundkurs Programmierung in **Python für Computerlinguisten**. (Programmierkurs, FAU).
 - The **Corpus Linguist’s Essential Toolbox**. (Übung, FAU).
-- **Computational Lexicography**, European Master in Lexicography,
-    *Universidade do Minho, Braga, Portugal*.  (Lectures, and exercises,
-    jointly with
+- **Computational Lexicography**. (Lectures, and exercises, European Master in Lexicography,
+    *Universidade do Minho, Braga, Portugal*. -- Jointly with
     Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and
     Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
 <!-- - **Syntaktischer Aufbau des Albanischen**. (Seminar, LMU). -->
