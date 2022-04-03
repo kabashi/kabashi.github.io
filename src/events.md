@@ -94,7 +94,7 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 ## Next lectures, talks, etc. (selected) ##
 
--  [Promoting EMLex](https://liberalarts.utexas.edu/germanic/events/informational-session-on-the-european-master-in-lexicography-program) and [scholarly lecture/talk](https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography) at the University of Texas at Austin, USA, March 28-29, 2022. 
+-  [Promoting EMLex](https://liberalarts.utexas.edu/germanic/events/informational-session-on-the-european-master-in-lexicography-program) and [scholarly lecture/talk](https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography) at the University of Texas at Austin, USA, March 28--29, 2022. 
 
 <!-- Scholarly lectures and talk at the Università degli Studi di Palermo, Dipartimento Culture e Società, Italy, May 2022. -->
 - Scholarly lectures and talk at the Università degli Studi di Palermo, Italy, May 2022. 
