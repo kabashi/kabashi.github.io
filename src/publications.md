@@ -207,7 +207,7 @@ csl: chicago-author-date.csl
 
 ### Recent Talks and Presentations (selected) ###
 
-- Kabashi, Besim. 2022. [*Teaching in EMJMD-EMLex: A6: Computational Lexicography*](https://liberalarts.utexas.edu/germanic/events/informational-session-on-the-european-master-in-lexicography-program). Informational Session on the European Master in Lexicography program,  March 28, 2022. The University of Texas at Austin, USA.
+- Kabashi, Besim. 2022. [*Teaching in EMJMD-EMLex: A6: Computational Lexicography*](https://liberalarts.utexas.edu/germanic/events/informational-session-on-the-european-master-in-lexicography-program). Informational Session on the European Master in Lexicography program, March 28, 2022. The University of Texas at Austin, USA.
 
 - Kabashi, Besim. 2022. [*Lexicographers, corpora and computers*(https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography). Texas Symposium on Lexicography, March 29, 2022. The University of Texas at Austin, USA. 
 
