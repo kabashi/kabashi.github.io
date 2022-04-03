@@ -207,6 +207,10 @@ csl: chicago-author-date.csl
 
 ### Recent Talks and Presentations (selected) ###
 
+- Kabashi, Besim. 2022. *Teaching in EMJMD-EMLex: A6: Computational Lexicography*. Informational Session on the European Master in Lexicography program,  March 28, 2022. [[Abstract @ UTX net](https://liberalarts.utexas.edu/germanic/events/informational-session-on-the-european-master-in-lexicography-program)].
+
+- Kabashi, Besim. 2022. *Lexicographers, corpora and computers*. Texas Symposium on Lexicography, March 29, 2022. [[Abstract @ UTX net](https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography)].
+
 - Kabashi, Besim. 2021. "Words, words, … : Usage and Constructions". *International Congress of Albanian Studies*, October 26, 2021, Academy of Sciences of the Republic of Albania, Tirana, Albania.
 
 - Kabashi, Besim. 2021. "A Corpus Network of Albanian". *Interdisziplinäre und transnationale Aspekte und Perspektiven der 
