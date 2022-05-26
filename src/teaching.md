@@ -38,9 +38,9 @@ The **EMLex 2022 summer term** takes place at the **University of Minho, Braga, 
     *Universidade do Minho, Braga, Portugal*. -- Jointly with
     Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and
     Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
-- **Syntaktischer Aufbau des Albanischen**. (Seminar, LMU).
-- **Computational Morphology and Lexicography**. (Vorlesung, LMU).
-- **Computational Morphology and Lexicography Exercises**. (Übung, LMU).
+<!-- - **Syntaktischer Aufbau des Albanischen**. (Seminar, LMU). -->
+<!-- - **Computational Morphology and Lexicography**. (Vorlesung, CIS, LMU). -->
+<!-- - **Computational Morphology and Lexicography Exercises**. (Übung, CIS, LMU). -->
 
 ## –> Winter term 2021/2022 ##
 - **Oberseminar Computerlinguistik**. (Oberseminar, FAU).
