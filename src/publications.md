@@ -23,7 +23,7 @@ csl: chicago-author-date.csl
   [Semantic Scholar](https://www.semanticscholar.org/author/Besim-Kabashi/2715062) ·
   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36608230200) ·
   [ACL Anthology](https://www.aclweb.org/anthology/people/b/besim-kabashi) ·
-  [Microsoft Academic](https://academic.microsoft.com/author/1982230417/) ·
+<!--  [Microsoft Academic](https://academic.microsoft.com/author/1982230417/) · -->
 <!-- [CiteSeerˣ](https://citeseerx.ist.psu.edu/viewauth/summary?aid=771316) · -->
 <!-- [Academia](https://uni-erlangen.academia.edu/BesimKabashi) · -->
 <!-- [ResearchGate](https://www.researchgate.net/profile/Besim_Kabashi) · -->
@@ -156,6 +156,10 @@ csl: chicago-author-date.csl
 
 ## Shared tasks ##
 
+<!-- ### 2021 ## -->
+
+- [@Gracia_et_al_TIAD2021Results:2021] [[pdf](pdf/Gracia_et_al_2021_TIAD4_Summary.pdf), [bib](bib/Gracia_et_al_TIAD2021Results:2021.bib)]
+
 <!-- ### 2020 ## -->
 
 - [@Kernerman_et_al_GlobaLex-Intro-2020:2020] [[pdf](pdf/Kernerman_et_al_2020_GlobaLex-Intro.pdf), [bib](bib/Kernerman_et_al_GlobaLex-Intro-2020:2020.bib)]
@@ -207,9 +211,9 @@ csl: chicago-author-date.csl
 
 ### Recent Talks and Presentations (selected) ###
 
-- Kabashi, Besim. 2022. [*Teaching in EMJMD-EMLex: A6: Computational Lexicography*](https://liberalarts.utexas.edu/germanic/events/informational-session-on-the-european-master-in-lexicography-program). Informational Session on the European Master in Lexicography program, March 28, 2022. The University of Texas at Austin, USA.
-
 - Kabashi, Besim. 2022. [*Lexicographers, corpora and computers*](https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography). Texas Symposium on Lexicography, March 29, 2022. The University of Texas at Austin, USA. 
+
+- Kabashi, Besim. 2022. [*Teaching in EMJMD-EMLex: A6: Computational Lexicography*](https://liberalarts.utexas.edu/germanic/events/informational-session-on-the-european-master-in-lexicography-program). Informational Session on the European Master in Lexicography program, March 28, 2022. The University of Texas at Austin, USA.
 
 - Kabashi, Besim. 2021. "Words, words, … : Usage and Constructions". *International Congress of Albanian Studies*, October 26, 2021, Academy of Sciences of the Republic of Albania, Tirana, Albania.
 

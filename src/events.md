@@ -26,8 +26,8 @@ The 15th KONVENS “Bridging the gap between NLP and human understanding”, Oct
 
 ## Workshops ##
 
-- ### [The GlobaLex 2022 Workshop *Linked Lexicography*]() @ [LREC 2022](https://lrec2022.lrec-conf.org/) ###
-[**In Preparation**] The GlobaLex 2022 Workshop *Linked Lexicography*. In conjunction with The 13th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, on June 20, 2022. Organized in cooperation with *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel, *Simon Krek*, Jožef Stefan Institute, Ljubljana, Slovenia, *John McCrae*, National University of Ireland, Galway, Ireland, *Sina Ahmadi*, National University of Ireland, Galway, Ireland, and *Jorge Gracia*, University of Zaragoza, Spain.
+- ### [The GlobaLex 2022 Workshop *Linked Lexicography*](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2022](https://lrec2022.lrec-conf.org/) ###
+[The GlobaLex 2022 Workshop *Linked Lexicography*](https://elex.is/gwll2022/). In conjunction with The 13th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, on June 20, 2022. Organized in cooperation with *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel (in chief), *Simon Krek*, Jožef Stefan Institute, Ljubljana, Slovenia (in chief), *John McCrae*, National University of Ireland, Galway, Ireland, *Sina Ahmadi*, National University of Ireland, Galway, Ireland, and *Jorge Gracia*, University of Zaragoza, Spain.
 
 - ### [The GlobaLex 2020 Workshop *Linked Lexicography*](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/) @ [LREC 2020](https://lrec2020.lrec-conf.org/en/workshops-and-tutorials/2020-workshops/) ###
 The GlobaLex 2020 Workshop *Linked Lexicography*. In conjunction with The 12th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, on May 12, 2020. Organized in cooperation with *Ilan Kernerman* (in chief), K Dictionaries, Tel Aviv, Israel, *Simon Krek*, Jožef Stefan Institute, Ljubljana, Slovenia, *John McCrae*, National University of Ireland, Galway, Ireland, *Sina Ahmadi*, National University of Ireland, Galway, Ireland, and *Jorge Gracia*, University of Zaragoza, Spain. –> [[GlobaLex 2020 Proceedings –>LREC net](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/GLOBALEX2020book.pdf), –>[ACL net](https://www.aclweb.org/anthology/volumes/2020.globalex-1/), [bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)].
@@ -40,10 +40,12 @@ The GlobaLex 2020 Workshop *Linked Lexicography*. In conjunction with The 12th E
 <!-- - [TIAD 2019 @ LDK 2019](#the-2nd-translation-inference-across-dictionaries-tiad-ldk-2019) -->
 
 - ### [The 5th “Translation Inference Across Dictionaries” (TIAD)](https://tiad2022.unizar.es/) @ LREC 2022 ###
-[**In Preparation**] The fifth shared task for “Translation Inference Across Dictionaries” (TIAD 2022) “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography]() @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France,  on June 20, 2022. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain.
+The 5th shared task for “Translation Inference Across Dictionaries” (TIAD 2022) “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France,  on June 20, 2022. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain.
 
 - ### [The 4th “Translation Inference Across Dictionaries” (TIAD)](https://tiad2021.unizar.es/) @ LDK 2021 ###
-The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on September 1, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, and *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel.
+The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on September 1, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, and *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel. 
+–> TIAD 4 (2021) proceedings are available at [–>CUER net](http://ceur-ws.org/Vol-3064/) as part of LDK Workshops and Tutorials 2021, edited by Sara Carvalho and Renato Rocha Souza. 
+<!-- Co-editors: Enrico Daga, Jorge Gracia, Besim Kabashi, Ilan Kernerman, Albert Meroño-Peñuela, Valentina Presutti, Sara Tonelli, Raphael Troncy, Marieke van Erp, Slavko Žitnik. -->
 
 - ### [The 3rd “Translation Inference Across Dictionaries” (TIAD)](https://tiad2020.unizar.es/) @ LREC 2020 ###
 The third shared task for “Translation Inference Across Dictionaries” (TIAD 2020) “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2020 Workshop: Linked Lexicography](https://globalex.link/events/workshops/globalex-workshop-2020/) @ [LREC 2020](https://lrec2020.lrec-conf.org/en/workshops-and-tutorials/2020-workshops/) in Marseílle, France, on May 12, 2020. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain.
@@ -94,10 +96,12 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 ## Next lectures, talks, etc. (selected) ##
 
--  [Promoting EMLex](https://liberalarts.utexas.edu/germanic/events/informational-session-on-the-european-master-in-lexicography-program) and [scholarly lecture/talk](https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography) at the University of Texas at Austin, USA, March 28--29, 2022. 
+-  [Promoting EMLex](https://liberalarts.utexas.edu/germanic/events/informational-session-on-the-european-master-in-lexicography-program) at the University of Texas at Austin, USA, March 28, 2022. 
 
-<!-- Scholarly lectures and talk at the Università degli Studi di Palermo, Dipartimento Culture e Società, Italy, May 2022. -->
-- Scholarly lectures and talk at the Università degli Studi di Palermo, Italy, May 2022. 
+-  [Scholarly lecture/talk](https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography) at the University of Texas at Austin, USA, March 29, 2022. 
+
+<!-- Scholarly lectures and talk at the Università degli Studi di Palermo, Dipartimento Culture e Società, Italy, July 2022. -->
+- Scholarly lectures and talk at the Università degli Studi di Palermo, Italy, July 2022. 
 
 
 <!-- ## News ## -->

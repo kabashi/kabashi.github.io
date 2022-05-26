@@ -23,6 +23,8 @@ csl: chicago-author-date.csl
 
 **since 2003**  **Researcher** at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de),\ [**Friedrich-Alexander University of Erlangen-Nuremberg** (FAU)](https://www.fau.de), Germany.
 
+2022            **Visiting lecturer** at the [**Universidade do Minho -- Braga** (UMinho)](https://www.uminho.pt/pt), Portugal, **Computational Lexicography** (**EMLex**). 
+
 2020            **Visiting lecturer** at the [**University of Santiago de Compostela** (UCS)](https://www.usc.gal/en), Spain, **Computational Lexicography** (**EMLex**). 
 
 2018–2021       Co-working on the [DFG-Projekt “Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.)”](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html) at the **Ludwig Maximilian University of Munich**, **Albanology**.
@@ -44,7 +46,7 @@ csl: chicago-author-date.csl
 
 ## Events (recent)
 
- - [The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021)](https://tiad2021.unizar.es/). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on September 1, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, and *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel.
+ - [The 5th shared task for “Translation Inference Across Dictionaries” (TIAD 2022)](https://tiad2022.unizar.es/) / “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France, on June 20, 2022. 
 
  - See [more events](https://www.besim-kabashi.net/events.html).
 
