@@ -35,12 +35,13 @@ The GlobaLex 2020 Workshop *Linked Lexicography*. In conjunction with The 12th E
 
 ## Shared tasks ##
 
+<!-- - [TIAD 2022 as GlobaLex Track 2 @ LREC 2022](#the-5th-translation-inference-across-dictionaries-tiad-lrec-2020) -->
 <!-- - [TIAD 2021 @ LDK 2021](#the-4th-translation-inference-across-dictionaries-tiad-ldk-2021) -->
 <!-- - [TIAD 2020 as GlobaLex Track 2 @ LREC 2020](#the-3rd-translation-inference-across-dictionaries-tiad-lrec-2020) -->
 <!-- - [TIAD 2019 @ LDK 2019](#the-2nd-translation-inference-across-dictionaries-tiad-ldk-2019) -->
 
 - ### [The 5th “Translation Inference Across Dictionaries” (TIAD)](https://tiad2022.unizar.es/) @ LREC 2022 ###
-The 5th shared task for “Translation Inference Across Dictionaries” (TIAD 2022) “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France,  on June 20, 2022. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain.
+The 5th shared task for “Translation Inference Across Dictionaries” (TIAD 2022) “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France,  on June 20, 2022. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain. 
 
 - ### [The 4th “Translation Inference Across Dictionaries” (TIAD)](https://tiad2021.unizar.es/) @ LDK 2021 ###
 The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on September 1, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, and *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel. 
