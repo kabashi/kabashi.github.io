@@ -74,6 +74,12 @@ csl: chicago-author-date.csl
 
 ## Articles in conference proceedings ##
 
+<!-- ### 2022 ## -->
+
+<!-- ### 2022 ## -->
+
+- [@Chiarcos_et_al:2022:GWLL] [[pdf](pdf/Chiarcos_al_2022_Collocations_OntoLex-FrAC.pdf), [bib](bib/Chiarcos_et_al:2022:GWLL.bib)]
+
 <!-- ### 2020 ## -->
 
 - [@Proisl_et_al_EmpiriST-2_LREC:2020] [[pdf](pdf/Proisl_et_al_2020_EmpiriST-corpus-2.0.pdf), [bib](bib/Proisl_et_al_EmpiriST-2_LREC:2020.bib)].
@@ -155,6 +161,10 @@ csl: chicago-author-date.csl
 
 
 ## Shared tasks ##
+
+<!-- ### 2022 ## -->
+
+- [@Gracia-Kabashi-Kernerman:2022:GWLL] [[pdf](pdf/Gracia_et_al_2022_TIAD5.pdf), [bib](bib/Gracia-Kabashi-Kernerman:2022:GWLL.bib)]
 
 <!-- ### 2021 ## -->
 

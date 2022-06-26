@@ -26,11 +26,12 @@ The 15th KONVENS “Bridging the gap between NLP and human understanding”, Oct
 
 ## Workshops ##
 
-- ### [The GlobaLex 2022 Workshop *Linked Lexicography*](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2022](https://lrec2022.lrec-conf.org/) ###
-[The GlobaLex 2022 Workshop *Linked Lexicography*](https://elex.is/gwll2022/). In conjunction with The 13th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, on June 20, 2022. Organized in cooperation with *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel (in chief), *Simon Krek*, Jožef Stefan Institute, Ljubljana, Slovenia (in chief), *John McCrae*, National University of Ireland, Galway, Ireland, *Sina Ahmadi*, National University of Ireland, Galway, Ireland, and *Jorge Gracia*, University of Zaragoza, Spain.
+
+<!-- - ### [The GlobaLex 2022 Workshop *Linked Lexicography*](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2022](https://lrec2022.lrec-conf.org/) ###
+[The GlobaLex 2022 Workshop *Linked Lexicography*](https://elex.is/gwll2022/). In conjunction with The 13th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, on June 20, 2022. Organized in cooperation with *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel (in chief), *Simon Krek*, Jožef Stefan Institute, Ljubljana, Slovenia (in chief), and *Jorge Gracia*, University of Zaragoza, Spain. -->
 
 - ### [The GlobaLex 2020 Workshop *Linked Lexicography*](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/) @ [LREC 2020](https://lrec2020.lrec-conf.org/en/workshops-and-tutorials/2020-workshops/) ###
-The GlobaLex 2020 Workshop *Linked Lexicography*. In conjunction with The 12th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, on May 12, 2020. Organized in cooperation with *Ilan Kernerman* (in chief), K Dictionaries, Tel Aviv, Israel, *Simon Krek*, Jožef Stefan Institute, Ljubljana, Slovenia, *John McCrae*, National University of Ireland, Galway, Ireland, *Sina Ahmadi*, National University of Ireland, Galway, Ireland, and *Jorge Gracia*, University of Zaragoza, Spain. –> [[GlobaLex 2020 Proceedings –>LREC net](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/GLOBALEX2020book.pdf), –>[ACL net](https://www.aclweb.org/anthology/volumes/2020.globalex-1/), [bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)].
+The GlobaLex 2020 Workshop *Linked Lexicography*. In conjunction with The 12th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, on May 12, 2020. Organized in cooperation with *Ilan Kernerman* (in chief), K Dictionaries, Tel Aviv, Israel, *Simon Krek*, Jožef Stefan Institute, Ljubljana, Slovenia, *John McCrae*, National University of Ireland, Galway, Ireland, *Sina Ahmadi*, National University of Ireland, Galway, Ireland, and *Jorge Gracia*, University of Zaragoza, Spain. –> [[GlobaLex 2020 Proceedings, incl. TIAD 3 (2020) –>LREC net](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/GLOBALEX2020book.pdf), –>[ACL net](https://www.aclweb.org/anthology/volumes/2020.globalex-1/), [bib](bib/Kernerman_et_al_GlobaLex-2020:2020.bib)].
 
 
 ## Shared tasks ##
@@ -41,7 +42,9 @@ The GlobaLex 2020 Workshop *Linked Lexicography*. In conjunction with The 12th E
 <!-- - [TIAD 2019 @ LDK 2019](#the-2nd-translation-inference-across-dictionaries-tiad-ldk-2019) -->
 
 - ### [The 5th “Translation Inference Across Dictionaries” (TIAD)](https://tiad2022.unizar.es/) @ LREC 2022 ###
-The 5th shared task for “Translation Inference Across Dictionaries” (TIAD 2022) “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France,  on June 20, 2022. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain. 
+The 5th shared task for “Translation Inference Across Dictionaries” (TIAD 2022) “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France,  on June 20, 2022. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, and with *Ilan Kernerman*, K Dictionaries – Lexicala, Tel Aviv, Israel. 
+–> [[GlobaLex 2022 Proceedings, incl. TIAD 5 (2022) –>LREC net](http://www.lrec-conf.org/proceedings/lrec2022/workshops/GWLL/index.html)], –>[ACL net](https://www.aclweb.org/anthology/volumes/2022.gwll-1/), [[pdf](pdf/Kernerman-Krek_GWLL-2022.pdf), [bib](bib/Kernerman-Krek:2022:GWLL.bib)].
+
 
 - ### [The 4th “Translation Inference Across Dictionaries” (TIAD)](https://tiad2021.unizar.es/) @ LDK 2021 ###
 The fourth shared task for “Translation Inference Across Dictionaries” (TIAD 2021). In conjunction with the third conference on [“Language, Data and Knowledge (LDK 2021)”](http://2021.ldk-conf.org/) in Zaragoza, Spain, on September 1, 2021. Organized in cooperation with *Jorge Gracia*, University of Zaragoza, Spain, and *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel. 
@@ -64,13 +67,17 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 ## Recent participating committees and reviews (selected) ##
 
-- [EURALEX 2022](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress, “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language  (IDS), Mannheim, Germany, 12–16 July 2022. [[Scientific committee](https://euralex2022.ids-mannheim.de/organisation/#organising-committee) & Reviewer].
+- [EMNLP 2022](https://2022.emnlp.org/) – The 2022 Conference on Empirical Methods in Natural Language Processing. United Arab Emirates (UAE), Abu Dhabi, December 7th–11th, 2022. [Reviewer].
 
-- [LREC 2022](https://lrec2022.lrec-conf.org/) – The 13th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, June 20–25, 2022. [Scientific committee & Reviewer].
+- [AACL-IJCNLP 2020](https://www.aacl2022.org/) – The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing. Taiwan, Taipei, November, 20th–23rd, 2022. [Reviewer].
 
-- [GLOBALEX 2022]() @ [LREC 2022](https://lrec2022.lrec-conf.org/), Marseílle, France, June 20–25, 2022. [Track co-organizer, Program committee & Reviewer].
+- [**EURALEX 2022**](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress, “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language  (IDS), Mannheim, Germany, 12–16 July 2022. [[Scientific committee](https://euralex2022.ids-mannheim.de/organisation/#organising-committee) & Reviewer].
 
-- [META-FORUM 2021](http://meta-forum.eu/) – The third annual ELG conference: Using the European Language Grid. Berlin, Germany, November 15–17, 2021. [Participating].
+- [LREC 2022](https://lrec2022.lrec-conf.org/) – The 13th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, June 20–25, 2022. [[Scientific committee](https://lrec2022.lrec-conf.org/en/committees/scientific-committee/) & Reviewer].
+
+- [GLOBALEX 2022](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2022](https://lrec2022.lrec-conf.org/), Marseílle, France, June 20–25, 2022. [[Track co-organizer](https://globalex2022.globalex.link/lrec2022/), [Program committee](https://globalex2022.globalex.link/lrec2022/) & Reviewer].
+
+<!-- - [META-FORUM 2021](http://meta-forum.eu/) – The third annual ELG conference: Using the European Language Grid. Berlin, Germany, November 15–17, 2021. [Participating]. -->
 
 - [AACL-IJCNLP 2021](https://2021.aclweb.org/) – The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. Bangkok, Thailand, August 1–6, 2021. [Reviewer],  [[Proceedings](https://www.aclweb.org/anthology/events/acl-2021/)]. 
 

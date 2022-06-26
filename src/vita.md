@@ -46,9 +46,9 @@ csl: chicago-author-date.csl
 
 ## Events (recent)
 
- - [The 5th shared task for “Translation Inference Across Dictionaries” (TIAD 2022)](https://tiad2022.unizar.es/) / “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France, on June 20, 2022. 
-
  - [EURALEX 2022](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress, “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language (IDS), Mannheim, Germany, 12–16 July 2022.
+
+ - [The 5th shared task for “Translation Inference Across Dictionaries” (TIAD 2022)](https://tiad2022.unizar.es/) / “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France, on June 20, 2022. 
 
  - See [more events](https://www.besim-kabashi.net/events.html).
 
