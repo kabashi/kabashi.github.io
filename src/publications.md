@@ -41,6 +41,12 @@ csl: chicago-author-date.csl
 
 ## Co-Edited Proceedings ##
 
+###  [Translation Inference Across Dictionaries (TIAD), 2021](https://ceur-ws.org/Vol-3064/) ###
+
+<div class="cover">[![Sara Carvalho ans Renato Rocha Souza, LDK Workshops and Tutorials 2021](img/CEUR-WS-Vol-2493-TIAD-2019.jpeg){.bookcover}](https://ceur-ws.org/Vol-3064/)</div>
+
+- <div class="book"><div class="bibentry">[@Carvalho_et_Rocha_Souza:LDK-Workshops-and-Tutorials:2021] [[CEUR net](https://ceur-ws.org/Vol-3064/), [bib](bib/Carvalho_et_Rocha_Souza:LDK-Workshops-and-Tutorials:2021.bib)]</div>
+
 
 ###  [Globalex Workshop on Linked Lexicography, 2020](https://globalex2020.globalex.link/globalex-workshop-lrec2020-about-globalex-lrec2020/)  ###
 
@@ -77,6 +83,8 @@ csl: chicago-author-date.csl
 <!-- ### 2022 ## -->
 
 <!-- ### 2022 ## -->
+
+- [@Chiarcos_et_al:2022:COLING2022] [[pdf](pdf/Chiarcos_al_2022_OntoLex-FrAC.pdf), [bib](bib/Chiarcos_et_al:2022:COLING2022.bib)]
 
 - [@Chiarcos_et_al:2022:GWLL] [[pdf](pdf/Chiarcos_al_2022_Collocations_OntoLex-FrAC.pdf), [bib](bib/Chiarcos_et_al:2022:GWLL.bib)]
 
@@ -221,6 +229,8 @@ csl: chicago-author-date.csl
 
 
 ### Recent Talks and Presentations (selected) ###
+
+- Kabashi, Besim. 2023. [*The lexis of the Albanian language used in social media: An investigation*](https://korealex.org/44). The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), June 24, 2023.  Yonsei University, Seoul, Republic of Korea.
 
 - Kabashi, Besim. 2022. [*Lexicographers, corpora and computers*](https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography). Texas Symposium on Lexicography, March 29, 2022. The University of Texas at Austin, USA. 
 

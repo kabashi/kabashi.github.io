@@ -23,9 +23,11 @@ csl: chicago-author-date.csl
 
 **since 2003**  **Researcher** at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de),\ [**Friedrich-Alexander University of Erlangen-Nuremberg** (FAU)](https://www.fau.de), Germany.
 
-2022            **Visiting lecturer** at the [**Universidade do Minho -- Braga** (UMinho)](https://www.uminho.pt/pt), Portugal, **Computational Lexicography** (**EMLex**). 
+2023            **Visiting lecturer** at the [**Károli Gáspár University of the Reformed Church in Hungary** (KRE)](https://portal.kre.hu/), Budapest, Hungary, **Computational Lexicography** (**EMLex**). 
 
-2020            **Visiting lecturer** at the [**University of Santiago de Compostela** (UCS)](https://www.usc.gal/en), Spain, **Computational Lexicography** (**EMLex**). 
+2022            **Visiting lecturer** at the [**Universidade do Minho -- Braga** (UMinho)](https://www.uminho.pt/pt), Braga, Portugal, **Computational Lexicography** (**EMLex**). 
+
+2020            **Visiting lecturer** at the [**University of Santiago de Compostela** (UCS)](https://www.usc.gal/en), Santiago de Compostela, Spain, **Computational Lexicography** (**EMLex**). 
 
 2018–2021       Co-working on the [DFG-Projekt “Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.)”](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html) at the **Ludwig Maximilian University of Munich**, **Albanology**.
 
@@ -45,6 +47,8 @@ csl: chicago-author-date.csl
 
 
 ## Events (recent)
+
+- [**ASIALEX 2023**](https://korealex.org/asialex_2023/) – The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), “Lexicography, Artificial Intelligence, and Dictionary Users”. Yonsei University, Seoul, Republic of Korea, 22–24 June 2023.  
 
  - [EURALEX 2022](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress, “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language (IDS), Mannheim, Germany, 12–16 July 2022.
 

@@ -65,7 +65,7 @@ Proisl](https://thomas-proisl.de/).
 
 
 - ### Albanian Corpus (AlCo) ###
-The Albanian Corpus (AlCo) contains a hundred million word tokens
+The Albanian Corpus (AlCo) contains a 100 million word tokens
 (text words), the first Albanian corpus of this size. The corpus
 covers different domains of language and contains different text types
 – it is a reference corpus. At this moment the work is still in
@@ -80,11 +80,11 @@ word tokens (text words). The corpus is annotated like AlCo. We use
 CQPweb, a web-based corpus analysis system, to explore the corpus
 data.
 
-- ### AlCo-Tweets (sample 2020-2021) ###
-The Albanian Corpus of tweets contains around 1 million word tokens
-(text words), i.e. standard and non-standard Albanian. The corpus is
-not annotated yet.  We use CQPweb, a web-based corpus analysis system,
-to explore the corpus data.
+- ### AlCo-Press (2021-2022) ###
+The Albanian Corpus of Press Texts (AlCo-Press 2021-2022) contains around
+60,7 million word tokens (text words). The corpus is annotated like AlCo.
+We use CQPweb, a web-based corpus analysis system, to explore the corpus
+data.
 
 - ### AlCo-Tweets (selected users 2020-2021) ###
 The Albanian Corpus of tweets form selected users contains around 10
@@ -92,11 +92,30 @@ million word tokens (text words), i.e. standard Albanian. The corpus
 is not annotated yet.  We use CQPweb, a web-based corpus analysis
 system, to explore the corpus data.
 
+- ### AlCo-Tweets (sample 2020-2021) ###
+The Albanian Corpus of tweets contains around 1 million word tokens
+(text words), i.e. standard and non-standard Albanian. The corpus is
+not annotated yet.  We use CQPweb, a web-based corpus analysis system,
+to explore the corpus data.
+
 - ### AlCo-Literature ###
-[Project just started]: The Albanian Corpus of literary texts
+The Albanian Corpus of literary texts
 (AlCo-Literature) contains around 2,5 million word tokens (text
 words). The corpus contains literary works (prose) of the most famous
 Albanian authors. The corpus is not annotated yet.  We use CQPweb, a
+web-based corpus analysis system, to explore the corpus data.
+
+- ### AlCo-Literature 2 ###
+The Albanian Corpus of literary texts
+(AlCo-Literature 2) contains around 7,8 million word tokens (text
+words). The corpus contains literary works (prose) of the most famous
+Albanian authors. The corpus is annotated.  We use CQPweb, a
+web-based corpus analysis system, to explore the corpus data.
+
+- ### AlCo-Parliament (1991-2020) ###
+The Albanian Corpus of Parliament texts and debates
+(AlCo-Parliament (1991-2020)) contains around 51,2 million word tokens (text
+words). The corpus is annotated. We use CQPweb, a
 web-based corpus analysis system, to explore the corpus data.
 
 - ### Buzuku (1555) Corpus ###

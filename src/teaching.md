@@ -9,10 +9,13 @@ csl: chicago-author-date.csl
 
 
 - [Corpus and Computational Linguistics, FAU, Erlangen, Germany](#corpus-and-computational-linguistics-fau-erlangen)
+- [Computational Linguistics, LMU, Munich, Germany](#computational-linguistics-lmu-munich)
+- [German Linguistics, FAU, Erlangen, Germany](#german-linguistics-fau-erlangen)
 - [Albanian Linguistics, LMU, Munich, Germany](#albanian-linguistics-lmu-munich)
 - [Computational Linguistics, UT, Tirana, Albania](#computational-linguistics-ut-tirana)
 - [Computational Lexicography, USC, Santiago de Compostela, Spain](#computational-lexicography-usc-santiago-de-compostela)
 - [Computational Lexicography, UMinho, Braga, Portugal](#computational-lexicography-uminho-braga)
+- [Computational Lexicography, KRE, Budapest, Hungary](#computational-lexicography-kre-budapest)
 
 I teach at the [**Friedrich-Alexander University of Erlangen-Nuremberg**](https://www.fau.de/), and at the
 [**Ludwig Maximilian University of Munich**](https://www.lmu.de/), in the fields of *Computational Linguistics*,
@@ -27,27 +30,34 @@ EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module
 at the [University of Erlangen-Nuremberg](https://www.fau.de/).
 See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.phil.fau.eu/talks/a6-computational-lexicography/).
 
-The **EMLex 2022 summer term** takes place at the **University of Minho, Braga, Portugal**.
+The **EMLex 2024 summer term** takes place at the **University of Hildesheim, Germany**.
 
-## –> Summer term 2022 ##
+## –> Winter term 2023/2024 ##
+
+
+- **Oberseminar Computerlinguistik**. (Oberseminar, FAU).
+- **Mehrwortausdrücke und Kollokationen aus computerlinguistischer Sicht** (Hauptseminar, FAU).
+- **Programmierung und Infrastrukturen der Computerlinguistik 1**. (Proseminar/Übung, FAU).
+- **Einführng in die Korpuslinguistik**. (Proseminar, FAU). 
+<!-- - **Morphologischer Aufbau des Albanischen**. (Proseminar/Übung, LMU). -->
+<!-- - **Einführung in die Albanologie**. (Grundkurs, LMU). -->
+
+
+## –> Summer term 2023 ##
+
 - **Oberseminar Computerlinguistik** (Oberseminar, FAU).
 - **Multimodal Corpora**. (Hauptseminar, FAU).
 - Grundkurs Programmierung in **Python für Computerlinguisten**. (Programmierkurs, FAU).
+- **Programmierung und Infrastrukturen der Computerlinguistik 2**. (Proseminar/Übung, FAU). 
 - The **Corpus Linguist’s Essential Toolbox**. (Übung, FAU).
 - **Computational Lexicography**. (Lectures, and exercises, European Master in Lexicography,
-    *Universidade do Minho, Braga, Portugal*. -- Jointly with
+    *KRE, Budapest, Hungary*. -- Jointly with
     Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and
     Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
 <!-- - **Syntaktischer Aufbau des Albanischen**. (Seminar, LMU). -->
 <!-- - **Computational Morphology and Lexicography**. (Vorlesung, CIS, LMU). -->
 <!-- - **Computational Morphology and Lexicography Exercises**. (Übung, CIS, LMU). -->
 
-## –> Winter term 2021/2022 ##
-- **Oberseminar Computerlinguistik**. (Oberseminar, FAU).
-- **Computational Lexicography**. (Praktisches Hauptseminar, FAU, EMLex).
-- **Werkzeuge und Infrastrukturen der Computerlinguistik**. (Praktisches Proseminar/Übung, FAU). 
-<!-- - **Morphologischer Aufbau des Albanischen**. (Proseminar/Übung, LMU). -->
-<!-- - **Einführung in die Albanologie**. (Grundkurs, LMU). -->
 
 <!-- ## –> Summer term 2021 ## -->
 <!-- - **Statistik für Korpuslinguisten** (Übung, FAU). -->
@@ -60,12 +70,14 @@ The **EMLex 2022 summer term** takes place at the **University of Minho, Braga, 
 <!-- - **Syntaktischer Aufbau des Albanischen**. (Seminar, LMU). -->
 
 ## Corpus and Computational Linguistics, FAU, Erlangen ##
-
+- **Mehrwortausdrücke und Kollokationen aus computerlinguistischer Sicht** (Hauptseminar, FAU, Winter 2023/-24).
+- **Programmierung und Infrastrukturen der Computerlinguistik 1**. (Proseminar/Übung, Winter 2022/-23, Winter 2023/-24).
+- **Programmierung und Infrastrukturen der Computerlinguistik 2**. (Proseminar/Übung, Sommer 2023).
 - **Statistik für Korpuslinguisten** (Übung, Sommer 2021).
 - **Computational Lexicography**. (Praktisches Hauptseminar, FAU, EMLex, Sommer 2021).
 - **Computerlinguistische Werkzeuge und Infrastrukturen **. (Proseminar, Winter 2020/-21, Winter 2021/-22). 
-- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2021, jointly with Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
-- Aufbaukurs **Programmierung in Python für Computerlinguisten**. (Programmierkurs, Winter 2018/-9, Winter 2019/-20, Winter 2020/-21).
+- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2020, Spring 2021, Spring 2022, Spring 2023, jointly with Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim).
+- Aufbaukurs **Programmierung in Python für Computerlinguisten**. (Programmierkurs, Winter 2018/-9, Winter 2019/-20, Winter 2020/-21, Winter 2022/-23).
 - The **Corpus Linguist’s Essential Toolbox**. (Übung, Sommer 2015, Sommer 2016, Sommer 2017, Sommer 2018, Sommer 2019, Sommer 2020, Sommer 2021).
 - **Grundlagen der Computerlinguistik** 2. (Vorlesung, Sommer 2019, Sommer 2020).
 - Grundlagen der Computerlinguistik 1. (Vorlesung, Winter 2016/-7, Winter 2018/-9, Winter 2019/-20). 
@@ -95,11 +107,22 @@ The **EMLex 2022 summer term** takes place at the **University of Minho, Braga, 
 - Computerlexikographie. (Proseminar, Winter 2004/-5).
 
 
+## German Linguistics, FAU, Erlangen ##
+
+- **Einführng in die Korpuslinguistik**. (Proseminar, FAU, Winter 2023/-4). 
+
+
+## Computational Linguistics, LMU, Munich ##
+
+- **Computational Morphology and Lexicography**. (Vorlesung, CIS, LMU, Sommer 2022).
+- **Computational Morphology and Lexicography Exercises**. (Übung, CIS, LMU, Sommer 2022).
+
+
 ## Albanian Linguistics, LMU, Munich ##
 
-- **Einführung in die Albanologie**. (Einführungskurs, Winter 2017/-18 Blockseminar, Winter 2018/-9, Winter 2019/-20, Winter 2020/-1, Winter 2021/-2).
-- **Morphologischer Aufbau** des Albanischen. (Seminar, Winter 2019/-20, Winter 2020/-1, Winter 2021/-2). 
-- **Syntaktischer Aufbau** des Albanischen. (Seminar, Sommer 2020, jointly with Prof. [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html), LMU Munich; Sommer 2021, Sommer 2022).
+- **Einführung in die Albanologie**. (Einführungskurs, Winter 2017/-18 Blockseminar, Winter 2018/-9, Winter 2019/-20, Winter 2020/-1, Winter 2021/-2, Winter 2022/-3, Winter 2023/-4).
+- **Morphologischer Aufbau** des Albanischen. (Seminar, Winter 2019/-20, Winter 2020/-1, Winter 2021/-2, Winter 2022/-3, Winter 2023/-4). 
+- **Syntaktischer Aufbau** des Albanischen. (Seminar, Sommer 2020, jointly with Prof. [Bardhyl Demiraj](https://www.albanologie.uni-muenchen.de/personen/professoren/demiraj/index.html), LMU Munich; Sommer 2021, Sommer 2022, Sommer 2023).
 - **Neologismen** in der aktuellen albanischen Presse – eine korpusbasierte Untersuchung. ([Blockseminar](pdf/Kabashi_2014_Neologismen_LMU.pdf), Sommer 2014). 
 - **Lexikalische Semantik** am Beispiel des Albanischen. (Proseminar, Sommer 2006). 
 - Der **Verbalkomplex** im Albanischen. (Proseminar, Winter 2004/-5). 
@@ -116,7 +139,12 @@ The **EMLex 2022 summer term** takes place at the **University of Minho, Braga, 
 
 ## Computational Lexicography, UMinho, Braga##
 
-- [**Planned/in Preparation**] *Computational Lexicography*, Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2022, jointly with Prof. [S. Evert](https://stephanie-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). 
+- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2022, jointly with Prof. [S. Evert](https://stephanie-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). 
+
+## Computational Lexicography, KRE, Budapest##
+
+- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2023, jointly with Prof. [S. Evert](https://stephanie-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). 
+
 
 <!-- [Total: 62 (45+10+6+1)] -->
 
