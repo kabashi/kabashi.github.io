@@ -245,6 +245,10 @@ csl: chicago-author-date.csl
 
 ### Recent Talks and Presentations (selected) ###
 
+- Kabashi, Besim. 2024. [*Using multimodal corpora in linguistic research: a tutorial for beginners*](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 24, 2024. Universidad de la Laguna, Tenerife, Spain.
+
+- Kabashi, Besim. 2024. [*Noun-adjective collocations in the Albanian language*](https://asialex2024.org/conference-program/prallel-sessions-8-2/). The 17th International Conference of the Asian Association for Lexicography (ASIALEX 2024), September 13, 2024.  Toyo University, Tokyo, Japan.
+
 - Kabashi, Besim. 2023. [*The lexis of the Albanian language used in social media: An investigation*](https://korealex.org/44). The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), June 24, 2023.  Yonsei University, Seoul, Republic of Korea.
 
 - Kabashi, Besim. 2022. [*Lexicographers, corpora and computers*](https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography). Texas Symposium on Lexicography, March 29, 2022. The University of Texas at Austin, USA. 
