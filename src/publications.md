@@ -91,7 +91,7 @@ csl: chicago-author-date.csl
 
 - [@Zilio_et_Kabashi:2024:NMT4NormHistText] [[pdf](pdf/Zilio_et_Kabashi_2024__NMT4NormHistText_EURALEX-2024.pdf), [bib](bib/Zilio_et_Kabashi:2024:NMT4NormHistText.bib)]
 
-- [@Kabashi:2024:LexVarSQcmc11] [[pdf](pdf/Kabashi_2024_LexVarSQ-SMC11_2024_Nice.pdf), [bib](bib/Kabashi:2024:LexVarSQcmc11.bib)]
+- [@Kabashi:2024:LexVarSQ-CMC-11] [[pdf](pdf/Kabashi_2024_LexVarSQ-CMC11_2024_Nice.pdf), [bib](bib/Kabashi:2024:LexVarSQ-CMC-11.bib)]
 
 - [@Khan_et_al:2024:CorpusCitationsLexRes:LREC-COLING-2024] [[pdf](pdf/Khan_et_al_Kabashi_LREC-COLING_2024_Torino.pdf), [bib](bib/Khan_et_al:2024:CorpusCitationsLexRes:LREC-COLING-2024.bib)]
 
