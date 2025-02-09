@@ -96,6 +96,8 @@ Inference Across Dictionaries.
 
 ### Key publications ###
 
+- [@Zilio_et_Kabashi:2024:NMT4NormHistText] [[pdf](pdf/Zilio_et_Kabashi_2024__NMT4NormHistText_EURALEX-2024.pdf), [bib](bib/Zilio_et_Kabashi:2024:NMT4NormHistText.bib)]
+
 - [@Gracia_et_al_TIAD2019Results:2019] [[pdf](pdf/Gracia_et_al_2019_TIAD2_Summary.pdf), [bib](bib/Gracia_et_al_TIAD2019Results:2019.bib)]
 
 - [@Proisl_et_al_IEST:2018] [[pdf](pdf/Proisl_et_al_2018_iest.pdf), [bib](bib/Proisl_et_al_IEST:2018.bib)]
