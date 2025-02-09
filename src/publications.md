@@ -69,6 +69,12 @@ csl: chicago-author-date.csl
 - <div class="book"><div class="bibentry">[@Gracia_et_al_TIAD2019:2019] [[CEUR net/pdf](http://ceur-ws.org/Vol-2493/), [bib](bib/Gracia_et_al_TIAD2019:2019.bib)]</div>
 
 
+
+## Book chapters ##
+
+- [@Chiarcos_et_al:2024:MWE-COLL-OntoLex_10998641] [[pdf](pdf/Chiarcos_et_al_Kabashi_2024_MWE_COLL-OntoLex.pdf), [bib](bib/Chiarcos_et_al_Kabashi_2024_MWE_COLL-OntoLex_10998641.bib)]
+
+
 ## Journal articles ##
 
 - [@Proisl_et_al_ANSC_LRE:2020] [[bib](bib/Proisl_et_al_ANSC_LRE:2020.bib)], In preparation.
@@ -80,7 +86,16 @@ csl: chicago-author-date.csl
 
 ## Articles in conference proceedings ##
 
-<!-- ### 2022 ## -->
+<!-- ### 2024 ## -->
+
+
+- [@Zilio_et_Kabashi:2024:NMT4NormHistText] [[pdf](pdf/Zilio_et_Kabashi_2024__NMT4NormHistText_EURALEX-2024.pdf), [bib](bib/Zilio_et_Kabashi:2024:NMT4NormHistText.bib)]
+
+- [@Kabashi:2024:LexVarSQcmc11] [[pdf](pdf/Kabashi_2024_LexVarSQ-SMC11_2024_Nice.pdf), [bib](bib/Kabashi:2024:LexVarSQcmc11.bib)]
+
+- [@Khan_et_al:2024:CorpusCitationsLexRes:LREC-COLING-2024] [[pdf](pdf/Khan_et_al_Kabashi_LREC-COLING_2024_Torino.pdf), [bib](bib/Khan_et_al:2024:CorpusCitationsLexRes:LREC-COLING-2024.bib)]
+
+
 
 <!-- ### 2022 ## -->
 
