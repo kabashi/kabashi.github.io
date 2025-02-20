@@ -52,7 +52,7 @@ csl: chicago-author-date.csl
 
 - [EURALEX 2024](https://euralex.jezik.hr/) – The XXI EURALEX International Congress: “Lexicography and Semantics”. Institut za hrvatski jezik. October 8-12, 2024. Dubrovnik Cavtat, Croatia.  
 
-- [ASIALEX 2024](https://asialex2024.org/). The 17th International Conference of the Asian Association for Lexicography (ASIALEX 2024), September 13, 2024. Toyo University, Tokyo, Japan.
+- [ASIALEX 2024](https://asialex2024.org/). The 17th International Conference of the Asian Association for Lexicography. September 13, 2024. Toyo University, Tokyo, Japan.
 
 - [CMC-11 2024](https://cmc-corpora-nice.sciencesconf.org/). The 11th Conference on Computer-Mediated Communication and Social Media Corpora. September 4–7. Université Côte d’Azur, Nice, France.
 
