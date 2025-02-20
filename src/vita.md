@@ -8,16 +8,16 @@ csl: chicago-author-date.csl
 ---
 
   - [Education and work](#education-and-work)
-  - [Events](#events-recent)
+  - [Events](#events-recent-selected)
   - [Reviewing activity](#reviewing-activity-selected)
 <!--  - [Invited talks](#invited-talks-selected) -->
-  - [Cooperations outside the academia (selected)](#cooperations-outside-the-academia-selected)
+<!--  - [Cooperations outside the academia (selected)](#cooperations-outside-the-academia-selected) -->
 
 
 ## Education and work
 
 --------------- -----------------------------------------------------------------------------------------
-**since 2020**  Part of the teaching staff of  [**European Master in Lexicography – EMLex**](https://www.emlex.phil.fau.eu/) in the advanced module **Computational Lexicography**. (International Elite Program).
+**since 2020**  Part of the teaching staff of  [**European Master in Lexicography – EMLex**](https://emlex.eu.usc.gal/web/) in the advanced module **Computational Lexicography**. (International Elite Program).
 
 **since 2004**  Various contracts as **Researcher** and **Lecturer** at [**Ludwig Maximilian University of Munich**](https://www.lmu.de/), [**Albanology**.](https://www.albanologie.uni-muenchen.de/)
 
@@ -46,15 +46,25 @@ csl: chicago-author-date.csl
 --------------- -----------------------------------------------------------------------------------------
 
 
-## Events (recent)
+## Events (recent, selected)
 
-- [**ASIALEX 2023**](https://korealex.org/asialex_2023/) – The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), “Lexicography, Artificial Intelligence, and Dictionary Users”. Yonsei University, Seoul, Republic of Korea, 22–24 June 2023.  
+- [Humanités numériques 5.0](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 22-24, 2024. Universidad de la Laguna, Tenerife, Spain.  
 
- - [EURALEX 2022](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress, “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language (IDS), Mannheim, Germany, 12–16 July 2022.
+- [EURALEX 2024](https://euralex.jezik.hr/) – The XXI EURALEX International Congress: “Lexicography and Semantics”. Institut za hrvatski jezik. October 8-12, 2024. Dubrovnik Cavtat, Croatia.  
+
+- [ASIALEX 2024](https://asialex2024.org/conference-program/prallel-sessions-8-2/). The 17th International Conference of the Asian Association for Lexicography (ASIALEX 2024), September 13, 2024. Toyo University, Tokyo, Japan.
+
+- [CMC-11 2024](https://cmc-corpora-nice.sciencesconf.org/). The 11th Conference on Computer-Mediated Communication and Social Media Corpora. September 4–7. Université Côte d’Azur, Nice, France.
+
+- [LREC-COLING 2024](https://lrec-coling-2024.org/). The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation. May 20-25, 2024. Torino, Italy.
+
+- [ASIALEX 2023](https://domestic.thinkonweb.com/society/korealex/conference/asialex23) – The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), “Lexicography, Artificial Intelligence, and Dictionary Users”. Yonsei University, Seoul, Republic of Korea, June 22–24, 2023.  
+
+ - [EURALEX 2022](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress: “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language (IDS), Mannheim, Germany, 12–16 July 2022.
 
  - [The 5th shared task for “Translation Inference Across Dictionaries” (TIAD 2022)](https://tiad2022.unizar.es/) / “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France, on June 20, 2022. 
 
- - See [more events](https://www.besim-kabashi.net/events.html).
+- See [more events](https://www.besim-kabashi.net/events.html).
 
 
 ## Reviewing activity (selected)
@@ -145,10 +155,10 @@ csl: chicago-author-date.csl
 <!-- U of Vienna, Austria -->
 
 
-## Cooperations outside the academia (selected)
+<!-- ## Cooperations outside the academia (selected)
 
-  - [K Dictionaries, Tel Aviv, Israel](https://www.lexicala.com/)
-  - [WSO Informatik GmbH, Betzenstein, Germany](https://www.wso-informatik.de/)
+<!-- - [K Dictionaries, Tel Aviv, Israel](https://www.lexicala.com/) -->
+<!-- - [WSO Informatik GmbH, Betzenstein, Germany](https://www.wso-informatik.de/) -->
 
 
 <!-- ## News ## -->

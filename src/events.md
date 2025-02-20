@@ -11,7 +11,8 @@ csl: chicago-author-date.csl
 - [Workshops](#workshops)
 - [Shared tasks](#shared-tasks)
 - [Recent participating committees and reviews](#recent-participating-committees-and-reviews-selected)
-- [Next lectures, talks, etc.](#next-lectures-talks-etc.-selected)
+- [Recent talks and presentations](#recent-talks-and-presentations-selected)
+
 
 ## Conferences ##
 
@@ -67,13 +68,13 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 ## Recent participating committees and reviews (selected) ##
 
-- [**ASIALEX 2023**](https://domestic.thinkonweb.com/society/korealex/conference/asialex23/) – The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), “Lexicography, Artificial Intelligence, and Dictionary Users”. Yonsei University, Seoul, Republic of Korea, 22–24 June 2023.  [[Scientific committee](https://korealex.org/conference/asialex23/static/225) & Reviewer].
+- [ASIALEX 2023](https://domestic.thinkonweb.com/society/korealex/conference/asialex23/) – The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), “Lexicography, Artificial Intelligence, and Dictionary Users”. Yonsei University, Seoul, Republic of Korea, 22–24 June 2023.  [[Scientific committee](https://korealex.org/conference/asialex23/static/225) & Reviewer].
 
 - [EMNLP 2022](https://2022.emnlp.org/) – The 2022 Conference on Empirical Methods in Natural Language Processing. United Arab Emirates (UAE), Abu Dhabi, December 7th–11th, 2022. [Reviewer].
 
 - [AACL-IJCNLP 2020](https://www.aacl2022.org/) – The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing. Taiwan, Taipei, November, 20th–23rd, 2022. [Reviewer].
 
-- [**EURALEX 2022**](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress, “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language  (IDS), Mannheim, Germany, 12–16 July 2022. [[Scientific committee](https://euralex2022.ids-mannheim.de/organisation/#organising-committee) & Reviewer].
+- [EURALEX 2022](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress, “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language  (IDS), Mannheim, Germany, 12–16 July 2022. [[Scientific committee](https://euralex2022.ids-mannheim.de/organisation/#organising-committee) & Reviewer].
 
 - [LREC 2022](https://lrec2022.lrec-conf.org/) – The 13th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, June 20–25, 2022. [[Scientific committee](https://lrec2022.lrec-conf.org/en/committees/scientific-committee/) & Reviewer].
 
@@ -104,14 +105,59 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 <!-- [ACL 2017](http://acl2017.org/) – The 55th Annual Meeting of the Association for Computational Linguistics, July 30 – August 4, 2017. Vancouver, Canada. ISBN 978-1-945626-75-3 ([Volume 1, Long Papers](https://www.aclweb.org/anthology/volumes/P17-1/)) ISBN 978-1-945626-76-0 ([Volume 2, Short Papers](https://www.aclweb.org/anthology/volumes/P17-2/)). [Program committee / Primary reviewer] -->
 
 
-## Next lectures, talks, etc. (selected) ##
 
--  [Promoting EMLex](https://liberalarts.utexas.edu/germanic/events/informational-session-on-the-european-master-in-lexicography-program) at the University of Texas at Austin, USA, March 28, 2022. 
 
--  [Scholarly lecture/talk](https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography) at the University of Texas at Austin, USA, March 29, 2022. 
+
+
+
+
+## Recent talks and presentations (selected) ##
+
+- Kabashi, Besim. 2024. [*Linguistic corpora and multimodality*](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Conferencia plenaria. Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 24, 2024. Universidad de la Laguna, Tenerife, Spain.
+
+- Kabashi, Besim. 2024. [*Using multimodal corpora in linguistic research: a tutorial for beginners*](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Seminario práctico. Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 24, 2024. Universidad de la Laguna, Tenerife, Spain.
+
+- Zilio, Leonardo, and Besim Kabashi. 2024. [*Using Neural Machine Translation for Normalising Historical Documents*](https://euralex.jezik.hr/wp-content/uploads/2021/09/EURALEX_2024_Full_Programme_chairs_FINAL.pdf). The XXI EURALEX International Congress: “Lexicography and Semantics”. October 8-12, 2024. Institut za hrvatski jezik, Dubrovnik Cavtat, Croatia.  
+
+- Kabashi, Besim. 2024. [*Noun-adjective collocations in the Albanian language*](https://asialex2024.org/conference-program/prallel-sessions-8-2/). The 17th International Conference of the Asian Association for Lexicography (ASIALEX 2024), September 13, 2024.  Toyo University, Tokyo, Japan.
+
+- Kabashi, Besim. 2024. [*Lexical Variation of the Albanian Language Used in Computer-Mediated Communication and the Challenge for Processing.*](https://cmc-corpora-nice.sciencesconf.org/). The 11th Conference on Computer-Mediated Communication and Social Media Corpora, September 4–7. Nice, France: Université Côte d’Azur.
+
+- Khan, Fahad, Maxim Ionov, Christian Chiarcos, Laurent Romary, Gilles Serasset, and Besim Kabashi. 2024. [*On Modelling Corpus Citations in Computational Lexical Resources*](https://lrec-coling-2024.org/). The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation. May 20-25, 2024. Lingotto Conference Centre, Torino, Italy. 
+
+- Kabashi, Besim. 2023. [*The lexis of the Albanian language used in social media: An investigation*](https://korealex.org/conference/asialex23/static/219). The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), June 24, 2023.  Yonsei University, Seoul, Republic of Korea.
+
+- Kabashi, Besim. 2022. [*Lexicographers, corpora and computers*](https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography). Texas Symposium on Lexicography, March 29, 2022. The University of Texas at Austin, USA. 
+
+- Kabashi, Besim. 2022. [*Teaching in EMJMD-EMLex: A6: Computational Lexicography*](https://liberalarts.utexas.edu/germanic/events/informational-session-on-the-european-master-in-lexicography-program). Informational Session on the European Master in Lexicography program, March 28, 2022. The University of Texas at Austin, USA.
+
+- Kabashi, Besim. 2021. "Words, words, … : Usage and Constructions". *International Congress of Albanian Studies*, October 26, 2021, Academy of Sciences of the Republic of Albania, Tirana, Albania.
+
+- Kabashi, Besim. 2021. "A Corpus Network of Albanian". *Interdisziplinäre und transnationale Aspekte und Perspektiven der Albanologie*: *Konferenz in Gedenken an Professor Wilfried Fiedler*, October 1, 2021. University of Jena, Germany. 
+
+- [@Proisl_et_al_EmpiriST2_DGfS:2020] [[Abstract, pdf](pdf/Proisl_et_al_2020_DGFS_Abstract.pdf), [Poster, pdf](pdf/Proisl_et_al_EmpiriST-corpus-2.0_DGfS_CL_2020_Poster.pdf), [bib](bib/Proisl_et_al_EmpiriST2_DGfS:2020.bib)].
+
+- [@Blombach_et_al_KONVENS:2019] [[bib](bib/Blombach_et_al_KONVENS:2019.bib)]
+
+<!-- [@Proisl_et_al_ANSC:2019] [[Presentation, pdf](pdf/Proisl_et_al_2019_NLP_for_German_CMC_Texts_ANSC_Bamberg_Presentation.pdf), [bib](bib/Proisl_et_al_ANSC:2019.bib)] -->
+
+- [@Proisl_et_al_ANSC:2019] [[bib](bib/Proisl_et_al_ANSC:2019.bib)].
+
+
+
+
+
+
+
+
+<!-- ## Next lectures, talks, etc. (selected) ## -->
+
+<!-- -  [Promoting EMLex](https://liberalarts.utexas.edu/germanic/events/informational-session-on-the-european-master-in-lexicography-program) at the University of Texas at Austin, USA, March 28, 2022. -->
+
+<!-- -  [Scholarly lecture/talk](https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography) at the University of Texas at Austin, USA, March 29, 2022. -->
 
 <!-- Scholarly lectures and talk at the Università degli Studi di Palermo, Dipartimento Culture e Società, Italy, July 2022. -->
-- Scholarly lectures and talk at the Università degli Studi di Palermo, Italy, July 2022. 
+<!-- - Scholarly lectures and talk at the Università degli Studi di Palermo, Italy, July 2022. -->
 
 
 <!-- ## News ## -->

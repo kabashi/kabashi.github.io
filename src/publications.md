@@ -8,16 +8,16 @@ csl: chicago-author-date.csl
 ---
 
 
-- [Books: Authored Monographs](#authored-monographs)
-- [Books: Editorships](#co-edited-proceedings)
-- [Books: Chapters](#book-chapters)
+- [Authored Monographs](#authored-monographs)
+- [Editorships](#co-edited-proceedings)
+- [Book Chapters](#book-chapters)
 - [Journal articles](#journal-articles)
 - [Articles in conference proceedings](#articles-in-conference-proceedings)
 - [Articles in collections](#articles-in-collections)
 - [Shared tasks](#shared-tasks)
 - [Guidelines](#guidelines)
+- [Talks and presentations](#talks-and-presentations-selected)
 <!-- - [Organized Conferences](#organized-conferences) -->
-- [Talks and presentations](#talks-and-presentations)
 
 [ [FAU Current Research Information System (CRIS)](https://cris.fau.de/converis/portal/Person/104399870?auxfun=&lang=de_DE) ·
   [dblp Computer Science Bibliography](https://dblp.org/pers/hd/k/Kabashi:Besim) ·
@@ -68,7 +68,6 @@ csl: chicago-author-date.csl
 <div class="cover">[![Gracia et al. TIAD 2 @ LDK 2019](img/CEUR-WS-Vol-2493-TIAD-2019.jpeg){.bookcover}](http://ceur-ws.org/Vol-2493/)</div>
 
 - <div class="book"><div class="bibentry">[@Gracia_et_al_TIAD2019:2019] [[CEUR net/pdf](http://ceur-ws.org/Vol-2493/), [bib](bib/Gracia_et_al_TIAD2019:2019.bib)]</div>
-
 
 
 ## Book chapters ##
@@ -239,18 +238,22 @@ csl: chicago-author-date.csl
 <!-- - [@Evert_et_al_KONVENS2019ConfOrg] [[bib](bib/Evert_et_al_KONVENS2019ConfOrg.bib)] -->
 
 
-## Talks and presentations ##
-
 <!-- Kabashi et al. APCLA -->
 
 
-### Recent Talks and Presentations (selected) ###
+## Talks and Presentations (selected) ##
 
-- Kabashi, Besim. 2024. [*Linguistic corpora and multimodality*](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 24, 2024. Universidad de la Laguna, Tenerife, Spain.
+- Kabashi, Besim. 2024. [*Linguistic corpora and multimodality*](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Conferencia plenaria. Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 24, 2024. Universidad de la Laguna, Tenerife, Spain.
 
-- Kabashi, Besim. 2024. [*Using multimodal corpora in linguistic research: a tutorial for beginners*](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 24, 2024. Universidad de la Laguna, Tenerife, Spain.
+- Kabashi, Besim. 2024. [*Using multimodal corpora in linguistic research: a tutorial for beginners*](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Seminario práctico. Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 24, 2024. Universidad de la Laguna, Tenerife, Spain.
+
+- Zilio, Leonardo, and Besim Kabashi. 2024. [*Using Neural Machine Translation for Normalising Historical Documents*](https://euralex.jezik.hr/wp-content/uploads/2021/09/EURALEX_2024_Full_Programme_chairs_FINAL.pdf) The XXI EURALEX International Congress: “Lexicography and Semantics”. October 8-12, 2024. Institut za hrvatski jezik, Dubrovnik Cavtat, Croatia.  
 
 - Kabashi, Besim. 2024. [*Noun-adjective collocations in the Albanian language*](https://asialex2024.org/conference-program/prallel-sessions-8-2/). The 17th International Conference of the Asian Association for Lexicography (ASIALEX 2024), September 13, 2024.  Toyo University, Tokyo, Japan.
+
+- Kabashi, Besim. 2024. [*Lexical Variation of the Albanian Language Used in Computer-Mediated Communication and the Challenge for Processing*](https://cmc-corpora-nice.sciencesconf.org/data/pages/Programme_CMC_11.pdf). The 11th Conference on Computer-Mediated Communication and Social Media Corpora, September 4–7. Université Côte d’Azur, Nice, France.
+
+- Khan, Fahad, Maxim Ionov, Christian Chiarcos, Laurent Romary, Gilles Serasset, and Besim Kabashi. 2024. [*On Modelling Corpus Citations in Computational Lexical Resources*](https://aclanthology.org/2024.lrec-main.1084/). The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation. May 20-25, 2024. Lingotto Conference Centre, Torino, Italy. 
 
 - Kabashi, Besim. 2023. [*The lexis of the Albanian language used in social media: An investigation*](https://korealex.org/44). The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), June 24, 2023.  Yonsei University, Seoul, Republic of Korea.
 
@@ -260,8 +263,7 @@ csl: chicago-author-date.csl
 
 - Kabashi, Besim. 2021. "Words, words, … : Usage and Constructions". *International Congress of Albanian Studies*, October 26, 2021, Academy of Sciences of the Republic of Albania, Tirana, Albania.
 
-- Kabashi, Besim. 2021. "A Corpus Network of Albanian". *Interdisziplinäre und transnationale Aspekte und Perspektiven der 
-Albanologie*: *Konferenz in Gedenken an Professor Wilfried Fiedler*, October 1, 2021. University of Jena, Germany. 
+- Kabashi, Besim. 2021. "A Corpus Network of Albanian". *Interdisziplinäre und transnationale Aspekte und Perspektiven der Albanologie*: *Konferenz in Gedenken an Professor Wilfried Fiedler*, October 1, 2021. University of Jena, Germany. 
 
 - [@Proisl_et_al_EmpiriST2_DGfS:2020] [[Abstract, pdf](pdf/Proisl_et_al_2020_DGFS_Abstract.pdf), [Poster, pdf](pdf/Proisl_et_al_EmpiriST-corpus-2.0_DGfS_CL_2020_Poster.pdf), [bib](bib/Proisl_et_al_EmpiriST2_DGfS:2020.bib)].
 
