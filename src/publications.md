@@ -10,6 +10,7 @@ csl: chicago-author-date.csl
 
 - [Books: Authored Monographs](#authored-monographs)
 - [Books: Editorships](#co-edited-proceedings)
+- [Books: Chapters](#book-chapters)
 - [Journal articles](#journal-articles)
 - [Articles in conference proceedings](#articles-in-conference-proceedings)
 - [Articles in collections](#articles-in-collections)
@@ -244,6 +245,8 @@ csl: chicago-author-date.csl
 
 
 ### Recent Talks and Presentations (selected) ###
+
+- Kabashi, Besim. 2024. [*Linguistic corpora and multimodality*](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 24, 2024. Universidad de la Laguna, Tenerife, Spain.
 
 - Kabashi, Besim. 2024. [*Using multimodal corpora in linguistic research: a tutorial for beginners*](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 24, 2024. Universidad de la Laguna, Tenerife, Spain.
 

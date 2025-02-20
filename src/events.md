@@ -67,7 +67,7 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 ## Recent participating committees and reviews (selected) ##
 
-- [**ASIALEX 2023**](https://korealex.org/asialex_2023/) – The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), “Lexicography, Artificial Intelligence, and Dictionary Users”. Yonsei University, Seoul, Republic of Korea, 22–24 June 2023.  [[Scientific committee](https://korealex.org/59) & Reviewer].
+- [**ASIALEX 2023**](https://domestic.thinkonweb.com/society/korealex/conference/asialex23/) – The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), “Lexicography, Artificial Intelligence, and Dictionary Users”. Yonsei University, Seoul, Republic of Korea, 22–24 June 2023.  [[Scientific committee](https://korealex.org/conference/asialex23/static/225) & Reviewer].
 
 - [EMNLP 2022](https://2022.emnlp.org/) – The 2022 Conference on Empirical Methods in Natural Language Processing. United Arab Emirates (UAE), Abu Dhabi, December 7th–11th, 2022. [Reviewer].
 
