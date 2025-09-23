@@ -17,11 +17,17 @@ csl: chicago-author-date.csl
 ## Education and work
 
 --------------- -----------------------------------------------------------------------------------------
+**since 2025**  **Interim professor** for Computational Linguistics at the University of Tübingen, Germany.
+
 **since 2020**  Part of the teaching staff of  [**European Master in Lexicography – EMLex**](https://emlex.eu.usc.gal/web/) in the advanced module **Computational Lexicography**. (International Elite Program).
 
 **since 2004**  Various contracts as **Researcher** and **Lecturer** at [**Ludwig Maximilian University of Munich**](https://www.lmu.de/), [**Albanology**.](https://www.albanologie.uni-muenchen.de/)
 
 **since 2003**  **Researcher** at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de),\ [**Friedrich-Alexander University of Erlangen-Nuremberg** (FAU)](https://www.fau.de), Germany.
+
+2025            **Visiting lecturer** at the [**Universidade do Minho -- Braga** (UMinho)](https://www.uminho.pt/pt), Braga, Portugal, **Computational Lexicography** (**EMLex**). 
+
+2024            **Visiting lecturer** at the [**Universität Hildesheim**](https://www.uni-hildesheim.de/), Hildesheim, Germany, **Computational Lexicography** (**EMLex**). 
 
 2023            **Visiting lecturer** at the [**Károli Gáspár University of the Reformed Church in Hungary** (KRE)](https://portal.kre.hu/), Budapest, Hungary, **Computational Lexicography** (**EMLex**). 
 
@@ -47,6 +53,12 @@ csl: chicago-author-date.csl
 
 
 ## Events (recent, selected)
+
+- [ASIALEX 2025](https://asialex2025.cn/index.html) – The 18th International Conference of the Asian Association for Lexicography (ASIALEX 2025), [“Traditionality and creativity in the era of AI”](https://asialex2025.cn/Program.html). Fudan University, Shanghai, China, September 11–13, 2025. 
+
+- [CMC-12 2025](https://www.cmc2025.uni-bayreuth.de/en/) – [The 12th Conference on Computer-Mediated Communication and Social Media Corpora](https://www.cmc2025.uni-bayreuth.de/pool/dokumente/CMC-2025-Programme-03_09.pdf). University of Bayreuth, Bayreuth, Germany, September 4–5, 2025.
+
+- [Lecture, IDS 2025](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/2025/kabashi/). Vortrag im Rahmen des [Linguistischen Forschungskolloquiums](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/) / Lecture at the [Linguistic Research Colloquium](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/), Leibniz-Institut für Deutsche Sprache (IDS), Mannheim, Germany, June, 5, 2025. 
 
 - [Humanités numériques 5.0](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 22-24, 2024. Universidad de la Laguna, Tenerife, Spain.  
 
