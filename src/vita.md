@@ -23,7 +23,7 @@ csl: chicago-author-date.csl
 
 **2004–2024**  	Various contracts / part time as **Researcher** and **Lecturer** at [**Ludwig Maximilian University of Munich**](https://www.lmu.de/), [**Albanology**.](https://www.albanologie.uni-muenchen.de/)
 
-**2003–2025**  **Researcher** at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de),\ [**Friedrich-Alexander University of Erlangen-Nuremberg** (FAU)](https://www.fau.de), Germany.
+**2003–2025**	**Researcher** at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de),\ [**Friedrich-Alexander University of Erlangen-Nuremberg** (FAU)](https://www.fau.de), Germany.
 
 2025            **Visiting lecturer** at the [**Universidade do Minho -- Braga** (UMinho)](https://www.uminho.pt/pt), Braga, Portugal, **Computational Lexicography** (**EMLex**). 
 
@@ -54,9 +54,9 @@ csl: chicago-author-date.csl
 
 ## Events (recent, selected)]
 
-- [The 12th EAFT Terminology Summit 2025](https://www.uibk.ac.at/en/congress/eaft-summit/) – The 12th European Association for Terminology (EAFT) Summit 2025. [“Terminology Planning in Europe”](https://www.uibk.ac.at/en/congress/eaft-summit/program/). November 27–29, 2025. University of Innsbruck, Austria.
+- [The 12th EAFT Terminology Summit 2025](https://www.uibk.ac.at/en/congress/eaft-summit/) – The 12th European Association for Terminology (EAFT) Summit 2025. [“Terminology Planning in Europe”](https://www.uibk.ac.at/en/congress/eaft-summit/program/). November 27–29, 2025. University of Innsbruck, Innsbruck, Austria.
 
-- [Semantic Annotation, Dictionaries and AI 2025](http://portlex.usc.gal/eventos/semantic-annotation-dictionaries-and-ai-xornadas-internacionais-na-usc-9-e10-de-outubro-de-2025/) – “Semantic Annotation, Dictionaries and AI”. October 9–10, 2025. Universidade de Santiago de Compostela, Spain. 
+- [Semantic Annotation, Dictionaries and AI 2025](http://portlex.usc.gal/eventos/semantic-annotation-dictionaries-and-ai-xornadas-internacionais-na-usc-9-e10-de-outubro-de-2025/) – “Semantic Annotation, Dictionaries and AI”. October 9–10, 2025. Universidade de Santiago de Compostela, Santiago de Compostela, Spain. 
 
 - [ASIALEX 2025](https://asialex2025.cn/index.html) – The 18th International Conference of the Asian Association for Lexicography (ASIALEX 2025), [“Traditionality and creativity in the era of AI”](https://asialex2025.cn/Program.html). September 11–13, 2025. Fudan University, Shanghai, China. 
 
@@ -76,7 +76,7 @@ csl: chicago-author-date.csl
 
 - [ASIALEX 2023](https://domestic.thinkonweb.com/society/korealex/conference/asialex23) – The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), “Lexicography, Artificial Intelligence, and Dictionary Users”. Yonsei University, Seoul, Republic of Korea, June 22–24, 2023.  
 
-- [Invited Lecture, Academy of Sciences 2023](https://ata.gov.al/2023/07/06/paraqitet-ne-ash-korpusi-me-i-madh-i-numerizuar-i-leksikut-te-shqipes/) (Lectio Magistralis). “Korpuse për gjuhën shqipe” / “Corpora for the Albanian Language”. June, 5, 2025. Academy of Sciences of the Republic of Albania, Tirana, Albania. 
+- [Invited Lecture, Academy of Sciences 2023](https://ata.gov.al/2023/07/06/paraqitet-ne-ash-korpusi-me-i-madh-i-numerizuar-i-leksikut-te-shqipes/) (Lectio Magistralis). June, 5, 2025. Academy of Sciences of the Republic of Albania, Tirana, Albania. 
 
 - [EURALEX 2022](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress: “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language (IDS), Mannheim, Germany, 12–16 July 2022.
 
