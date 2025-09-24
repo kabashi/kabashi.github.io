@@ -17,13 +17,13 @@ csl: chicago-author-date.csl
 ## Education and work
 
 --------------- -----------------------------------------------------------------------------------------
-**since 2025**  **Interim professor** for Computational Linguistics at the University of Tübingen, Germany.
+**2025–2026**  	**Interim Professor** for **Computational Linguistics** at the **University of Tübingen**, Germany.
 
 **since 2020**  Part of the teaching staff of  [**European Master in Lexicography – EMLex**](https://emlex.eu.usc.gal/web/) in the advanced module **Computational Lexicography**. (International Elite Program).
 
-**since 2004**  Various contracts as **Researcher** and **Lecturer** at [**Ludwig Maximilian University of Munich**](https://www.lmu.de/), [**Albanology**.](https://www.albanologie.uni-muenchen.de/)
+**2004–2024**  	Various contracts / part time as **Researcher** and **Lecturer** at [**Ludwig Maximilian University of Munich**](https://www.lmu.de/), [**Albanology**.](https://www.albanologie.uni-muenchen.de/)
 
-**since 2003**  **Researcher** at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de),\ [**Friedrich-Alexander University of Erlangen-Nuremberg** (FAU)](https://www.fau.de), Germany.
+**2003–2025**  **Researcher** at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de),\ [**Friedrich-Alexander University of Erlangen-Nuremberg** (FAU)](https://www.fau.de), Germany.
 
 2025            **Visiting lecturer** at the [**Universidade do Minho -- Braga** (UMinho)](https://www.uminho.pt/pt), Braga, Portugal, **Computational Lexicography** (**EMLex**). 
 
@@ -52,13 +52,17 @@ csl: chicago-author-date.csl
 --------------- -----------------------------------------------------------------------------------------
 
 
-## Events (recent, selected)
+## Events (recent, selected)]
 
-- [ASIALEX 2025](https://asialex2025.cn/index.html) – The 18th International Conference of the Asian Association for Lexicography (ASIALEX 2025), [“Traditionality and creativity in the era of AI”](https://asialex2025.cn/Program.html). Fudan University, Shanghai, China, September 11–13, 2025. 
+- [The 12th EAFT Terminology Summit 2025](https://www.uibk.ac.at/en/congress/eaft-summit/) – The 12th European Association for Terminology (EAFT) Summit 2025. [“Terminology Planning in Europe”](https://www.uibk.ac.at/en/congress/eaft-summit/program/). November 27–29, 2025. University of Innsbruck, Austria.
 
-- [CMC-12 2025](https://www.cmc2025.uni-bayreuth.de/en/) – [The 12th Conference on Computer-Mediated Communication and Social Media Corpora](https://www.cmc2025.uni-bayreuth.de/pool/dokumente/CMC-2025-Programme-03_09.pdf). University of Bayreuth, Bayreuth, Germany, September 4–5, 2025.
+- [Semantic Annotation, Dictionaries and AI 2025](http://portlex.usc.gal/eventos/semantic-annotation-dictionaries-and-ai-xornadas-internacionais-na-usc-9-e10-de-outubro-de-2025/) – “Semantic Annotation, Dictionaries and AI”. October 9–10, 2025. Universidade de Santiago de Compostela, Spain. 
 
-- [Lecture, IDS 2025](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/2025/kabashi/). Vortrag im Rahmen des [Linguistischen Forschungskolloquiums](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/) / Lecture at the [Linguistic Research Colloquium](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/), Leibniz-Institut für Deutsche Sprache (IDS), Mannheim, Germany, June, 5, 2025. 
+- [ASIALEX 2025](https://asialex2025.cn/index.html) – The 18th International Conference of the Asian Association for Lexicography (ASIALEX 2025), [“Traditionality and creativity in the era of AI”](https://asialex2025.cn/Program.html). September 11–13, 2025. Fudan University, Shanghai, China. 
+
+- [CMC-12 2025](https://www.cmc2025.uni-bayreuth.de/en/) – [The 12th Conference on Computer-Mediated Communication and Social Media Corpora](https://www.cmc2025.uni-bayreuth.de/pool/dokumente/CMC-2025-Programme-03_09.pdf). September 4–5, 2025. University of Bayreuth, Bayreuth, Germany.
+
+- [Invited Lecture, IDS 2025](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/2025/kabashi/). Vortrag im Rahmen des [Linguistischen Forschungskolloquiums](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/) / Lecture at the [Linguistic Research Colloquium](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/). June, 5, 2025. Leibniz-Institut für Deutsche Sprache (IDS). Mannheim, Germany. 
 
 - [Humanités numériques 5.0](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 22-24, 2024. Universidad de la Laguna, Tenerife, Spain.  
 
@@ -72,9 +76,11 @@ csl: chicago-author-date.csl
 
 - [ASIALEX 2023](https://domestic.thinkonweb.com/society/korealex/conference/asialex23) – The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), “Lexicography, Artificial Intelligence, and Dictionary Users”. Yonsei University, Seoul, Republic of Korea, June 22–24, 2023.  
 
- - [EURALEX 2022](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress: “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language (IDS), Mannheim, Germany, 12–16 July 2022.
+- [Invited Lecture, Academy of Sciences 2023](https://ata.gov.al/2023/07/06/paraqitet-ne-ash-korpusi-me-i-madh-i-numerizuar-i-leksikut-te-shqipes/) (Lectio Magistralis). “Korpuse për gjuhën shqipe” / “Corpora for the Albanian Language”. June, 5, 2025. Academy of Sciences of the Republic of Albania, Tirana, Albania. 
 
- - [The 5th shared task for “Translation Inference Across Dictionaries” (TIAD 2022)](https://tiad2022.unizar.es/) / “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France, on June 20, 2022. 
+- [EURALEX 2022](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress: “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language (IDS), Mannheim, Germany, 12–16 July 2022.
+
+- [The 5th shared task for “Translation Inference Across Dictionaries” (TIAD 2022)](https://tiad2022.unizar.es/) / “Linking Bilingual and Multilingual Lexicographic Resources”, as Track 2 of [GlobaLex 2022 Workshop: Linked Lexicography](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2020](https://lrec2022.lrec-conf.org/) in Marseílle, France, on June 20, 2022. 
 
 - See [more events](https://www.besim-kabashi.net/events.html).
 

@@ -37,12 +37,10 @@ Dr.-Ing. Besim Kabashi \
 Lehrstuhl für Computerlinguistik \
 Seminar für Sprachwissenschaft \
 Eberhard Karls Universität Tübingen \
-Keplerstr. 2 \
-R. 156 \
-72074 Tübingen \
-Germany \
+Keplerstr. 2, 72074 Tübingen, Germany \
+<!-- R. 156 -->
 
-[E-Mail](firstname.lastname@uni-tuebingen.de) · 
+E-Mail firstname.lastname@uni-tuebingen.de · 
 Phone +49 7071 2977162
 
 <!-- [E-mail](https://univis.fau.de/) ·  -->
