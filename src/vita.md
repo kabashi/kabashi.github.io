@@ -17,7 +17,7 @@ csl: chicago-author-date.csl
 ## Education and work
 
 --------------- -----------------------------------------------------------------------------------------
-**2025–2026**  	**Interim Professor** for **Computational Linguistics** at the **University of Tübingen**, Germany.
+**2025–2026** 	**Interim Professor** for **Computational Linguistics** at the **University of Tübingen**, Germany.
 
 **since 2020**  Part of the teaching staff of  [**European Master in Lexicography – EMLex**](https://emlex.eu.usc.gal/web/) in the advanced module **Computational Lexicography**. (International Elite Program).
 
@@ -37,7 +37,7 @@ csl: chicago-author-date.csl
 
 2018–2021       Co-working on the [DFG-Projekt “Digitales philologisch-etymologisches Wörterbuch des Altalbanischen (15.-18. Jh.)”](https://www.albanologie.uni-muenchen.de/personen/projekt/kabashi/index.html) at the **Ludwig Maximilian University of Munich**, **Albanology**.
 
-2018–2020       **Researcher** at the [**Fraunhofer** IIS](https://www.iis.fraunhofer.de/), **Erlangen**, Germany, **Natural Language Processing**.  
+**2018–2020** 	**Researcher** at the [**Fraunhofer** IIS](https://www.iis.fraunhofer.de/), **Erlangen**, Germany, **Natural Language Processing**.  
 
 2011–2014       **Doktor der Ingenieurwissenschaften**, (**Dr.-Ing.**), in **Computer Science**, **Artificial Intelligence** / **Digital Humanities**, Friedrich-Alexander **University of Erlangen-Nuremberg**, Germany.\
 				Thesis: [*Automatische Verarbeitung der Morphologie des Albanischen*](https://opus4.kobv.de/opus4-fau/files/6859/Dissertation_Besim_Kabashi_OPUS.pdf) (i.e. *Automatic Processing of the Morphology of Albanian*).

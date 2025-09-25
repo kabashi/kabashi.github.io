@@ -22,13 +22,12 @@ and in the [Interdisciplinary Centre for Digital
 Humanities](http://izdigital.fau.de) at the [Friedrich-Alexander University
 of Erlangen-Nuremberg](https://www.fau.de).
 
-Also I am a member in [The Association for Computational Linguistics
-(ACL)](https://www.aclweb.org/portal/what-is-cl), in [The
-European Language Resources Association
-(ELRA)](http://www.elra.info/en/), in [The European Association for
-Lexicography (EURALEX)](https://euralex.org/), and in [The German
-Society for Computational Linguistics and Language Technology
-(GSCL)](https://gscl.org/).
+Also I am a member
+in [The Association for Computational Linguistics (ACL)](https://www.aclweb.org/portal/what-is-cl/),
+in [The European Language Resources Association (ELRA)](http://www.elra.info/en/),
+in [The European Association for Lexicography (EURALEX)](https://euralex.org/),
+in [The European Association for Terminology (EAFT)](https://www.eaft-aet.net/en/), and
+in [The German Society for Computational Linguistics and Language Technology (GSCL)](https://gscl.org/).
 
 I have an interest in Human Language Processing and Technology,
 Computational Linguistics, Corpus Linguistics, Language Resources, and

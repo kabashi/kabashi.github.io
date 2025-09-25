@@ -40,8 +40,9 @@ Eberhard Karls Universität Tübingen \
 Keplerstr. 2, 72074 Tübingen, Germany \
 <!-- R. 156 -->
 
-E-Mail: first.last@uni-tuebingen.de 
-<!-- Phone +49 7071 2977162 -->
+R. 156 / +49 7071 2977162 \
+firstname.lastname@uni-tuebingen.de \
+
 
 <!-- [E-mail](https://univis.fau.de/) ·  -->
 <!-- [Phone](https://univis.fau.de/) · -->
