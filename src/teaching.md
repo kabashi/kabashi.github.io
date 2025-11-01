@@ -39,15 +39,21 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 ## –> Winter term 2025/2026 ##
 
 - **Corpus Linguistics**. (Hauptseminar). 
+- **Corpus Linguistics Exercises**. (Übung, Hauptseminar).
 - **Lexicography and Generative AI** (Hauptseminar).
+- **Lexicography and Generative AI Exercises** (Übung, Hauptseminar).
 - **Collocations and Generative AI** (Hauptseminar).
+- **Collocations and Generative AI Exercises** (Übung, Hauptseminar).
 
 
 ## –> Summer term 2025 ##
 
 - **Multimodal Corpus Linguistics** (Hauptseminar). 
+- **Multimodal Corpus Linguistics Exercises** (Übung, Hauptseminar).
 - **Computational Lexicography** (Hauptseminar).
+- **Computational Lexicography Exercises** (Übung, Hauptseminar).
 - **Multi-word Expressions** (Hauptseminar).
+- **Multi-word Expressions Exercises** (Übung, Hauptseminar).
 
 
 ## Corpus and Computational Linguistics, FAU, Erlangen ##

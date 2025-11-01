@@ -17,7 +17,7 @@ csl: chicago-author-date.csl
 ## Education and work
 
 --------------- -----------------------------------------------------------------------------------------
-**2025–2026** 	**Interim Professor** for **Computational Linguistics** at the **University of Tübingen**, Germany.
+**2025–2026** 	[**Interim Professor** for **Computational Linguistics**](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/staff/) at the [**University of Tübingen**](https://uni-tuebingen.de/en/), Germany.
 
 **since 2020**  Part of the teaching staff of  [**European Master in Lexicography – EMLex**](https://emlex.eu.usc.gal/web/) in the advanced module **Computational Lexicography**. (International Elite Program).
 
@@ -52,7 +52,7 @@ csl: chicago-author-date.csl
 --------------- -----------------------------------------------------------------------------------------
 
 
-## Events (recent, selected)]
+## Events (recent, selected)
 
 - [The 12th EAFT Terminology Summit 2025](https://www.uibk.ac.at/en/congress/eaft-summit/) – The 12th European Association for Terminology (EAFT) Summit 2025. [“Terminology Planning in Europe”](https://www.uibk.ac.at/en/congress/eaft-summit/program/). November 27–29, 2025. University of Innsbruck, Innsbruck, Austria.
 
@@ -89,10 +89,11 @@ csl: chicago-author-date.csl
 
 ### Journals
 
-  - [Language Resources and Evaluation (LREV)](https://www.springer.com/journal/10579/)
-  - [Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip/)
+  - [Language Resources and Evaluation [LREV]](https://www.springer.com/journal/10579/)
   - [Language Technology and Computational Linguistics (JLCL)](https://www.jlcl.org/)
+  - [Natural Language Engineering / Natural Language Processing (Cambridge University Press)](https://www.cambridge.org/core/journals/natural-language-processing/)
   - [Semantic Web Journal (by IOS Press)](http://www.semantic-web-journal.net/)
+  - [Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip/)
 
 ### Congresses
 
@@ -124,6 +125,7 @@ csl: chicago-author-date.csl
 
   - ACL (The Association for Computational Linguistics)
   - ACM (The Association for Computing Machinery)
+  - CUP (Cambridge University Press)
   - De Gruyter (Berlin, Basel, Munich, Beijing, Warsaw, Vienna)
   - Springer (Heidelberg, Berlin, New York, etc.)
   - IOS Press (Amsterdam, Washington, Tokyo, Berlin, Beijing)

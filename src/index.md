@@ -13,9 +13,9 @@ Welcome to my personal website.
 <!-- [Friedrich-Alexander-Universität -->
 <!-- Erlangen-Nürnberg](https://www.fau.de). -->
 
-I am a linguist, computational linguist, and computer scientist
-working as Interim Professor for Computational Linguistics at the
-University of Tübingen, Germany.
+I am a linguist, computational linguist, and computer scientist working as
+Interim Professor for [Computational Linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/staff/) at the
+[University of Tübingen](https://uni-tuebingen.de/en/), Germany.
 
 My main research and teaching interests are in the area of Human
 Language Processing and Technology, Computational Linguistics, Corpus
