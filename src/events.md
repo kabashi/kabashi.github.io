@@ -70,7 +70,7 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 - [LREC 2026](https://lrec2026.info/) – The 15th Edition of the International Conference on Language Resources and Evaluation, Palau de Congressos de Palma, Palma, Mallorca, Spain. 11–16 May 2026. [Scientific committee & Reviewer].
 
-- [LDK 2025](http://2023.ldk-conf.org/) – The 5th Biennial Conference on Language, Data and Knowledge,  University of Naples, Italy, 9-11 September 2025. [[Program committee](http://2025.ldk-conf.org/program-committee/) & Reviewer].
+- [LDK 2025](http://2025.ldk-conf.org/) – The 5th Biennial Conference on Language, Data and Knowledge,  University of Naples, Italy, 9-11 September 2025. [[Program committee](http://2025.ldk-conf.org/program-committee/) & Reviewer].
 
 - [COLING-LREC 2024](https://lrec-coling-2024.org/) – The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
 Lingotto Conference Centre - Torino, Italy, 20–25 May 2024. [[Scientific committee](https://lrec-coling-2024.org/scientific-committee/) & Reviewer].
