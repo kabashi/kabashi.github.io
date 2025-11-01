@@ -243,6 +243,17 @@ csl: chicago-author-date.csl
 
 ## Talks and Presentations (selected) ##
 
+
+- Kabashi, Besim. 2025. [*The foundation of language planning: Integrating terminology strategies – Albanian*](https://www.uibk.ac.at/en/congress/eaft-summit/program/), [The 12th EAFT Terminology Summit 2025](https://www.uibk.ac.at/en/congress/eaft-summit/) – The 12th European Association for Terminology (EAFT) Summit 2025 [*Terminology Planning in Europe*](https://www.uibk.ac.at/en/congress/eaft-summit/program/). November 27–29, 2025. University of Innsbruck, Innsbruck, Austria.
+
+- Kabashi, Besim. 2025. [*Thank you AI …!*], [Semantic Annotation, Dictionaries and AI 2025](http://portlex.usc.gal/eventos/semantic-annotation-dictionaries-and-ai-xornadas-internacionais-na-usc-9-e10-de-outubro-de-2025/) – “Semantic Annotation, Dictionaries and AI”. Co-organizer. October 9–10, 2025. Universidade de Santiago de Compostela, Santiago de Compostela, Spain. 
+
+- Kabashi, Besim. 2025. [*Verb-Noun Collocations in the Albanian Language*](https://asialex2025.cn/Program.html), [ASIALEX 2025](https://asialex2025.cn/index.html) – The 18th International Conference of the Asian Association for Lexicography (ASIALEX 2025), [“Traditionality and creativity in the era of AI”](https://asialex2025.cn/Program.html). September 11–13, 2025. Fudan University, Shanghai, China. 
+
+- Kabashi, Besim. 2025. [*The most common features of the Albanian language used in computer-mediated communication – an overview based on corpus data*](https://www.cmc2025.uni-bayreuth.de/pool/dokumente/CMC-2025-Programme-03_09.pdf), [CMC-12 2025](https://www.cmc2025.uni-bayreuth.de/en/) – [The 12th Conference on Computer-Mediated Communication and Social Media Corpora](https://www.cmc2025.uni-bayreuth.de/pool/dokumente/CMC-2025-Programme-03_09.pdf). September 4–5, 2025. University of Bayreuth, Bayreuth, Germany.
+
+- Kabashi, Besim. 2025. [*Soll ich ein Korpus bauen, oder nicht? Kann ich es? Lohnt es sich? Aufbau von Korpora der albanischen Sprache*](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/2025/kabashi/), [Invited Lecture, IDS 2025]. Vortrag im Rahmen des [Linguistischen Forschungskolloquiums](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/) / Lecture at the [Linguistic Research Colloquium](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/). June, 5, 2025. Leibniz-Institut für Deutsche Sprache (IDS). Mannheim, Germany. 
+
 - Kabashi, Besim. 2024. [*Linguistic corpora and multimodality*](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Conferencia plenaria. Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 24, 2024. Universidad de la Laguna, Tenerife, Spain.
 
 - Kabashi, Besim. 2024. [*Using multimodal corpora in linguistic research: a tutorial for beginners*](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Seminario práctico. Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 24, 2024. Universidad de la Laguna, Tenerife, Spain.
@@ -254,6 +265,8 @@ csl: chicago-author-date.csl
 - Kabashi, Besim. 2024. [*Lexical Variation of the Albanian Language Used in Computer-Mediated Communication and the Challenge for Processing*](https://cmc-corpora-nice.sciencesconf.org/data/pages/Programme_CMC_11.pdf). The 11th Conference on Computer-Mediated Communication and Social Media Corpora, September 4–7. Université Côte d’Azur, Nice, France.
 
 - Khan, Fahad, Maxim Ionov, Christian Chiarcos, Laurent Romary, Gilles Serasset, and Besim Kabashi. 2024. [*On Modelling Corpus Citations in Computational Lexical Resources*](https://aclanthology.org/2024.lrec-main.1084/). The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation. May 20-25, 2024. Lingotto Conference Centre, Torino, Italy. 
+
+- Christian Chiarcos / Besim Kabashi. 2023. [*FrAC (Frequency, Attestation, and Corpus)*](https://www.w3.org/community/ontolex/wiki/W3c_community_day_@_LDK2023#Schedule), [*Abstract, Ontology-Lexica Community Group*](https://www.w3.org/community/ontolex/wiki/Frequency,_Attestation_and_Corpus_Information). [LDK 2023](http://2023.ldk-conf.org/) – The 4th Biennial Conference on Language, Data and Knowledge. University of Vienna, Austria, September 12–15, 2023. 
 
 - Kabashi, Besim. 2023. [*The lexis of the Albanian language used in social media: An investigation*](https://korealex.org/44). The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), June 24, 2023.  Yonsei University, Seoul, Republic of Korea.
 

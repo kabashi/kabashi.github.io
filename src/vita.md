@@ -74,6 +74,8 @@ csl: chicago-author-date.csl
 
 - [LREC-COLING 2024](https://lrec-coling-2024.org/). The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation. May 20-25, 2024. Torino, Italy.
 
+- [LDK 2023](http://2023.ldk-conf.org/) – The 4th Biennial Conference on Language, Data and Knowledge. University of Vienna, Austria, September 12–15, 2023. 
+
 - [ASIALEX 2023](https://domestic.thinkonweb.com/society/korealex/conference/asialex23) – The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), “Lexicography, Artificial Intelligence, and Dictionary Users”. Yonsei University, Seoul, Republic of Korea, June 22–24, 2023.  
 
 - [Invited Lecture, Academy of Sciences 2023](https://ata.gov.al/2023/07/06/paraqitet-ne-ash-korpusi-me-i-madh-i-numerizuar-i-leksikut-te-shqipes/) (Lectio Magistralis). June, 5, 2025. Academy of Sciences of the Republic of Albania, Tirana, Albania. 

@@ -117,17 +117,12 @@ Lingotto Conference Centre - Torino, Italy, 20–25 May 2024. [[Scientific commi
 
 
 
-
-
-
-
-
 ## Recent talks and presentations (selected) ##
 
 
 - Kabashi, Besim. 2025. [*The foundation of language planning: Integrating terminology strategies – Albanian*](https://www.uibk.ac.at/en/congress/eaft-summit/program/), [The 12th EAFT Terminology Summit 2025](https://www.uibk.ac.at/en/congress/eaft-summit/) – The 12th European Association for Terminology (EAFT) Summit 2025 [*Terminology Planning in Europe*](https://www.uibk.ac.at/en/congress/eaft-summit/program/). November 27–29, 2025. University of Innsbruck, Innsbruck, Austria.
 
-- Kabashi, Besim. 2025. Coorganizator. [*Thank you AI …!*], [Semantic Annotation, Dictionaries and AI 2025](http://portlex.usc.gal/eventos/semantic-annotation-dictionaries-and-ai-xornadas-internacionais-na-usc-9-e10-de-outubro-de-2025/) – “Semantic Annotation, Dictionaries and AI”. October 9–10, 2025. Universidade de Santiago de Compostela, Santiago de Compostela, Spain. 
+- Kabashi, Besim. 2025. [*Thank you AI …!*], [Semantic Annotation, Dictionaries and AI 2025](http://portlex.usc.gal/eventos/semantic-annotation-dictionaries-and-ai-xornadas-internacionais-na-usc-9-e10-de-outubro-de-2025/) – “Semantic Annotation, Dictionaries and AI”. Co-organizer. October 9–10, 2025. Universidade de Santiago de Compostela, Santiago de Compostela, Spain. 
 
 - Kabashi, Besim. 2025. [*Verb-Noun Collocations in the Albanian Language*](https://asialex2025.cn/Program.html), [ASIALEX 2025](https://asialex2025.cn/index.html) – The 18th International Conference of the Asian Association for Lexicography (ASIALEX 2025), [“Traditionality and creativity in the era of AI”](https://asialex2025.cn/Program.html). September 11–13, 2025. Fudan University, Shanghai, China. 
 
@@ -147,7 +142,7 @@ Lingotto Conference Centre - Torino, Italy, 20–25 May 2024. [[Scientific commi
 
 - Khan, Fahad, Maxim Ionov, Christian Chiarcos, Laurent Romary, Gilles Serasset, and Besim Kabashi. 2024. [*On Modelling Corpus Citations in Computational Lexical Resources*](https://lrec-coling-2024.org/). The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation. May 20-25, 2024. Lingotto Conference Centre, Torino, Italy. 
 
-- Christian Chiarcos / Besim Kabashi [*FrAC (Frequency, Attestation, and Corpus)*](https://www.w3.org/community/ontolex/wiki/W3c_community_day_@_LDK2023#Schedule), [*Abstract, Ontology-Lexica Community Group*](https://www.w3.org/community/ontolex/wiki/Frequency,_Attestation_and_Corpus_Information). [LDK 2023](http://2023.ldk-conf.org/) – The 4th Biennial Conference on Language, Data and Knowledge. University of Vienna, Austria, September 12–15, 2023. 
+- Christian Chiarcos / Besim Kabashi. 2023. [*FrAC (Frequency, Attestation, and Corpus)*](https://www.w3.org/community/ontolex/wiki/W3c_community_day_@_LDK2023#Schedule), [*Abstract, Ontology-Lexica Community Group*](https://www.w3.org/community/ontolex/wiki/Frequency,_Attestation_and_Corpus_Information). [LDK 2023](http://2023.ldk-conf.org/) – The 4th Biennial Conference on Language, Data and Knowledge. University of Vienna, Austria, September 12–15, 2023. 
 
 - Kabashi, Besim. 2023. [*The lexis of the Albanian language used in social media: An investigation*](https://korealex.org/conference/asialex23/static/219). The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), June 24, 2023.  Yonsei University, Seoul, Republic of Korea.
 
