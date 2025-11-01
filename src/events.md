@@ -142,7 +142,7 @@ Lingotto Conference Centre - Torino, Italy, 20–25 May 2024. [[Scientific commi
 
 - Khan, Fahad, Maxim Ionov, Christian Chiarcos, Laurent Romary, Gilles Serasset, and Besim Kabashi. 2024. [*On Modelling Corpus Citations in Computational Lexical Resources*](https://lrec-coling-2024.org/). The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation. May 20-25, 2024. Lingotto Conference Centre, Torino, Italy. 
 
-- Christian Chiarcos / Besim Kabashi. 2023. [*FrAC (Frequency, Attestation, and Corpus)*](https://www.w3.org/community/ontolex/wiki/W3c_community_day_@_LDK2023#Schedule), [*Abstract, Ontology-Lexica Community Group*](https://www.w3.org/community/ontolex/wiki/Frequency,_Attestation_and_Corpus_Information). [LDK 2023](http://2023.ldk-conf.org/) – The 4th Biennial Conference on Language, Data and Knowledge. University of Vienna, Austria, September 12–15, 2023. 
+- Christian Chiarcos / Besim Kabashi. 2023. [*FrAC (Frequency, Attestation, and Corpus)*](https://www.w3.org/community/ontolex/wiki/W3c_community_day_@_LDK2023#Schedule),  [*W3c community day @ LDK2023*]. [*Abstract, Ontology-Lexica Community Group*](https://www.w3.org/community/ontolex/wiki/Frequency,_Attestation_and_Corpus_Information). [LDK 2023](http://2023.ldk-conf.org/) – The 4th Biennial Conference on Language, Data and Knowledge. University of Vienna, Austria, September 12–15, 2023. 
 
 - Kabashi, Besim. 2023. [*The lexis of the Albanian language used in social media: An investigation*](https://korealex.org/conference/asialex23/static/219). The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), June 24, 2023.  Yonsei University, Seoul, Republic of Korea.
 
