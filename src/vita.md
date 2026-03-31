@@ -17,13 +17,15 @@ csl: chicago-author-date.csl
 ## Education and work
 
 --------------- -----------------------------------------------------------------------------------------
-**2025–2026** 	[**Interim Professor** for **Computational Linguistics**](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/staff/) at the [**University of Tübingen**](https://uni-tuebingen.de/en/), Germany.
+**2025–2027** 	[**Interim Professor** for **Computational Linguistics**](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/staff/) at the [**University of Tübingen**](https://uni-tuebingen.de/en/), Germany.
 
 **since 2020**  Part of the teaching staff of  [**European Master in Lexicography – EMLex**](https://emlex.eu.usc.gal/web/) in the advanced module **Computational Lexicography**. (International Elite Program).
 
 **2004–2024**  	Various contracts / part time as **Researcher** and **Lecturer** at [**Ludwig Maximilian University of Munich**](https://www.lmu.de/), [**Albanology**.](https://www.albanologie.uni-muenchen.de/)
 
 **2003–2025**	**Researcher** at the [Chair for Corpus and Computational Linguistics](https://www.linguistik.fau.de),\ [**Friedrich-Alexander University of Erlangen-Nuremberg** (FAU)](https://www.fau.de), Germany.
+
+2026            **Visiting lecturer** at the [**Université de Lorraine -- Nancy** (UdL)](https://www.univ-lorraine.fr/en/univ-lorraine/), Nancy, France, **Computational Lexicography** (**EMLex**).
 
 2025            **Visiting lecturer** at the [**Universidade do Minho -- Braga** (UMinho)](https://www.uminho.pt/pt), Braga, Portugal, **Computational Lexicography** (**EMLex**). 
 

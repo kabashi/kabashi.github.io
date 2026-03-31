@@ -86,6 +86,19 @@ csl: chicago-author-date.csl
 
 ## Articles in conference proceedings ##
 
+
+<!-- ### 2026 ## -->
+
+                                                                
+- [@Kabashi_et_Ruppert:2026:Merimanga_wsCMLC12_LREC-2026] [[pdf](pdf/Kabashi_et_Ruppert_2026__Merimanga_wsCMLC12_LREC-2026.pdf), [bib](bib/Kabashi_et_Ruppert_2026__Merimanga_wsCMLC12_LREC-2026.bib)]
+
+
+<!-- ### 2025 ## -->
+
+
+- [@Kabashi:2025:ComFeatSQ-CMC-12] [[pdf](pdf/Kabashi_2025_LexVarSQ-CMC12_2025_Bayreuth.pdf), [bib](bib/Kabashi:2025:ComFeatSQ-CMC-12.bib)]
+
+
 <!-- ### 2024 ## -->
 
 

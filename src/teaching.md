@@ -16,6 +16,7 @@ csl: chicago-author-date.csl
 - [Computational Lexicography, USC, Santiago de Compostela, Spain](#computational-lexicography-usc-santiago-de-compostela)
 - [Computational Lexicography, UMinho, Braga, Portugal](#computational-lexicography-uminho-braga)
 - [Computational Lexicography, KRE, Budapest, Hungary](#computational-lexicography-kre-budapest)
+- [Computational Lexicography, UdLorraine, Nancy, France](#computational-lexicography-udl-nancy)
 
 I teach at the [**Eberhard-Karls-Universität Tübingen**](https://uni-tuebingen.de/en/), have taught 
 at the [**Friedrich-Alexander University of Erlangen-Nuremberg**](https://www.fau.de/), and at the
@@ -35,6 +36,17 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 
 
 ## Computational Linguistics, U Tuebingen ##
+
+
+## –> Summer term 2026 ##
+
+- **Selected topics in Corpus Linguistics** (Hauptseminar). 
+- **Selected topics in Corpus Linguistics Exercises** (Übung, Hauptseminar).
+- **Training resources for Generative AI** (Hauptseminar).
+- **Training resources for Generative AI Exercises** (Übung, Hauptseminar).
+- **Analysis of incorrect and incomplete AI-Generated Text** (Hauptseminar).
+- **Analysis of incorrect and incomplete AI-Generated Text Exercises** (Übung, Hauptseminar).
+
 
 ## –> Winter term 2025/2026 ##
 
@@ -140,16 +152,19 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 
 ## Computational Lexicography, USC, Santiago de Compostela ##
 
-- [**Computational Lexicography**](http://www.portlex.usc.gal/emlex2020/module-a6); Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2020 jointly with Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). 
+- **Computational Lexicography**/en); Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2020 jointly with Prof. [S. Evert](http://www.stefan-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). [**USC, Santiago de Compostela, Spain**](https://www.usc.gal/en).
 
 ## Computational Lexicography, UMinho, Braga##
 
-- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2022, and Spring 2025, jointly with Prof. [S. Evert](https://stephanie-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). 
+- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2022, and Spring 2025, jointly with Prof. [S. Evert](https://stephanie-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). [**Universidade do Minho, Braga, Portugal**](https://www.uminho.pt/EN).
 
 ## Computational Lexicography, KRE, Budapest##
 
-- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2023, jointly with Prof. [S. Evert](https://stephanie-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). 
+- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2023, jointly with Prof. [S. Evert](https://stephanie-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). [**Károli Gáspár University of the Reformed Church in Hungary**](https://english.kre.hu/).
 
+## Computational Lexicography, UdL, Nancy##
+
+- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2026, jointly with Prof. [S. Evert](https://stephanie-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). [**Université de Lorraine, Nancy, France**](https://www.univ-lorraine.fr/en/univ-lorraine/).
 
 <!-- [Total: 62 (45+10+6+1)] -->
 
