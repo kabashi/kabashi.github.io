@@ -16,6 +16,7 @@ csl: chicago-author-date.csl
 - [Computational Lexicography, USC, Santiago de Compostela, Spain](#computational-lexicography-usc-santiago-de-compostela)
 - [Computational Lexicography, UMinho, Braga, Portugal](#computational-lexicography-uminho-braga)
 - [Computational Lexicography, KRE, Budapest, Hungary](#computational-lexicography-kre-budapest)
+- [Computational Lexicography, UH, Hildesheim, Germany](#computational-lexicography-uh-hildesheim)
 - [Computational Lexicography, UdLorraine, Nancy, France](#computational-lexicography-udl-nancy)
 
 I teach at the [**Eberhard-Karls-Universität Tübingen**](https://uni-tuebingen.de/en/), have taught 
@@ -161,6 +162,10 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 ## Computational Lexicography, KRE, Budapest##
 
 - **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2023, jointly with Prof. [S. Evert](https://stephanie-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). [**Károli Gáspár University of the Reformed Church in Hungary**](https://english.kre.hu/).
+
+## Computational Lexicography, UH, Hildesheim##
+
+- **Computational Lexicography**; Erasmus Mundus "European Master in Lexicography (EMLex)". (Lectures, and exercises, Spring 2024, jointly with Prof. [S. Evert](https://stephanie-evert.de/), FAU Erlangen, and Prof. [U. Heid](https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/heid/), U. of Hildesheim). [**Universität Hildesheim, Germany**](https://www.uni-hildesheim.de/).
 
 ## Computational Lexicography, UdL, Nancy##
 
