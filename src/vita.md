@@ -54,7 +54,7 @@ csl: chicago-author-date.csl
 --------------- -----------------------------------------------------------------------------------------
 
 
-## Events (recent, selected)
+## ✷ Events (selected, [recent](events.html))
 
 - [The 12th EAFT Terminology Summit 2025](https://www.uibk.ac.at/en/congress/eaft-summit/) – The 12th European Association for Terminology (EAFT) Summit 2025. [“Terminology Planning in Europe”](https://www.uibk.ac.at/en/congress/eaft-summit/program/). November 27–29, 2025. University of Innsbruck, Innsbruck, Austria.
 

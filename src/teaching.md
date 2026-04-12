@@ -39,7 +39,7 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 ## Computational Linguistics, U Tuebingen ##
 
 
-## –> Summer term 2026 ##
+## ★ Summer term 2026 ##
 
 - **Selected topics in Corpus Linguistics** (Hauptseminar). 
 - **Selected topics in Corpus Linguistics Exercises** (Übung, Hauptseminar).
@@ -49,7 +49,7 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 - **Analysis of incorrect and incomplete AI-Generated Text Exercises** (Übung, Hauptseminar).
 
 
-## –> Winter term 2025/2026 ##
+## ☆ Winter term 2025/2026 ##
 
 - **Corpus Linguistics**. (Hauptseminar). 
 - **Corpus Linguistics Exercises**. (Übung, Hauptseminar).
@@ -59,7 +59,7 @@ See the [Computational Lexicography Course](https://www.emlex-summerterm-2021.ph
 - **Collocations and Generative AI Exercises** (Übung, Hauptseminar).
 
 
-## –> Summer term 2025 ##
+## ☆ Summer term 2025 ##
 
 - **Multimodal Corpus Linguistics** (Hauptseminar). 
 - **Multimodal Corpus Linguistics Exercises** (Übung, Hauptseminar).

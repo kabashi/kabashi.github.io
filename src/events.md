@@ -7,11 +7,28 @@ bibliography: kabashi_bibliography.bib
 csl: chicago-author-date.csl
 ---
 
+- [Journals](#journals)
+- [Books](#books)
 - [Conferences](#conferences)
 - [Workshops](#workshops)
 - [Shared tasks](#shared-tasks)
 - [Recent participating committees and reviews](#recent-participating-committees-and-reviews-selected)
 - [Recent talks and presentations](#recent-talks-and-presentations-selected)
+
+
+
+## ★ Journals ##
+
+- ### [Now ☆ Lexicography in Asia and Generative AI](https://computational-lexico.github.io/Phraseo-MWE-2026/Asialex.html) – [*Lexicography*, Journal of ASIALEX](https://utppublishing.com/doi/10.1007/s40607-014-0010-3) ### 
+In cooperation with [*Lian Chen 陈恋*](https://lianchen.fr/), LLL – University of Orléans · CRLAO – CNRS – INALCO, France. Chief Editors: *Hai Xu*, and *Vincent Ooi*.
+✦ **Important Date**: May 30, 2026 – *Submission of abstracts by authors*.
+
+
+## ★ Books ##
+
+- ### [Now ☆ Multiword Expressions and Neology – Corpus Analysis and NLP Approaches](https://computational-lexico.github.io/Phraseo-MWE-2026/LSP.html) @ [Language Science Press](https://langsci-press.org/catalog/series/pmwe) ###
+In cooperation with [*Lian Chen 陈恋*](https://lianchen.fr/), LLL – University of Orléans · CRLAO – CNRS – INALCO, France, and *HuyLinh DAO 匋辉靈*, (CRLAO-CNRS-INALCO-EHESS, France). Chief Editors: *Mike Rosner*, (University of Malta, Malta), and *Petya Osenova*, (Sofia University "St. Kliment Ohridski" Sofia, Bulgaria).
+✦ **Important Date**: 15 June 2026 – *Submission of abstracts by authors*.
 
 
 ## Conferences ##
@@ -25,8 +42,10 @@ The 15th KONVENS “Bridging the gap between NLP and human understanding”, Oct
 –> [[The 15th KONVENS (2019) Proceedings](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/), [bib](bib/Evert_et_al_KONVENS2019ConfOrg.bib)].
 
 
-## Workshops ##
+## ☆ Workshops ##
 
+- ### [Now ☆ The 1st Workshop *Multi-word Expressions and Phraseology* – Corpus-based and computer-processed](https://computational-lexico.github.io/Phraseo-MWE-2026/index.html) @ [EURALEX 2026](https://euralex2026.at/en/) ###
+✧ On September 29, 2026. Organized in cooperation with [*Dr. Lian Chen 陈恋*](https://lianchen.fr/), LLL – University of Orléans · CRLAO – CNRS – INALCO, France. In conjunction with the XXII EURALEX International Congress – Vienna, Austria. 
 
 <!-- - ### [The GlobaLex 2022 Workshop *Linked Lexicography*](https://globalex2022.globalex.link/lrec2022/) @ [LREC 2022](https://lrec2022.lrec-conf.org/) ###
 [The GlobaLex 2022 Workshop *Linked Lexicography*](https://elex.is/gwll2022/). In conjunction with The 13th Edition of the International Conference on Language Resources and Evaluation, Marseílle, France, on June 20, 2022. Organized in cooperation with *Ilan Kernerman*, K Dictionaries, Tel Aviv, Israel (in chief), *Simon Krek*, Jožef Stefan Institute, Ljubljana, Slovenia (in chief), and *Jorge Gracia*, University of Zaragoza, Spain. -->
