@@ -79,7 +79,7 @@ csl: chicago-author-date.csl
 
 - [CMC-12 2025](https://www.cmc2025.uni-bayreuth.de/en/) – [The 12th Conference on Computer-Mediated Communication and Social Media Corpora](https://www.cmc2025.uni-bayreuth.de/pool/dokumente/CMC-2025-Programme-03_09.pdf). September 4–5, 2025. University of Bayreuth, Bayreuth, Germany.
 
-- [Invited Lecture, IDS 2025](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/2025/kabashi/). Vortrag im Rahmen des [Linguistischen Forschungskolloquiums](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/) / Lecture at the [Linguistic Research Colloquium](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/). June, 5, 2025. Leibniz-Institut für Deutsche Sprache (IDS). Mannheim, Germany. 
+- [Invited Lecture ★ IDS 2025](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/2025/kabashi/). Vortrag im Rahmen des [Linguistischen Forschungskolloquiums](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/) / Lecture at the [Linguistic Research Colloquium](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/). June, 5, 2025. Leibniz-Institut für Deutsche Sprache (IDS). Mannheim, Germany. 
 
 - [Humanités numériques 5.0](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 22-24, 2024. Universidad de la Laguna, Tenerife, Spain.  
 
