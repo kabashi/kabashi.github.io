@@ -54,7 +54,22 @@ csl: chicago-author-date.csl
 --------------- -----------------------------------------------------------------------------------------
 
 
+
+
+
 ## ✷ Events (selected, [recent](events.html))
+
+- [Workshop "Multi-word expressions and phraseology: corpus-based and computer-processed"](https://phraseo-mwe2026.sciencesconf.org/resource/page/id/9), organised by Lian Chen (Laboratoire LLL, University of Orléans & CRLAO–CNRS–INALCO, France) and Besim Kabashi (Eberhard Karls Universität Tübingen, Germany) @[EURALEX 2026](https://euralex2026.at/en/workshops/#multi-word-expressions-and-phraseology-corpus-based-and-computer-processed) – The XXII EURALEX International Congress: “Lexicography in the Age of AI”. September 29.– October 3. 2026, Austrian Academy of Sciences, Vienna, Austria.  
+
+- [ASIALEX 2026](https://www.asialex2026.org/) – The 19th International Conference of the Asian Association for Lexicography (ASIALEX 2026), [“Lexicography: Multidisciplinary Approaches and Collaborations”](https://drive.google.com/file/d/1gf_AO0o2ej4SbjJxcWazcLBYE5keLinG/view). September 9–11, 2026. National Agency for Language Development and Cultivation, Yogyakarta, Indonesia.
+
+- [NeoTerm 2026 - International Workshop on Terminological Neologism Management](https://www4.uib.no/en/research/research-centres/centre-for-norwegian-professional-language/events/neoterm-2026-international-workshop-on-terminological-neologism-management), September 3, 2026, University of Bergen, Norway.
+
+- [Nordterm 50 Years and EAFT 30 Years – Anniversary Seminar](https://www4.uib.no/en/research/research-centres/centre-for-norwegian-professional-language/events/anniversary-seminar-nordterm-50-years-and-eaft-30-years), September 4, 2026. University of Bergen, Norway.
+
+- [CMC2026](https://www.cmc2025.uni-bayreuth.de/en/) – [The 13th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora](https://cmc-corpora.org/conferences/cmc-corpora2026/). August 27–28 2026, Oulu, Finland.
+
+- [New Perspectives in Computational Lexicology and Lexicography (NPCL² 2026) From Data to Dictionarie](https://computational-lexico.github.io/NPCLL_2026/?utm_source=chatgpt.com), July 17–18, 2026, Wuhan, China. ★ Invited Speech: [*Non-standard Data in Lexicography: In the Past, and Today, in the Generative AI Era*](https://computational-lexico.github.io/NPCLL_2026/Programme.html).
 
 - [The 12th EAFT Terminology Summit 2025](https://www.uibk.ac.at/en/congress/eaft-summit/) – The 12th European Association for Terminology (EAFT) Summit 2025. [“Terminology Planning in Europe”](https://www.uibk.ac.at/en/congress/eaft-summit/program/). November 27–29, 2025. University of Innsbruck, Innsbruck, Austria.
 
@@ -80,7 +95,7 @@ csl: chicago-author-date.csl
 
 - [ASIALEX 2023](https://domestic.thinkonweb.com/society/korealex/conference/asialex23) – The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), “Lexicography, Artificial Intelligence, and Dictionary Users”. Yonsei University, Seoul, Republic of Korea, June 22–24, 2023.  
 
-- [Invited Lecture, Academy of Sciences 2023](https://ata.gov.al/2023/07/06/paraqitet-ne-ash-korpusi-me-i-madh-i-numerizuar-i-leksikut-te-shqipes/) (Lectio Magistralis). June, 5, 2025. Academy of Sciences of the Republic of Albania, Tirana, Albania. 
+- [Invited Lecture ★ Academy of Sciences 2023](https://ata.gov.al/2023/07/06/paraqitet-ne-ash-korpusi-me-i-madh-i-numerizuar-i-leksikut-te-shqipes/) (Lectio Magistralis). June, 5, 2023. Academy of Sciences of the Republic of Albania, Tirana, Albania.
 
 - [EURALEX 2022](https://euralex2022.ids-mannheim.de/) – The XX EURALEX International Congress: “Dictionaries and Society”. Department of Lexical Studies, Leibniz Institute for the German Language (IDS), Mannheim, Germany, 12–16 July 2022.
 
@@ -98,12 +113,16 @@ csl: chicago-author-date.csl
   - [Natural Language Engineering / Natural Language Processing (Cambridge University Press)](https://www.cambridge.org/core/journals/natural-language-processing/)
   - [Semantic Web Journal (by IOS Press)](http://www.semantic-web-journal.net/)
   - [Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip/)
+  - [The International Journal of Lexicography](https://academic.oup.com/ijl), EURALEX, the European Association for Lexicography.
+  - [Lexicography, Journal of ASIALEX](https://utppublishing.com/journal/lexi).
+  - [The Journal of Digital Terminology and Lexicography (JDTL)](https://jdtl.padovauniversitypress.it/)
 
 ### Congresses
 
   - EURALEX (The European Association for Lexicography)
   - GLOBALEX (The Associations of Lexicography in Africa (AfriLex), Asia (AsiaLex), Australasia (AustraLex), Europe (EuraLex) and North America (DSNA))
-
+  - ASIALEX (The Asian Association for Lexicography)
+  
 ### Conferences
 
   - ACL (The Association for Computational Linguistics)

@@ -257,6 +257,12 @@ csl: chicago-author-date.csl
 ## Talks and Presentations (selected) ##
 
 
+- Kabashi, Besim. 2026. [*Better rompts for better results – the precise use of Generative AI in the work of a lexicographer*](https://drive.google.com/file/d/1gf_AO0o2ej4SbjJxcWazcLBYE5keLinG/view), Talk @[ASIALEX 2026](https://www.asialex2026.org/) – The 19th International Conference of the Asian Association for Lexicography (ASIALEX 2026), [“Lexicography: Multidisciplinary Approaches and Collaborations”](https://www.asialex2026.org/program). Yogyakarta, September 11, 2026, National Agency for Language Development and Cultivation, Republic of Indonesia.
+
+- Kabashi, Besim and Ruppert, Michael 2026. [*Detecting Terminological Innovation in German News Texts with a Diachronic Small Language Model*](https://eneoli.eu/wp-content/uploads/2026/06/ENEOLI-NeoTerm26_program.pdf). [NeoTerm 2026 - International Workshop on Terminological Neologism Management](https://www4.uib.no/en/research/research-centres/centre-for-norwegian-professional-language/events/neoterm-2026-international-workshop-on-terminological-neologism-management), University of Bergen, Norway, on 3 September 2026.  
+
+- Kabashi, Besim. 2026. ★ Invited Speech: [*Non-standard Data in Lexicography: In the Past, and Today, in the Generative AI Era*](https://computational-lexico.github.io/NPCLL_2026/Programme.html) @[New Perspectives in Computational Lexicology and Lexicography (NPCL² 2026) From Data to Dictionarie](https://computational-lexico.github.io/NPCLL_2026/?utm_source=chatgpt.com), July 17–18, 2026, Wuhan, China.
+
 - Kabashi, Besim. 2025. [*The foundation of language planning: Integrating terminology strategies – Albanian*](https://www.uibk.ac.at/en/congress/eaft-summit/program/), [The 12th EAFT Terminology Summit 2025](https://www.uibk.ac.at/en/congress/eaft-summit/) – The 12th European Association for Terminology (EAFT) Summit 2025 [*Terminology Planning in Europe*](https://www.uibk.ac.at/en/congress/eaft-summit/program/). November 27–29, 2025. University of Innsbruck, Innsbruck, Austria.
 
 - Kabashi, Besim. 2025. [*Thank you AI …!*], [Semantic Annotation, Dictionaries and AI 2025](http://portlex.usc.gal/eventos/semantic-annotation-dictionaries-and-ai-xornadas-internacionais-na-usc-9-e10-de-outubro-de-2025/) – “Semantic Annotation, Dictionaries and AI”. Co-organizer. October 9–10, 2025. Universidade de Santiago de Compostela, Santiago de Compostela, Spain. 
@@ -282,6 +288,8 @@ csl: chicago-author-date.csl
 - Christian Chiarcos / Besim Kabashi. 2023. [*FrAC (Frequency, Attestation, and Corpus)*](https://www.w3.org/community/ontolex/wiki/W3c_community_day_@_LDK2023#Schedule), [*W3c community day @ LDK2023*]. [*Abstract, Ontology-Lexica Community Group*](https://www.w3.org/community/ontolex/wiki/Frequency,_Attestation_and_Corpus_Information). [LDK 2023](http://2023.ldk-conf.org/) – The 4th Biennial Conference on Language, Data and Knowledge. University of Vienna, Austria, September 12–15, 2023. 
 
 - Kabashi, Besim. 2023. [*The lexis of the Albanian language used in social media: An investigation*](https://korealex.org/44). The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), June 24, 2023.  Yonsei University, Seoul, Republic of Korea.
+
+- [Invited Lecture ★ Academy of Sciences 2023](https://ata.gov.al/2023/07/06/paraqitet-ne-ash-korpusi-me-i-madh-i-numerizuar-i-leksikut-te-shqipes/) (Lectio Magistralis). June, 5, 2023. Academy of Sciences of the Republic of Albania, Tirana, Albania.
 
 - Kabashi, Besim. 2022. [*Lexicographers, corpora and computers*](https://liberalarts.utexas.edu/germanic/events/the-texas-symposium-on-lexicography). Texas Symposium on Lexicography, March 29, 2022. The University of Texas at Austin, USA. 
 

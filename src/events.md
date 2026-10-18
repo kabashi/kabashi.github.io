@@ -87,7 +87,7 @@ The second shared task for “Translation Inference Across Dictionaries” (TIAD
 
 ## Recent participating committees and reviews (selected) ##
 
-- [LREC 2026](https://lrec2026.info/) – The 15th Edition of the International Conference on Language Resources and Evaluation, Palau de Congressos de Palma, Palma, Mallorca, Spain. 11–16 May 2026. [Scientific committee & Reviewer].
+- [EURALEX 2026](https://euralex2026.at/en/) – The XXII EURALEX International Congress: “Lexicography in the Age of AI”. September 29.– October 3. 2026, Austrian Academy of Sciences, Vienna, Austria. [[Scientific committee](https://euralex2026.at/en/scientific-committee/) & Reviewer].
 
 - [LDK 2025](http://2025.ldk-conf.org/) – The 5th Biennial Conference on Language, Data and Knowledge,  University of Naples, Italy, 9-11 September 2025. [[Program committee](http://2025.ldk-conf.org/program-committee/) & Reviewer].
 
@@ -136,18 +136,25 @@ Lingotto Conference Centre - Torino, Italy, 20–25 May 2024. [[Scientific commi
 
 
 
-## Recent talks and presentations (selected) ##
+## Recent talks and presentations (selected) ## 
 
+- Kabashi, Besim. 2026. [Chair: Workshop "Multi-word expressions and phraseology: corpus-based and computer-processed"](https://phraseo-mwe2026.sciencesconf.org/resource/page/id/9), organised by Lian Chen (Laboratoire LLL, University of Orléans & CRLAO–CNRS–INALCO, France) and Besim Kabashi (Eberhard Karls Universität Tübingen, Germany) @[EURALEX 2026](https://euralex2026.at/en/workshops/#multi-word-expressions-and-phraseology-corpus-based-and-computer-processed) – The XXII EURALEX International Congress: “Lexicography in the Age of AI”. September 29.– October 3. 2026, Austrian Academy of Sciences, Vienna, Austria.  
+
+- Kabashi, Besim. 2026. [*Better rompts for better results – the precise use of Generative AI in the work of a lexicographer*](https://drive.google.com/file/d/1gf_AO0o2ej4SbjJxcWazcLBYE5keLinG/view), Talk @[ASIALEX 2026](https://www.asialex2026.org/) – The 19th International Conference of the Asian Association for Lexicography (ASIALEX 2026), [“Lexicography: Multidisciplinary Approaches and Collaborations”](https://www.asialex2026.org/program). Yogyakarta, September 11, 2026, National Agency for Language Development and Cultivation, Indonesia.
+
+- Kabashi, Besim and Ruppert, Michael 2026. [*Detecting Terminological Innovation in German News Texts with a Diachronic Small Language Model*](https://eneoli.eu/wp-content/uploads/2026/06/ENEOLI-NeoTerm26_program.pdf). [NeoTerm 2026 - International Workshop on Terminological Neologism Management](https://www4.uib.no/en/research/research-centres/centre-for-norwegian-professional-language/events/neoterm-2026-international-workshop-on-terminological-neologism-management), University of Bergen, Norway, on 3 September 2026.  
+
+- Kabashi, Besim. 2026. ★ Invited Speech: [*Non-standard Data in Lexicography: In the Past, and Today, in the Generative AI Era*](https://computational-lexico.github.io/NPCLL_2026/Programme.html) @[New Perspectives in Computational Lexicology and Lexicography (NPCL² 2026) From Data to Dictionarie](https://computational-lexico.github.io/NPCLL_2026/?utm_source=chatgpt.com), July 17–18, 2026, Wuhan, China.
 
 - Kabashi, Besim. 2025. [*The foundation of language planning: Integrating terminology strategies – Albanian*](https://www.uibk.ac.at/en/congress/eaft-summit/program/), [The 12th EAFT Terminology Summit 2025](https://www.uibk.ac.at/en/congress/eaft-summit/) – The 12th European Association for Terminology (EAFT) Summit 2025 [*Terminology Planning in Europe*](https://www.uibk.ac.at/en/congress/eaft-summit/program/). November 27–29, 2025. University of Innsbruck, Innsbruck, Austria.
 
-- Kabashi, Besim. 2025. [*Thank you AI …!*], [Semantic Annotation, Dictionaries and AI 2025](http://portlex.usc.gal/eventos/semantic-annotation-dictionaries-and-ai-xornadas-internacionais-na-usc-9-e10-de-outubro-de-2025/) – “Semantic Annotation, Dictionaries and AI”. Co-organizer. October 9–10, 2025. Universidade de Santiago de Compostela, Santiago de Compostela, Spain. 
+- Kabashi, Besim. 2025.★ Invited Speech: [*Thank you AI …!*], [Semantic Annotation, Dictionaries and AI 2025](http://portlex.usc.gal/eventos/semantic-annotation-dictionaries-and-ai-xornadas-internacionais-na-usc-9-e10-de-outubro-de-2025/) – “Semantic Annotation, Dictionaries and AI”. Co-organizer. October 9–10, 2025. Universidade de Santiago de Compostela, Santiago de Compostela, Spain. 
 
 - Kabashi, Besim. 2025. [*Verb-Noun Collocations in the Albanian Language*](https://asialex2025.cn/Program.html), [ASIALEX 2025](https://asialex2025.cn/index.html) – The 18th International Conference of the Asian Association for Lexicography (ASIALEX 2025), [“Traditionality and creativity in the era of AI”](https://asialex2025.cn/Program.html). September 11–13, 2025. Fudan University, Shanghai, China. 
 
 - Kabashi, Besim. 2025. [*The most common features of the Albanian language used in computer-mediated communication – an overview based on corpus data*](https://www.cmc2025.uni-bayreuth.de/pool/dokumente/CMC-2025-Programme-03_09.pdf), [CMC-12 2025](https://www.cmc2025.uni-bayreuth.de/en/) – [The 12th Conference on Computer-Mediated Communication and Social Media Corpora](https://www.cmc2025.uni-bayreuth.de/pool/dokumente/CMC-2025-Programme-03_09.pdf). September 4–5, 2025. University of Bayreuth, Bayreuth, Germany.
 
-- Kabashi, Besim. 2025. [*Soll ich ein Korpus bauen, oder nicht? Kann ich es? Lohnt es sich? Aufbau von Korpora der albanischen Sprache*](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/2025/kabashi/), [Invited Lecture, IDS 2025]. Vortrag im Rahmen des [Linguistischen Forschungskolloquiums](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/) / Lecture at the [Linguistic Research Colloquium](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/). June, 5, 2025. Leibniz-Institut für Deutsche Sprache (IDS). Mannheim, Germany. 
+- Kabashi, Besim. 2025. ★ Invited Speech: [*Soll ich ein Korpus bauen, oder nicht? Kann ich es? Lohnt es sich? Aufbau von Korpora der albanischen Sprache*](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/2025/kabashi/), [Invited Lecture, IDS 2025]. Vortrag im Rahmen des [Linguistischen Forschungskolloquiums](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/) / Lecture at the [Linguistic Research Colloquium](https://www.ids-mannheim.de/aktuell/veranstaltungen/linguistisches-forschungskolloquium/). June, 5, 2025. Leibniz-Institut für Deutsche Sprache (IDS). Mannheim, Germany. 
 
 - Kabashi, Besim. 2024. [*Linguistic corpora and multimodality*](https://eventos.ull.es/121301/detail/humanites-numeriques-5-0-lexicografia-digital.htm). Conferencia plenaria. Humanités numériques 5.0: Lexicografía Digital (HumNum 5.0), Seminario Internacional. October 24, 2024. Universidad de la Laguna, Tenerife, Spain.
 
@@ -162,6 +169,8 @@ Lingotto Conference Centre - Torino, Italy, 20–25 May 2024. [[Scientific commi
 - Khan, Fahad, Maxim Ionov, Christian Chiarcos, Laurent Romary, Gilles Serasset, and Besim Kabashi. 2024. [*On Modelling Corpus Citations in Computational Lexical Resources*](https://lrec-coling-2024.org/). The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation. May 20-25, 2024. Lingotto Conference Centre, Torino, Italy. 
 
 - Christian Chiarcos / Besim Kabashi. 2023. [*FrAC (Frequency, Attestation, and Corpus)*](https://www.w3.org/community/ontolex/wiki/W3c_community_day_@_LDK2023#Schedule),  [*W3c community day @ LDK2023*]. [*Abstract, Ontology-Lexica Community Group*](https://www.w3.org/community/ontolex/wiki/Frequency,_Attestation_and_Corpus_Information). [LDK 2023](http://2023.ldk-conf.org/) – The 4th Biennial Conference on Language, Data and Knowledge. University of Vienna, Austria, September 12–15, 2023. 
+
+- [Invited Lecture ★ Academy of Sciences 2023](https://ata.gov.al/2023/07/06/paraqitet-ne-ash-korpusi-me-i-madh-i-numerizuar-i-leksikut-te-shqipes/) (Lectio Magistralis). June, 5, 2023. Academy of Sciences of the Republic of Albania, Tirana, Albania.
 
 - Kabashi, Besim. 2023. [*The lexis of the Albanian language used in social media: An investigation*](https://korealex.org/conference/asialex23/static/219). The 16th International Conference of the Asian Association for Lexicography (ASIALEX 2023), June 24, 2023.  Yonsei University, Seoul, Republic of Korea.
 
