@@ -113,7 +113,7 @@ csl: chicago-author-date.csl
   - [Natural Language Engineering / Natural Language Processing (Cambridge University Press)](https://www.cambridge.org/core/journals/natural-language-processing/)
   - [Semantic Web Journal (by IOS Press)](http://www.semantic-web-journal.net/)
   - [Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip/)
-  - [The International Journal of Lexicography](https://academic.oup.com/ijl), EURALEX, the European Association for Lexicography.
+  - [The International Journal of Lexicography](https://academic.oup.com/ijl), EURALEX, the European Association for Lexicography, *Oxford Academic*.
   - [Lexicography, Journal of ASIALEX](https://utppublishing.com/journal/lexi).
   - [The Journal of Digital Terminology and Lexicography (JDTL)](https://jdtl.padovauniversitypress.it/)
 

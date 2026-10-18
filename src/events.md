@@ -148,7 +148,7 @@ Lingotto Conference Centre - Torino, Italy, 20–25 May 2024. [[Scientific commi
 
 - Kabashi, Besim. 2025. [*The foundation of language planning: Integrating terminology strategies – Albanian*](https://www.uibk.ac.at/en/congress/eaft-summit/program/), [The 12th EAFT Terminology Summit 2025](https://www.uibk.ac.at/en/congress/eaft-summit/) – The 12th European Association for Terminology (EAFT) Summit 2025 [*Terminology Planning in Europe*](https://www.uibk.ac.at/en/congress/eaft-summit/program/). November 27–29, 2025. University of Innsbruck, Innsbruck, Austria.
 
-- Kabashi, Besim. 2025.★ Invited Speech: [*Thank you AI …!*], [Semantic Annotation, Dictionaries and AI 2025](http://portlex.usc.gal/eventos/semantic-annotation-dictionaries-and-ai-xornadas-internacionais-na-usc-9-e10-de-outubro-de-2025/) – “Semantic Annotation, Dictionaries and AI”. Co-organizer. October 9–10, 2025. Universidade de Santiago de Compostela, Santiago de Compostela, Spain. 
+- Kabashi, Besim. 2025. ★ Invited Speech: [*Thank you AI …!*], [Semantic Annotation, Dictionaries and AI 2025](http://portlex.usc.gal/eventos/semantic-annotation-dictionaries-and-ai-xornadas-internacionais-na-usc-9-e10-de-outubro-de-2025/) – “Semantic Annotation, Dictionaries and AI”. Co-organizer. October 9–10, 2025. Universidade de Santiago de Compostela, Santiago de Compostela, Spain. 
 
 - Kabashi, Besim. 2025. [*Verb-Noun Collocations in the Albanian Language*](https://asialex2025.cn/Program.html), [ASIALEX 2025](https://asialex2025.cn/index.html) – The 18th International Conference of the Asian Association for Lexicography (ASIALEX 2025), [“Traditionality and creativity in the era of AI”](https://asialex2025.cn/Program.html). September 11–13, 2025. Fudan University, Shanghai, China. 
 
